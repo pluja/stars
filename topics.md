@@ -699,7 +699,7 @@
 
 ## cryptocurrency 
 
-- [monumexyz/libmonero](https://github.com/monumexyz/libmonero) - Batteries-included Monero Library
+- [monumexyz/libmonero](https://github.com/monumexyz/libmonero) - Batteries-included¹ Monero Library
 - [trustwallet/wallet-core](https://github.com/trustwallet/wallet-core) - Cross-platform, cross-blockchain wallet library.
 - [monero-ecosystem/monero-python](https://github.com/monero-ecosystem/monero-python) - A comprehensive Python module for handling Monero cryptocurrency
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
@@ -1972,7 +1972,7 @@
 - [monero-ecosystem/monero-ts](https://github.com/monero-ecosystem/monero-ts) - TypeScript library for using Monero
 - [pluja/nerostr](https://github.com/pluja/nerostr) - nostr paid relay, but with monero
 - [sethforprivacy/simple-monerod-docker](https://github.com/sethforprivacy/simple-monerod-docker) - A simple and straightforward Dockerized monerod built from source and exposing standard ports.
-- [monumexyz/libmonero](https://github.com/monumexyz/libmonero) - Batteries-included Monero Library
+- [monumexyz/libmonero](https://github.com/monumexyz/libmonero) - Batteries-included¹ Monero Library
 - [moneropay/moneropay](https://github.com/moneropay/moneropay) - Standalone Monero payment processor for incoming and outgoing transactions. (mirror)
 - [monero-ecosystem/go-monero-rpc-client](https://github.com/monero-ecosystem/go-monero-rpc-client) - A go client for the Monero wallet and daemon RPC
 - [hinto-janai/gupax](https://github.com/hinto-janai/gupax) - GUI Uniting P2Pool And XMRig
@@ -3006,7 +3006,7 @@
 - [nosduco/nforwardauth](https://github.com/nosduco/nforwardauth) - Simple and minimalist forward auth service intended for use with reverse proxies (Traefik, Caddy, nginx, etc)
 - [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, SMTP)
 - [crunchy-labs/crunchy-cli](https://github.com/crunchy-labs/crunchy-cli) - 👇 Command-line downloader for Crunchyroll
-- [monumexyz/libmonero](https://github.com/monumexyz/libmonero) - Batteries-included Monero Library
+- [monumexyz/libmonero](https://github.com/monumexyz/libmonero) - Batteries-included¹ Monero Library
 - [terhechte/Ebou](https://github.com/terhechte/Ebou) - A cross platform Mastodon Client written in Rust
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [rustformers/llm](https://github.com/rustformers/llm) - An ecosystem of Rust libraries for working with large language models
