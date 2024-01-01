@@ -1073,7 +1073,7 @@
 - [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, SMTP)
 - [metasikander/s0str](https://github.com/metasikander/s0str) - A private nostr relay
 - [crunchy-labs/crunchy-cli](https://github.com/crunchy-labs/crunchy-cli) - 👇 Command-line downloader for Crunchyroll
-- [monumexyz/libmonero](https://github.com/monumexyz/libmonero) - Batteries-included Monero Library
+- [monumexyz/libmonero](https://github.com/monumexyz/libmonero) - Batteries-included¹ Monero Library
 - [terhechte/Ebou](https://github.com/terhechte/Ebou) - A cross platform Mastodon Client written in Rust
 - [IgnisDa/ryot](https://github.com/IgnisDa/ryot) - Roll your own tracker!
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
