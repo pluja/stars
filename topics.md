@@ -552,7 +552,7 @@
 
 ## chatgpt 
 
-- [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning: LLaVA (Large Language-and-Vision Assistant) built towards GPT-4V level capabilities.
+- [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
@@ -580,7 +580,7 @@
 - [yinruiqing/pyannote-whisper](https://github.com/yinruiqing/pyannote-whisper) - 
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
-- [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and m
+- [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macr
 
 ## chatgpt-api 
 
@@ -792,7 +792,7 @@
 
 ## database 
 
-- [cursusdb/cursusdb](https://github.com/cursusdb/cursusdb) - CursusDB is an open-source persisted in-memory document oriented database with real time capabilities.
+- [cursusdb/cursusdb](https://github.com/cursusdb/cursusdb) - CursusDB is an open-source in-memory distributed yet persisted document oriented database with real time capabilities.
 - [zombiezen/go-sqlite](https://github.com/zombiezen/go-sqlite) - Low-level Go interface to SQLite 3
 - [orbitinghail/sqlsync](https://github.com/orbitinghail/sqlsync) - SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge.
 - [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Official Golang driver for MongoDB
@@ -977,7 +977,7 @@
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
-- [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and m
+- [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macr
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
@@ -1260,7 +1260,7 @@
 
 - [pluja/maestro](https://github.com/pluja/maestro) - Your terminal assistant powered by AI LLM models. Run it 100% offline, or use OpenAI's models.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [cursusdb/cursusdb](https://github.com/cursusdb/cursusdb) - CursusDB is an open-source persisted in-memory document oriented database with real time capabilities.
+- [cursusdb/cursusdb](https://github.com/cursusdb/cursusdb) - CursusDB is an open-source in-memory distributed yet persisted document oriented database with real time capabilities.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [zombiezen/go-sqlite](https://github.com/zombiezen/go-sqlite) - Low-level Go interface to SQLite 3
 - [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket:
@@ -1317,7 +1317,7 @@
 - [amitshekhariitbhu/go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.
 - [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - [boombuler/barcode](https://github.com/boombuler/barcode) - a barcode creation lib for golang
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - ***ON HOLIDAY UNTIL 2nd JAN 2023! https://github.com/superseriousbusiness/gotosocial/issues/2477 Happy new year!*** Fast, fun, ActivityPub server, powered by Go.
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server.
 - [joho/godotenv](https://github.com/joho/godotenv) - A Go port of Ruby's dotenv library (Loads environment variables from .env files)
 - [u2takey/ffmpeg-go](https://github.com/u2takey/ffmpeg-go) - golang binding for ffmpeg
 - [fatih/color](https://github.com/fatih/color) - Color package for Go (golang)
@@ -1504,7 +1504,7 @@
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [pawelborkar/awesome-repos](https://github.com/pawelborkar/awesome-repos) - A curated list of GitHub Repositories full of FREE Resources.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
-- [Radarr/Radarr](https://github.com/Radarr/Radarr) - A fork of Sonarr to work with movies à la Couchpotato.
+- [Radarr/Radarr](https://github.com/Radarr/Radarr) - Movie organizer/manager for usenet and torrent users.
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace) - Leading free and open-source face recognition system
 - [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
@@ -1933,7 +1933,7 @@
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
-- [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and m
+- [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macr
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
@@ -1947,7 +1947,7 @@
 
 - [terhechte/Ebou](https://github.com/terhechte/Ebou) - A cross platform Mastodon Client written in Rust
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - ***ON HOLIDAY UNTIL 2nd JAN 2023! https://github.com/superseriousbusiness/gotosocial/issues/2477 Happy new year!*** Fast, fun, ActivityPub server, powered by Go.
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server.
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 
 ## material-design 
@@ -2123,7 +2123,7 @@
 
 ## nosql 
 
-- [cursusdb/cursusdb](https://github.com/cursusdb/cursusdb) - CursusDB is an open-source persisted in-memory document oriented database with real time capabilities.
+- [cursusdb/cursusdb](https://github.com/cursusdb/cursusdb) - CursusDB is an open-source in-memory distributed yet persisted document oriented database with real time capabilities.
 
 ## npm 
 
@@ -2145,7 +2145,7 @@
 
 - [FossifyOrg/Gallery](https://github.com/FossifyOrg/Gallery) - Browse your memories without any interruptions with this photo and video gallery
 - [FossifyOrg/Calendar](https://github.com/FossifyOrg/Calendar) - A simple calendar with events, customizable widgets and no ads.
-- [cursusdb/cursusdb](https://github.com/cursusdb/cursusdb) - CursusDB is an open-source persisted in-memory document oriented database with real time capabilities.
+- [cursusdb/cursusdb](https://github.com/cursusdb/cursusdb) - CursusDB is an open-source in-memory distributed yet persisted document oriented database with real time capabilities.
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸 Web apps in pure Python 🐍
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
@@ -2203,7 +2203,7 @@
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [UdaraJay/Pile](https://github.com/UdaraJay/Pile) - Desktop app for digital journaling.
 - [Helium314/openboard](https://github.com/Helium314/openboard) - 
-- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell. Join our Discord community https://discord.gg/myshell and select the Developer role upon joining to gain exclusive access to our developer-only channel! Don't miss ou
+- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
 - [jliljebl/flowblade](https://github.com/jliljebl/flowblade) - Video Editor for Linux
 - [jianchang512/clone-voice](https://github.com/jianchang512/clone-voice) - A sound cloning tool with a web interface, using your voice or any sound to record audio / 一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频
 - [davidmerfield/Blot](https://github.com/davidmerfield/Blot) - Turns a folder into a blog
@@ -3421,7 +3421,7 @@
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [sturdy-dev/sturdy](https://github.com/sturdy-dev/sturdy) - 🐥 Sturdy is an open-source, real-time, version control platform for startups (https://getsturdy.com)
 - [WDaan/VueTorrent](https://github.com/WDaan/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
-- [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and m
+- [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macr
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
