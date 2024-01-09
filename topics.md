@@ -2232,7 +2232,7 @@
 - [hinterdupfinger/obsidian-ollama](https://github.com/hinterdupfinger/obsidian-ollama) - 
 - [pbelcak/UltraFastBERT](https://github.com/pbelcak/UltraFastBERT) - The repository for the code of the UltraFastBERT paper
 - [tldraw/make-real-starter](https://github.com/tldraw/make-real-starter) - Make it real
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React)
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [pytorch-labs/segment-anything-fast](https://github.com/pytorch-labs/segment-anything-fast) - A batched offline inference oriented version of segment-anything
 - [BorisBrock/Sunalyzer](https://github.com/BorisBrock/Sunalyzer) - A free and open source solar monitoring system.
 - [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint) - Go-blueprint allows users to spin up a quick Go project using a popular framework
