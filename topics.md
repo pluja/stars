@@ -300,7 +300,7 @@
 - [moritz-weber/mucke](https://github.com/moritz-weber/mucke) - mucke - android music player
 - [keshav-space/safenotes](https://github.com/keshav-space/safenotes) - Safe Notes is a security project aimed at providing an encrypted, private note manager that works locally and protects notes from various threat actors.
 - [z-huang/InnerTune](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
-- [ente-io/auth](https://github.com/ente-io/auth) - Open source 2FA app for Android, iOS and the web, with free end-to-end encrypted backups
+- [ente-io/auth](https://github.com/ente-io/auth) - 2FA app for Android, iOS and web, with free end-to-end encrypted backup and sync
 - [KoalaSat/nostros](https://github.com/KoalaSat/nostros) - Nostr client on Android
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android App Updates Directly From the Source.
 - [you-apps/RecordYou](https://github.com/you-apps/RecordYou) - Privacy focused recorder app built with MD3
@@ -649,7 +649,7 @@
 
 ## code 
 
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas SDK.
 - [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
 - [mauriciabad/custom-easings-with-keyframes](https://github.com/mauriciabad/custom-easings-with-keyframes) - 🏃 Make custom non-cubic-bezier easings using keyframes and animations with this online css code generator.
 
@@ -1083,7 +1083,7 @@
 - [frnandu/yana](https://github.com/frnandu/yana) - Yet Another Nostr Application
 - [moritz-weber/mucke](https://github.com/moritz-weber/mucke) - mucke - android music player
 - [keshav-space/safenotes](https://github.com/keshav-space/safenotes) - Safe Notes is a security project aimed at providing an encrypted, private note manager that works locally and protects notes from various threat actors.
-- [ente-io/auth](https://github.com/ente-io/auth) - Open source 2FA app for Android, iOS and the web, with free end-to-end encrypted backups
+- [ente-io/auth](https://github.com/ente-io/auth) - 2FA app for Android, iOS and web, with free end-to-end encrypted backup and sync
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
@@ -1439,7 +1439,7 @@
 - [jadolg/rocketchat_API](https://github.com/jadolg/rocketchat_API) - Python API wrapper for Rocket.Chat
 - [keshav-space/safenotes](https://github.com/keshav-space/safenotes) - Safe Notes is a security project aimed at providing an encrypted, private note manager that works locally and protects notes from various threat actors.
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
-- [ente-io/auth](https://github.com/ente-io/auth) - Open source 2FA app for Android, iOS and the web, with free end-to-end encrypted backups
+- [ente-io/auth](https://github.com/ente-io/auth) - 2FA app for Android, iOS and web, with free end-to-end encrypted backup and sync
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
 - [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
 - [heyxyz/hey](https://github.com/heyxyz/hey) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
@@ -1599,7 +1599,7 @@
 
 - [balzack/databag](https://github.com/balzack/databag) - A tiny selfhosted federated messenger for the decentralized web.
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
-- [ente-io/auth](https://github.com/ente-io/auth) - Open source 2FA app for Android, iOS and the web, with free end-to-end encrypted backups
+- [ente-io/auth](https://github.com/ente-io/auth) - 2FA app for Android, iOS and web, with free end-to-end encrypted backup and sync
 - [KoalaSat/nostros](https://github.com/KoalaSat/nostros) - Nostr client on Android
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
@@ -2163,7 +2163,7 @@
 - [sturdy-dev/sturdy](https://github.com/sturdy-dev/sturdy) - 🐥 Sturdy is an open-source, real-time, version control platform for startups (https://getsturdy.com)
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
-- [ente-io/auth](https://github.com/ente-io/auth) - Open source 2FA app for Android, iOS and the web, with free end-to-end encrypted backups
+- [ente-io/auth](https://github.com/ente-io/auth) - 2FA app for Android, iOS and web, with free end-to-end encrypted backup and sync
 - [trytouca/trytouca](https://github.com/trytouca/trytouca) - Continuous Regression Testing for Engineering Teams
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and security.
@@ -3231,7 +3231,7 @@
 
 ## sketch 
 
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas SDK.
 
 ## software 
 
