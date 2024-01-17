@@ -125,6 +125,8 @@
 
 ## C++ 
 
+- [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your 
+- [Akylas/OSS-DocumentScanner](https://github.com/Akylas/OSS-DocumentScanner) - Android document document scanning app
 - [stenzek/duckstation](https://github.com/stenzek/duckstation) - Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64
 - [janhq/nitro](https://github.com/janhq/nitro) - A fast, lightweight, embeddable inference engine to supercharge your apps with local AI.  OpenAI-compatible API
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
@@ -347,7 +349,7 @@
 - [nbd-wtf/go-nostr](https://github.com/nbd-wtf/go-nostr) - Nostr library for Golang
 - [m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Run your own GPTChat Telegram bot, with a single command!
 - [boombuler/barcode](https://github.com/boombuler/barcode) - a barcode creation lib for golang
-- [monero-ecosystem/go-monero-rpc-client](https://github.com/monero-ecosystem/go-monero-rpc-client) - A go client for the Monero wallet and daemon RPC
+- [omani/go-monero-rpc-client](https://github.com/omani/go-monero-rpc-client) - A go client for the Monero wallet and daemon RPC
 - [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server.
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 - [joho/godotenv](https://github.com/joho/godotenv) - A Go port of Ruby's dotenv library (Loads environment variables from .env files)
