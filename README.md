@@ -305,6 +305,7 @@
 - [pluja/blogo](https://github.com/pluja/blogo) - A lightweight blogging engine that backs itself up to Nostr!
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
+- [openziti/zrok](https://github.com/openziti/zrok) - Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
 - [wader/goutubedl](https://github.com/wader/goutubedl) - Go wrapper for youtube-dl
 - [lesismal/nbio](https://github.com/lesismal/nbio) - Pure Go 1000k+ connections solution, support tls/http1.x/websocket and basically compatible with net/http, with high-performance and low memory cost, non-blocking, event-driven, easy-to-use.
 - [nedpals/supabase-go](https://github.com/nedpals/supabase-go) - Unofficial Supabase client library for Go.
@@ -856,7 +857,6 @@
 - [eschluntz/compress](https://github.com/eschluntz/compress) - Text compression for generating keyboard expansions
 - [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - LLMs build upon Evol Insturct: WizardLM, WizardCoder, WizardMath
 - [facebookresearch/codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models
-- [openziti/zrok](https://github.com/openziti/zrok) - Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
 - [facefusion/facefusion](https://github.com/facefusion/facefusion) - Next generation face swapper and enhancer
 - [cyberofficial/Synthalingua](https://github.com/cyberofficial/Synthalingua) - Synthalingua - Real Time Translation
 - [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp
@@ -865,7 +865,6 @@
 - [tubearchivist/tubearchivist-jf](https://github.com/tubearchivist/tubearchivist-jf) - Tube Archivist Jellyfin Integration
 - [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
 - [techouse/sqlite3-to-mysql](https://github.com/techouse/sqlite3-to-mysql) - Transfer data from SQLite to MySQL
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is an open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, sa
 - [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI-powered Junior Developer for small features and bug fixes.
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
@@ -1176,7 +1175,7 @@
 - [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server that will automatically download selected version at startup
 - [ianthehenry/sd](https://github.com/ianthehenry/sd) - a cozy nest for your scripts
 - [Antynea/grub-btrfs](https://github.com/Antynea/grub-btrfs) - Include btrfs snapshots at boot options. (Grub menu)
-- [monero-ecosystem/PiNode-XMR](https://github.com/monero-ecosystem/PiNode-XMR) - Monero Node for Single Board Computers with Web Interface and additional tools pre-configured. Self Installing.
+- [shermand100/PiNodeXMR](https://github.com/shermand100/PiNodeXMR) - Monero Node for Single Board Computers with Web Interface and additional tools pre-configured. Self Installing.
 - [r3nor/mullvad-tailscale](https://github.com/r3nor/mullvad-tailscale) - Use Mullvad VPN along with Tailscale and/or Zerotier
 - [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
 - [xavier-hernandez/goaccess-for-nginxproxymanager](https://github.com/xavier-hernandez/goaccess-for-nginxproxymanager) - GoAccess Docker Image for Nginx Proxy Manager and more...
@@ -1272,6 +1271,7 @@
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [nodetec/blogstack](https://github.com/nodetec/blogstack) - 📡 Decentralized blogs over relay using nostr w/ ⚡ lightning tips
 - [verbiricha/habla.news](https://github.com/verbiricha/habla.news) - 
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is an open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM
 - [menhera-org/TabArray](https://github.com/menhera-org/TabArray) - Chrome-like tab groups using private and isolated containers: The ultimate tab manager and groups for Firefox.
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [NostrChat/NostrChat](https://github.com/NostrChat/NostrChat) - NostrChat is one of the most decentralized chat apps ever built.
