@@ -1155,7 +1155,7 @@
 ## game-engine 
 
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
-- [minetest/minetest](https://github.com/minetest/minetest) - Minetest is an open source voxel game engine with easy modding and game creation
+- [minetest/minetest](https://github.com/minetest/minetest) - Minetest is an open source voxel game-creation platform with easy modding and game creation
 
 ## gamedev 
 
@@ -1278,6 +1278,7 @@
 
 ## golang 
 
+- [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
 - [pluja/maestro](https://github.com/pluja/maestro) - Your terminal assistant powered by AI LLM models. Run it 100% offline, or use OpenAI's models.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [cursusdb/cursusdb](https://github.com/cursusdb/cursusdb) - CursusDB is an open-source distributed in-memory yet persisted document oriented database system with real time capabilities.
@@ -1479,7 +1480,7 @@
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
-- [minetest/minetest](https://github.com/minetest/minetest) - Minetest is an open source voxel game engine with easy modding and game creation
+- [minetest/minetest](https://github.com/minetest/minetest) - Minetest is an open source voxel game-creation platform with easy modding and game creation
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 - [swisskyrepo/SSRFmap](https://github.com/swisskyrepo/SSRFmap) - Automatic SSRF fuzzer and exploitation tool
@@ -1881,7 +1882,7 @@
 ## lua 
 
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
-- [minetest/minetest](https://github.com/minetest/minetest) - Minetest is an open source voxel game engine with easy modding and game creation
+- [minetest/minetest](https://github.com/minetest/minetest) - Minetest is an open source voxel game-creation platform with easy modding and game creation
 - [fishfolk/jumpy](https://github.com/fishfolk/jumpy) - Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶
 - [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
 
@@ -2034,6 +2035,7 @@
 
 ## monitoring 
 
+- [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 - [ccfos/nightingale](https://github.com/ccfos/nightingale) - An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.
@@ -2175,6 +2177,7 @@
 
 ## open-source 
 
+- [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
 - [UrAvgCode/Chooser](https://github.com/UrAvgCode/Chooser) - Android finger picker app
 - [FossifyOrg/Gallery](https://github.com/FossifyOrg/Gallery) - Browse your memories without any interruptions with this photo and video gallery
 - [FossifyOrg/Calendar](https://github.com/FossifyOrg/Calendar) - A simple calendar with events, customizable widgets and no ads.
@@ -2930,7 +2933,7 @@
 - [snakers4/silero-models](https://github.com/snakers4/silero-models) - Silero Models: pre-trained speech-to-text, text-to-speech and text-enhancement models made embarrassingly simple
 - [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
 - [enhuiz/vall-e](https://github.com/enhuiz/vall-e) - An unofficial PyTorch implementation of the audio LM VALL-E
-- [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
+- [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
@@ -3178,6 +3181,7 @@
 
 ## self-hosted 
 
+- [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
@@ -3407,6 +3411,7 @@
 
 ## typescript 
 
+- [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
 - [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - Web application providing an intuitive user experience to databases.
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
