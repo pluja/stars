@@ -568,7 +568,7 @@
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
 - [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers.
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [smol-ai/GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
@@ -1227,6 +1227,7 @@
 - [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
 - [pluja/blogo](https://github.com/pluja/blogo) - A lightweight blogging engine that backs itself up to Nostr!
 - [wader/goutubedl](https://github.com/wader/goutubedl) - Go wrapper for youtube-dl and yt-dlp
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [mmcdole/gofeed](https://github.com/mmcdole/gofeed) - Parse RSS, Atom and JSON feeds in Go
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
@@ -1431,7 +1432,7 @@
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
-- [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Create AI-Driven Apps like Assembling Blocks
+- [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Low-code platform allows you to build AI-driven business apps like assembling blocks, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports Pos
 - [nikoksr/notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
 - [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 - [fatih/vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
@@ -1477,7 +1478,7 @@
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Every app needs authentication and authorization. Logto is an Auth0 alternative designed for modern apps and SaaS products.
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure that works universally.
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
@@ -1677,7 +1678,7 @@
 - [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
 - [nuejs/nue](https://github.com/nuejs/nue) - The Content First Web Framework
 - [woodser/monero-ts](https://github.com/woodser/monero-ts) - TypeScript library for using Monero
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers.
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
 - [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。&lt;&lt;Rust语言圣经&gt;&gt;拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / B
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
@@ -1692,7 +1693,7 @@
 - [snuffyDev/Beatbump](https://github.com/snuffyDev/Beatbump) - Alternative YouTube Music frontend built with Svelte/SvelteKit 🎧
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [flarum/framework](https://github.com/flarum/framework) - Simple forum software for building great communities.
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Every app needs authentication and authorization. Logto is an Auth0 alternative designed for modern apps and SaaS products.
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure that works universally.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [sh-dv/hat.sh](https://github.com/sh-dv/hat.sh) - Encrypt and Decrypt files securely in your browser.
@@ -2129,7 +2130,7 @@
 ## node 
 
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Every app needs authentication and authorization. Logto is an Auth0 alternative designed for modern apps and SaaS products.
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure that works universally.
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [blenderskool/blaze](https://github.com/blenderskool/blaze) - ⚡ File sharing progressive web app built using WebTorrent and WebSockets
@@ -2140,7 +2141,7 @@
 - [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension to save a faithful copy of an entire web page in a self-extracting ZIP file
 - [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
 - [woodser/monero-ts](https://github.com/woodser/monero-ts) - TypeScript library for using Monero
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers.
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [rust-nostr/nostr](https://github.com/rust-nostr/nostr) - Nostr protocol implementation, SDK and FFI
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
@@ -2720,7 +2721,7 @@
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Every app needs authentication and authorization. Logto is an Auth0 alternative designed for modern apps and SaaS products.
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure that works universally.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
@@ -2827,7 +2828,7 @@
 - [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - Web application providing an intuitive user experience to databases.
 - [netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice) - EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸 Web apps in pure Python 🐍
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers.
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.
 - [MattMoony/figaro](https://github.com/MattMoony/figaro) - Real-time voice-changer for voice-chat, etc. Will support many different voice-filters and features in the future. 🎵
 - [lyrebird-voice-changer/lyrebird](https://github.com/lyrebird-voice-changer/lyrebird) - 🦜 Simple and powerful voice changer for Linux, written with Python & GTK
@@ -2974,7 +2975,7 @@
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [v0l/snort](https://github.com/v0l/snort) - Feature packed nostr web UI, Mirror of https://git.v0l.io/Kieran/snort
-- [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Create AI-Driven Apps like Assembling Blocks
+- [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Low-code platform allows you to build AI-driven business apps like assembling blocks, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports Pos
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
@@ -3195,7 +3196,7 @@
 - [posativ/isso](https://github.com/posativ/isso) - a Disqus alternative
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
-- [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Create AI-Driven Apps like Assembling Blocks
+- [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Low-code platform allows you to build AI-driven business apps like assembling blocks, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports Pos
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
@@ -3426,7 +3427,7 @@
 - [clickvote/clickvote](https://github.com/clickvote/clickvote) - Add upvotes, likes, and reviews to any context ⭐️
 - [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
 - [woodser/monero-ts](https://github.com/woodser/monero-ts) - TypeScript library for using Monero
-- [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Create AI-Driven Apps like Assembling Blocks
+- [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Low-code platform allows you to build AI-driven business apps like assembling blocks, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports Pos
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
@@ -3447,7 +3448,7 @@
 - [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages and articles.
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Every app needs authentication and authorization. Logto is an Auth0 alternative designed for modern apps and SaaS products.
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure that works universally.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [ViewTube/viewtube](https://github.com/ViewTube/viewtube) - ▶️ ViewTube: The open source, privacy-conscious way to enjoy your favorite YouTube content. Docs: https://viewtube.wiki, Status: https://uptime.m-o.dev/status
