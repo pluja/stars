@@ -204,6 +204,7 @@
 
 ## Dart 
 
+- [j-fbriere/squawker](https://github.com/j-fbriere/squawker) - An open-source anonymous Twitter/X client
 - [Mosc/Glider](https://github.com/Mosc/Glider) - Glider is an opinionated Hacker News client. Ad-free, open-source, no-nonsense.
 - [lamarios/clipious](https://github.com/lamarios/clipious) - Invidious client for android
 - [frnandu/yana](https://github.com/frnandu/yana) - Yet Another Nostr Application
