@@ -2256,6 +2256,7 @@
 
 ## others 
 
+- [j-fbriere/squawker](https://github.com/j-fbriere/squawker) - An open-source anonymous Twitter/X client
 - [dubverse-ai/MahaTTS](https://github.com/dubverse-ai/MahaTTS) - 
 - [Luke-lwz/kaboom](https://github.com/Luke-lwz/kaboom) - Adaptation of the card game Two Rooms and a Boom
 - [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model
