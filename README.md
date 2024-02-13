@@ -205,7 +205,7 @@
 
 ## Dart 
 
-- [j-fbriere/squawker](https://github.com/j-fbriere/squawker) - An open-source anonymous Twitter/X client
+- [j-fbriere/squawker](https://github.com/j-fbriere/squawker) - An open-source privacy oriented Twitter/X client
 - [Mosc/Glider](https://github.com/Mosc/Glider) - Glider is an opinionated Hacker News client. Ad-free, open-source, no-nonsense.
 - [lamarios/clipious](https://github.com/lamarios/clipious) - Invidious client for android
 - [frnandu/yana](https://github.com/frnandu/yana) - Yet Another Nostr Application
@@ -239,7 +239,7 @@
 ## Elixir 
 
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
-- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero trust access platform that supports OIDC authentication, 2FA, user/group sync, and requires zero firewall configuration.
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero trust access platform that supports OIDC authentication, user/group sync, and requires zero firewall configuration.
 
 ## Go 
 
@@ -810,6 +810,8 @@
 
 ## Python 
 
+- [RoboSats/robosats](https://github.com/RoboSats/robosats) - A simple and private bitcoin exchange
+- [IdreesInc/Miracode](https://github.com/IdreesInc/Miracode) - A sharp, readable, vector-y version of Monocraft, the programming font based on Minecraft
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
 - [dubverse-ai/MahaTTS](https://github.com/dubverse-ai/MahaTTS) - 
