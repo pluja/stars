@@ -741,7 +741,7 @@
 - [andreberg/Meslo-Font](https://github.com/andreberg/Meslo-Font) - Customized version of Apple's Menlo font. Great monospaced font for development work. Should also work with the Windows Console (see Wiki for Windows infos).
 - [VainF/Awesome-Anything](https://github.com/VainF/Awesome-Anything) - General AI methods for Anything: AnyObject, AnyGeneration, AnyModel, AnyTask, AnyX
 - [openlm-research/open_llama](https://github.com/openlm-research/open_llama) - OpenLLaMA, a permissively licensed open source reproduction of Meta AI’s LLaMA 7B trained on the RedPajama dataset
-- [imaurer/awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm) - Collection of LLM resources that can be used to build products you can "own" or to perform reproducible research.
+- [imaurer/awesome-llm-json](https://github.com/imaurer/awesome-llm-json) - Resource list for generating JSON using LLMs via function calling, tools, CFG. Libraries, Models, Notebooks, etc.
 - [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) - nostr.net - awesome-nostr is a collection of projects and resources built on nostr to help developers and users find new things
 - [nostr-protocol/nips](https://github.com/nostr-protocol/nips) - Nostr Implementation Possibilities
 - [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
@@ -828,6 +828,7 @@
 
 ## Python 
 
+- [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) - 🤖 A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [vaphes/pocketbase](https://github.com/vaphes/pocketbase) - PocketBase client SDK for python
 - [mherrmann/helium](https://github.com/mherrmann/helium) - Lighter web automation for Python
@@ -874,7 +875,7 @@
 - [01-ai/Yi](https://github.com/01-ai/Yi) - A series of large language models trained from scratch by developers @01-ai
 - [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and add dubbing.         将视频从一种语言翻译为另一种语言，并添加配音
 - [huggingface/distil-whisper](https://github.com/huggingface/distil-whisper) - Distilled variant of Whisper for speech recognition. 6x faster, 50% smaller, within 1% word error rate.
-- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸 Web apps in pure Python 🐍
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - Web apps in pure Python.
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 - [Audio-AGI/AudioSep](https://github.com/Audio-AGI/AudioSep) - Official implementation of "Separate Anything You Describe"
 - [isso-comments/isso](https://github.com/isso-comments/isso) - a Disqus alternative
@@ -1267,6 +1268,7 @@
 
 ## TypeScript 
 
+- [msgbyte/tailchat](https://github.com/msgbyte/tailchat) - Next generation noIM application in your own workspace, not only another Slack/Discord/Rocket.chat
 - [teableio/teable](https://github.com/teableio/teable) - ✨ A Super fast, Real-time, Professional, Developer friendly, No code database
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [devrsi0n/chirpy](https://github.com/devrsi0n/chirpy) - 💬 A privacy-friendly and customizable Disqus (comment system) alternate. 注重隐私保护和定制化的评论系统。
@@ -1415,6 +1417,7 @@
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [mattwilson1024/google-photos-exif](https://github.com/mattwilson1024/google-photos-exif) - A tool to populate missing `DateTimeOriginal` EXIF metadata in Google Photos takeout, using Google's JSON metadata.
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
 - [element-hq/element-web](https://github.com/element-hq/element-web) - A glossy Matrix collaboration client for the web.
 - [DimensionDev/Maskbook](https://github.com/DimensionDev/Maskbook) - The portal to the new, open Internet. ([I:b])
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
@@ -1444,7 +1447,6 @@
 - [baggachipz/tinylist](https://github.com/baggachipz/tinylist) - Note-keeping/checklist application for use across devices, while respecting privacy.
 - [mauriciabad/custom-easings-with-keyframes](https://github.com/mauriciabad/custom-easings-with-keyframes) - 🏃 Make custom non-cubic-bezier easing functions using the linear() easing function or keyframes and animations with this online css code generator.
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
 
 ## Zig 
 
