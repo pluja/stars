@@ -2342,6 +2342,7 @@
 
 ## others 
 
+- [janmojzis/tinyssh](https://github.com/janmojzis/tinyssh) - TinySSH is small server (less than 100000 words of code)
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager.
 - [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
