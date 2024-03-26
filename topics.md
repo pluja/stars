@@ -645,6 +645,7 @@
 
 ## cli 
 
+- [ceritium/flatito](https://github.com/ceritium/flatito) - Grep for YAML and JSON files
 - [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
@@ -1507,7 +1508,7 @@
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [allegro/bigcache](https://github.com/allegro/bigcache) - Efficient cache for gigabytes of data written in Go.
-- [crunchy-labs/crunchy-cli](https://github.com/crunchy-labs/crunchy-cli) - 👇 Command-line downloader for Crunchyroll
+- [crunchy-labs/crunchy-cli](https://github.com/crunchy-labs/crunchy-cli) - [DISCONTINUED] 👇 Command-line downloader for Crunchyroll
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [IgnisDa/ryot](https://github.com/IgnisDa/ryot) - Roll your own tracker!
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
@@ -1803,6 +1804,7 @@
 
 ## json 
 
+- [ceritium/flatito](https://github.com/ceritium/flatito) - Grep for YAML and JSON files
 - [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq
 - [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
@@ -2342,6 +2344,8 @@
 
 ## others 
 
+- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
+- [language-transfer/lt-app](https://github.com/language-transfer/lt-app) - React Native application for Language Transfer
 - [janmojzis/tinyssh](https://github.com/janmojzis/tinyssh) - TinySSH is small server (less than 100000 words of code)
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager.
@@ -3221,7 +3225,7 @@
 - [mCaptcha/mCaptcha](https://github.com/mCaptcha/mCaptcha) - A no-nonsense CAPTCHA system with seamless UX | Backend component
 - [nosduco/nforwardauth](https://github.com/nosduco/nforwardauth) - Simple and minimalist forward auth service intended for use with reverse proxies (Traefik, Caddy, nginx, etc)
 - [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, SMTP)
-- [crunchy-labs/crunchy-cli](https://github.com/crunchy-labs/crunchy-cli) - 👇 Command-line downloader for Crunchyroll
+- [crunchy-labs/crunchy-cli](https://github.com/crunchy-labs/crunchy-cli) - [DISCONTINUED] 👇 Command-line downloader for Crunchyroll
 - [monumexyz/libmonero](https://github.com/monumexyz/libmonero) - Batteries-included¹ Monero Library
 - [terhechte/Ebou](https://github.com/terhechte/Ebou) - A cross platform Mastodon Client written in Rust
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
