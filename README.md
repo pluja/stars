@@ -1272,6 +1272,7 @@
 
 ## TypeScript 
 
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - 😼 The AI-native, open source alternative to Tines / Splunk SOAR.
 - [language-transfer/lt-app](https://github.com/language-transfer/lt-app) - React Native application for Language Transfer
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [msgbyte/tailchat](https://github.com/msgbyte/tailchat) - Next generation noIM application in your own workspace, not only another Slack/Discord/Rocket.chat
