@@ -339,7 +339,7 @@
 - [canostrical/blogsync](https://github.com/canostrical/blogsync) - Sync long-form Nostr notes to a local folder.
 - [mmcdole/gofeed](https://github.com/mmcdole/gofeed) - Parse RSS, Atom and JSON feeds in Go
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
 - [xanzy/go-gitlab](https://github.com/xanzy/go-gitlab) - GitLab Go SDK
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [gorse-io/gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine
@@ -698,7 +698,7 @@
 
 - [Droid-ify/client](https://github.com/Droid-ify/client) - F-Droid client with Material UI.
 - [fast4x/RiMusic](https://github.com/fast4x/RiMusic) - A multilingual Android application for streaming music from YouTube Music.
-- [appstome/timetome-app](https://github.com/appstome/timetome-app) - timeto.me - Personal Productivity Tools
+- [medvedev91/timetome](https://github.com/medvedev91/timetome) - timeto.me - Personal Productivity Tools
 - [UrAvgCode/Chooser](https://github.com/UrAvgCode/Chooser) - Android finger picker app
 - [FossifyOrg/Gallery](https://github.com/FossifyOrg/Gallery) - Browse your memories without any interruptions with this photo and video gallery
 - [FossifyOrg/Calendar](https://github.com/FossifyOrg/Calendar) - A simple calendar with events, customizable widgets and no ads.
