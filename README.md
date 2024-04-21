@@ -698,7 +698,7 @@
 
 - [Droid-ify/client](https://github.com/Droid-ify/client) - F-Droid client with Material UI.
 - [fast4x/RiMusic](https://github.com/fast4x/RiMusic) - A multilingual Android application for streaming music from YouTube Music.
-- [medvedev91/timetome](https://github.com/medvedev91/timetome) - timeto.me - Personal Productivity Tools
+- [Medvedev91/timetome](https://github.com/Medvedev91/timetome) - timeto.me - Personal Productivity Tools
 - [UrAvgCode/Chooser](https://github.com/UrAvgCode/Chooser) - Android finger picker app
 - [FossifyOrg/Gallery](https://github.com/FossifyOrg/Gallery) - Browse your memories without any interruptions with this photo and video gallery
 - [FossifyOrg/Calendar](https://github.com/FossifyOrg/Calendar) - A simple calendar with events, customizable widgets and no ads.
