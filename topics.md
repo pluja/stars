@@ -60,6 +60,7 @@
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
+- [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
 - [education](#education)
 - [electron](#electron)
@@ -784,6 +785,7 @@
 
 ## csharp 
 
+- [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
 - [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
 - [Ruben2776/PicView](https://github.com/Ruben2776/PicView) - Fast, free and customizable image viewer for Windows 10 and 11.
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
@@ -1024,9 +1026,15 @@
 - [gethyas/doks](https://github.com/gethyas/doks) - Everything you need to build a stellar documentation website. Fast, accessible, and easy to use.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 
+## dotfiles 
+
+- [eudoxia0/dotfiles](https://github.com/eudoxia0/dotfiles) - Not guaranteed to work outside of My Machine™
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
+
 ## dotnet 
 
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
+- [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
 - [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
 - [Ruben2776/PicView](https://github.com/Ruben2776/PicView) - Fast, free and customizable image viewer for Windows 10 and 11.
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
