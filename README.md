@@ -121,7 +121,7 @@
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [Radarr/Radarr](https://github.com/Radarr/Radarr) - Movie organizer/manager for usenet and torrent users.
-- [zkSNACKs/WalletWasabi](https://github.com/zkSNACKs/WalletWasabi) - Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux, and Mac.
+- [WalletWasabi/WalletWasabi](https://github.com/WalletWasabi/WalletWasabi) - Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux, and Mac.
 - [DomDom3333/StupidCompress](https://github.com/DomDom3333/StupidCompress) - Super-Fast Compression tool for sinlge files under 2GB. Compresses single files into .png.
 - [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver) - Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.
 
@@ -575,7 +575,7 @@
 - [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension to save a faithful copy of an entire web page in a self-extracting ZIP file
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [balzack/databag](https://github.com/balzack/databag) - fast & lightweight self-hosted messenger
-- [nuejs/nue](https://github.com/nuejs/nue) - The Content First Web Framework
+- [nuejs/nue](https://github.com/nuejs/nue) - A content first web framework. Perfect for UX developers.
 - [ArchGPT/insomnium](https://github.com/ArchGPT/insomnium) - Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia
 - [mailvelope/mailvelope](https://github.com/mailvelope/mailvelope) - Browser extension for OpenPGP encryption with Webmail
 - [orbitdb/orbitdb](https://github.com/orbitdb/orbitdb) - Peer-to-Peer Databases for the Decentralized Web
@@ -1340,7 +1340,7 @@
 - [abi/secret-llama](https://github.com/abi/secret-llama) - Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3.
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
-- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl, search and extract with a single API.
+- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [dream-num/univer](https://github.com/dream-num/univer) - Univer is an open-source alternative to Google Sheets, Slides, and Docs
 - [jina-ai/reader](https://github.com/jina-ai/reader) - Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
 - [Peach2Peach/peach-app](https://github.com/Peach2Peach/peach-app) - Frontend Code for Peach App
