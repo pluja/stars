@@ -2370,6 +2370,7 @@
 
 ## nodejs 
 
+- [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue
 - [miraclx/freyr-js](https://github.com/miraclx/freyr-js) - A tool for downloading songs from music streaming services like Spotify and Apple Music.
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
@@ -2497,7 +2498,7 @@
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [cathugger/mkp224o](https://github.com/cathugger/mkp224o) - vanity address generator for tor onion v3 (ed25519) hidden services
 - [obhq/jailbreak-11](https://github.com/obhq/jailbreak-11) - Experimental PS4 jailbreak for 11.00 and lower
-- [TagStudioDev/TagStudio](https://github.com/TagStudioDev/TagStudio) - A User-Focused Photo & Document Management System
+- [TagStudioDev/TagStudio](https://github.com/TagStudioDev/TagStudio) - A User-Focused Photo & File Management System
 - [dream-num/univer](https://github.com/dream-num/univer) - Univer is an open-source alternative to Google Sheets, Slides, and Docs
 - [huggingface/parler-tts](https://github.com/huggingface/parler-tts) - Inference and training library for high-quality TTS models.
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
@@ -3115,6 +3116,7 @@
 
 ## python 
 
+- [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [Kozea/Radicale](https://github.com/Kozea/Radicale) - A simple CalDAV (calendar) and CardDAV (contact) server.
 - [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and
 - [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
@@ -3269,6 +3271,7 @@
 
 ## raspberry-pi 
 
+- [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [balzack/databag](https://github.com/balzack/databag) - fast & lightweight self-hosted messenger
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
 - [bpatrik/pigallery2](https://github.com/bpatrik/pigallery2) - A fast directory-first photo gallery website, with rich UI,  optimized for running on low resource servers (especially on raspberry pi)
@@ -3834,6 +3837,7 @@
 
 ## ubuntu 
 
+- [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [johang/btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
