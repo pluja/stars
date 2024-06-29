@@ -1264,7 +1264,7 @@
 - [thecoshman/http](https://github.com/thecoshman/http) - Host These Things Please - a basic http server for hosting a folder fast and simply
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [simias/rustation](https://github.com/simias/rustation) - Playstation emulator in the Rust programing language
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
