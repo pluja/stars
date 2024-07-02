@@ -473,6 +473,7 @@
 
 ## HTML 
 
+- [geeeeeeeek/freePS](https://github.com/geeeeeeeek/freePS) - free online photoshop image editor
 - [atc1441/ATCmiBand8fw](https://github.com/atc1441/ATCmiBand8fw) - A custom firmware for the Xiaomi Mi Band 8
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [pdf2htmlEX/pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
@@ -1185,6 +1186,7 @@
 
 ## Rust 
 
+- [SeaDve/Mousai](https://github.com/SeaDve/Mousai) - Identify songs in seconds
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [Cuprate/cuprate](https://github.com/Cuprate/cuprate) - Cuprate, an upcoming experimental, modern & secure monero node. Written in Rust
 - [Ph0enixKM/Amber](https://github.com/Ph0enixKM/Amber) - 💎 Amber the programming language compiled to bash
