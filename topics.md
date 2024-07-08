@@ -528,7 +528,7 @@
 ## bash 
 
 - [h4l/json.bash](https://github.com/h4l/json.bash) - Command-line tool and bash library that creates JSON
-- [Ph0enixKM/Amber](https://github.com/Ph0enixKM/Amber) - 💎 Amber the programming language compiled to bash
+- [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to bash
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Your entire server infrastructure at your fingertips
 - [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by CodeLLaMa. 💻🦙
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
@@ -2579,7 +2579,7 @@
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 - [reyamir/nostr-connect](https://github.com/reyamir/nostr-connect) - nostr signer extension, fork of nos2x by fiatjaf
 - [Lunakepio/Mario-Kart-3.js](https://github.com/Lunakepio/Mario-Kart-3.js) - 
-- [Medvedev91/timetome](https://github.com/Medvedev91/timetome) - App with pomodoro, checklists, goals, tasks, repetitive, calendar and time tracking.
+- [Medvedev91/timeto.me](https://github.com/Medvedev91/timeto.me) - App with pomodoro, checklists, goals, tasks, repetitive, calendar and time tracking.
 - [devrsi0n/chirpy](https://github.com/devrsi0n/chirpy) - 💬 A privacy-friendly and customizable Disqus (comment system) alternate. 注重隐私保护和定制化的评论系统。
 - [Stability-AI/StableCascade](https://github.com/Stability-AI/StableCascade) - Official Code for Stable Cascade
 - [j-fbriere/squawker](https://github.com/j-fbriere/squawker) - An open-source privacy oriented Twitter/X client
