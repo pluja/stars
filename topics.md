@@ -2574,6 +2574,7 @@
 
 ## others 
 
+- [fiatjaf/khatru](https://github.com/fiatjaf/khatru) - a framework for making custom Nostr relays
 - [AnswerDotAI/fasthtml](https://github.com/AnswerDotAI/fasthtml) - The fastest way to create an HTML app
 - [retrnull/garnet](https://github.com/retrnull/garnet) - A fork of Amethyst with Monero tipping support
 - [puzpuzpuz/xsync](https://github.com/puzpuzpuz/xsync) - Concurrent data structures for Go
