@@ -250,6 +250,7 @@
 - [sethforprivacy/silentpaymentsxyz](https://github.com/sethforprivacy/silentpaymentsxyz) - 
 - [linuxserver/docker-piper](https://github.com/linuxserver/docker-piper) - 
 - [yewtudotbe/invidious-custom](https://github.com/yewtudotbe/invidious-custom) - Invidious with some git patches (mostly from existing PRs)
+- [wemake-services/caddy-gen](https://github.com/wemake-services/caddy-gen) - Automated Caddy reverse proxy for docker containers
 - [sethforprivacy/p2pool-docker](https://github.com/sethforprivacy/p2pool-docker) - A simple and straightforward Dockerized p2pool built from source and exposing standard ports.
 - [sethforprivacy/simple-monero-wallet-rpc-docker](https://github.com/sethforprivacy/simple-monero-wallet-rpc-docker) - 
 - [sethforprivacy/simple-monerod-docker](https://github.com/sethforprivacy/simple-monerod-docker) - A simple and straightforward Dockerized monerod built from source and exposing standard ports.
@@ -1323,7 +1324,6 @@
 - [fractalnetworksco/selfhosted-gateway](https://github.com/fractalnetworksco/selfhosted-gateway) - Self-hosted Docker native tunneling to localhost. Expose local docker containers to the public Internet via a simple docker compose interface.
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [DoTheEvo/selfhosted-apps-docker](https://github.com/DoTheEvo/selfhosted-apps-docker) - Guide by Example
-- [wemake-services/caddy-gen](https://github.com/wemake-services/caddy-gen) - Automated Caddy reverse proxy for docker containers
 - [BEPb/BEPb](https://github.com/BEPb/BEPb) - Config files for my GitHub profile.
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - The winapps main project, forked from https://github.com/Fmstrat/winapps/
 - [Erikvl87/docker-languagetool](https://github.com/Erikvl87/docker-languagetool) - Dockerfile for LanguageTool server - configurable
@@ -1375,6 +1375,7 @@
 
 ## TypeScript 
 
+- [louisinger/silentium](https://github.com/louisinger/silentium) - BIP352 light mobile wallet
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic monitoring platform  🏓
 - [httpjamesm/ScatterSafe](https://github.com/httpjamesm/ScatterSafe) - Backup your secrets securely and reliably.
