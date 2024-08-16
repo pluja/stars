@@ -450,7 +450,7 @@
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - 🧲 Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
 - [sniptt-official/ots](https://github.com/sniptt-official/ots) - 🔐 Share end-to-end encrypted secrets with others via a one-time URL
 - [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
-- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
+- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
 - [tripupapp/tripup-server](https://github.com/tripupapp/tripup-server) - Server code for TripUp private photo storage app.
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
@@ -733,7 +733,6 @@
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [ahrm/UnstableFusion](https://github.com/ahrm/UnstableFusion) - A Stable Diffusion desktop frontend with inpainting, img2img and more!
 - [hooram/ownphotos](https://github.com/hooram/ownphotos) - Self hosted alternative to Google Photos
-- [eloo/ownphotos](https://github.com/eloo/ownphotos) - Self hosted alternative to Google Photos
 
 ## Kotlin 
 
@@ -1433,7 +1432,7 @@
 - [gitroomhq/gitroom](https://github.com/gitroomhq/gitroom) - 📨 Schedule social media and articles. Exchange or buy posts from other members 👨🏻‍💻. Monitor your GitHub trending, and so much more 📈.
 - [v0l/snort](https://github.com/v0l/snort) - Feature packed nostr web UI, Mirror of https://git.v0l.io/Kieran/snort
 - [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 The Only Production-Ready AI-Powered Backend Code Generation
-- [BoltzExchange/boltz-web-app](https://github.com/BoltzExchange/boltz-web-app) - Boltz Web App (06/2023 - today)
+- [BoltzExchange/boltz-web-app](https://github.com/BoltzExchange/boltz-web-app) - Boltz Web App
 - [woodser/monero-ts](https://github.com/woodser/monero-ts) - TypeScript library for using Monero
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL
 - [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
