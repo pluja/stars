@@ -1209,6 +1209,7 @@
 
 ## Rust 
 
+- [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 - [PolyMeilex/Neothesia](https://github.com/PolyMeilex/Neothesia) - Flashy Synthesia Like Software For Linux,Windows and MacOs
 - [pythops/impala](https://github.com/pythops/impala) - 🛜 TUI for managing wifi on Linux.
 - [SeaDve/Mousai](https://github.com/SeaDve/Mousai) - Identify songs in seconds
