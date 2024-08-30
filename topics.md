@@ -408,7 +408,7 @@
 ## angular 
 
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
-- [schedule-x/schedule-x](https://github.com/schedule-x/schedule-x) - Material design event calendar. Modern alternative to fullcalendar and react-big-calendar.
+- [schedule-x/schedule-x](https://github.com/schedule-x/schedule-x) - JavaScript event calendar. Modern alternative to fullcalendar and react-big-calendar.
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 - [vladimiry/ElectronMail](https://github.com/vladimiry/ElectronMail) - Unofficial ProtonMail Desktop App
 
@@ -1932,7 +1932,7 @@
 - [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux.
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [bokub/nopaste](https://github.com/bokub/nopaste) - :clipboard: Client-side paste service
-- [schedule-x/schedule-x](https://github.com/schedule-x/schedule-x) - Material design event calendar. Modern alternative to fullcalendar and react-big-calendar.
+- [schedule-x/schedule-x](https://github.com/schedule-x/schedule-x) - JavaScript event calendar. Modern alternative to fullcalendar and react-big-calendar.
 - [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - Web application providing an intuitive user experience to databases.
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
@@ -2480,7 +2480,7 @@
 - [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
-- [gitroomhq/gitroom](https://github.com/gitroomhq/gitroom) - 📨 Schedule social media and articles. Exchange or buy posts from other members 👨🏻‍💻. Monitor your GitHub trending, and so much more 📈.
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social media and articles. Exchange or buy posts from other members 👨🏻‍💻. Monitor your GitHub trending, and so much more 📈.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
@@ -2591,7 +2591,7 @@
 - [cursusdb/cursusdb](https://github.com/cursusdb/cursusdb) - CursusDB is an open-source distributed in-memory yet persisted document oriented database system with real time capabilities.
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
-- [gitroomhq/gitroom](https://github.com/gitroomhq/gitroom) - 📨 Schedule social media and articles. Exchange or buy posts from other members 👨🏻‍💻. Monitor your GitHub trending, and so much more 📈.
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social media and articles. Exchange or buy posts from other members 👨🏻‍💻. Monitor your GitHub trending, and so much more 📈.
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [trynoice/android-app](https://github.com/trynoice/android-app) - The Android app for Noice.
@@ -2648,7 +2648,7 @@
 
 ## others 
 
-- [streetwriters/notesnook-sync-server](https://github.com/streetwriters/notesnook-sync-server) - Sync server for Notesnook (not yet self-hostable)
+- [streetwriters/notesnook-sync-server](https://github.com/streetwriters/notesnook-sync-server) - Sync server for Notesnook (self-hosting in alpha)
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) - Amnezia VPN Client (Desktop+Mobile)
@@ -2959,7 +2959,6 @@
 - [ferritreader/ferrit](https://github.com/ferritreader/ferrit) - DISCONTINUED. Former fork of libreddit/libreddit.
 - [TiagoSantos81/libregrammar](https://github.com/TiagoSantos81/libregrammar) - Repo to count commit history. Main repo is https://github.com/TiagoSantos81/languagetool/commits/master
 - [zerodytrash/YouTube-Internal-Clients](https://github.com/zerodytrash/YouTube-Internal-Clients) - A python script that discovers hidden YouTube API clients. Just a research project.
-- [runwayml/stable-diffusion](https://github.com/runwayml/stable-diffusion) - Latent Text-to-Image Diffusion
 - [David-Lor/pnytter](https://github.com/David-Lor/pnytter) - Python library for scraping (Twiiter) Nitter
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [r3nor/mullvad-tailscale](https://github.com/r3nor/mullvad-tailscale) - Use Mullvad VPN along with Tailscale and/or Zerotier
@@ -3482,7 +3481,7 @@
 - [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux.
 - [andrewnguonly/Lumos](https://github.com/andrewnguonly/Lumos) - A RAG LLM co-pilot for browsing the web, powered by local LLMs
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
-- [schedule-x/schedule-x](https://github.com/schedule-x/schedule-x) - Material design event calendar. Modern alternative to fullcalendar and react-big-calendar.
+- [schedule-x/schedule-x](https://github.com/schedule-x/schedule-x) - JavaScript event calendar. Modern alternative to fullcalendar and react-big-calendar.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
@@ -3911,7 +3910,7 @@
 ## svelte 
 
 - [altcha-org/altcha](https://github.com/altcha-org/altcha) - GDPR compliant, self-hosted CAPTCHA alternative with PoW mechanism and advanced anti-spam filter.
-- [schedule-x/schedule-x](https://github.com/schedule-x/schedule-x) - Material design event calendar. Modern alternative to fullcalendar and react-big-calendar.
+- [schedule-x/schedule-x](https://github.com/schedule-x/schedule-x) - JavaScript event calendar. Modern alternative to fullcalendar and react-big-calendar.
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
 - [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - Web application providing an intuitive user experience to databases.
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
@@ -4054,7 +4053,7 @@
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
-- [gitroomhq/gitroom](https://github.com/gitroomhq/gitroom) - 📨 Schedule social media and articles. Exchange or buy posts from other members 👨🏻‍💻. Monitor your GitHub trending, and so much more 📈.
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social media and articles. Exchange or buy posts from other members 👨🏻‍💻. Monitor your GitHub trending, and so much more 📈.
 - [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 The Only Production-Ready AI-Powered Backend Code Generation
 - [woodser/monero-ts](https://github.com/woodser/monero-ts) - TypeScript library for using Monero
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL
@@ -4117,7 +4116,7 @@
 
 ## vue 
 
-- [schedule-x/schedule-x](https://github.com/schedule-x/schedule-x) - Material design event calendar. Modern alternative to fullcalendar and react-big-calendar.
+- [schedule-x/schedule-x](https://github.com/schedule-x/schedule-x) - JavaScript event calendar. Modern alternative to fullcalendar and react-big-calendar.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [sturdy-dev/sturdy](https://github.com/sturdy-dev/sturdy) - 🐥 Sturdy is an open-source, real-time, version control platform for startups (https://getsturdy.com)
