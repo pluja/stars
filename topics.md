@@ -116,6 +116,7 @@
 - [https](#https)
 - [icon-font](#icon-font)
 - [image-processing](#image-processing)
+- [instagram](#instagram)
 - [ios](#ios)
 - [iot](#iot)
 - [ipfs](#ipfs)
@@ -954,7 +955,7 @@
 
 ## database 
 
-- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an in-memory database for building real-time applications with SQL-based real-time reactivity.
+- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is hyper-optimized for building and scaling truly real-time applications on modern hardware. It is a drop-in replacement for Redis with support for SQL-based reactivity.
 - [mayneyao/eidos](https://github.com/mayneyao/eidos) - Offline alternative to Notion. Eidos is an extensible framework for managing your personal data throughout your lifetime in one place.
 - [apache/kvrocks](https://github.com/apache/kvrocks) - Apache Kvrocks is a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol.
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads.
@@ -1487,7 +1488,7 @@
 ## golang 
 
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
-- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an in-memory database for building real-time applications with SQL-based real-time reactivity.
+- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is hyper-optimized for building and scaling truly real-time applications on modern hardware. It is a drop-in replacement for Redis with support for SQL-based reactivity.
 - [getkin/kin-openapi](https://github.com/getkin/kin-openapi) - OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
 - [yeqown/go-qrcode](https://github.com/yeqown/go-qrcode) - To help gophers generate QR Codes with customized styles, such as color, block size, block shape, and icon.
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
@@ -1649,7 +1650,7 @@
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
-- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an in-memory database for building real-time applications with SQL-based real-time reactivity.
+- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is hyper-optimized for building and scaling truly real-time applications on modern hardware. It is a drop-in replacement for Redis with support for SQL-based reactivity.
 - [getkin/kin-openapi](https://github.com/getkin/kin-openapi) - OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
 - [btcsuite/btcd](https://github.com/btcsuite/btcd) - An alternative full node bitcoin implementation written in Go (golang)
 - [quillpad/quillpad](https://github.com/quillpad/quillpad) - Take beautiful markdown notes and stay organized with task lists. Fork of Quillnote
@@ -1858,6 +1859,14 @@
 - [GuidoBartoli/sherloq](https://github.com/GuidoBartoli/sherloq) - An open-source digital image forensic toolset
 - [Webreaper/Damselfly](https://github.com/Webreaper/Damselfly) - Damselfly is a server-based Photograph Management app. The goal of Damselfly is to index an extremely large collection of images, and allow easy search and retrieval of those images, using metadata su
 - [photostructure/photostructure-for-servers](https://github.com/photostructure/photostructure-for-servers) - PhotoStructure for Servers
+
+## instagram 
+
+- [junhoyeo/threads-api](https://github.com/junhoyeo/threads-api) - Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta's Threads. Web UI Included.
+- [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
+- [SimonBrazell/privacy-redirect](https://github.com/SimonBrazell/privacy-redirect) - A simple web extension that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives.
+- [FluidGroup/Brightroom](https://github.com/FluidGroup/Brightroom) - 📷 A composable image editor using Core Image and Metal.
+- [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 
 ## ios 
 
@@ -2346,7 +2355,7 @@
 
 ## microsoft 
 
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 
 ## minecraft 
 
@@ -2643,6 +2652,7 @@
 
 ## others 
 
+- [afadil/wealthfolio](https://github.com/afadil/wealthfolio) - A Beautiful Private and Secure Desktop Investment Tracking Application
 - [streetwriters/notesnook-sync-server](https://github.com/streetwriters/notesnook-sync-server) - Sync server for Notesnook (self-hosting in alpha)
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
@@ -2674,7 +2684,7 @@
 - [cathugger/mkp224o](https://github.com/cathugger/mkp224o) - vanity address generator for tor onion v3 (ed25519) hidden services
 - [obhq/jailbreak-11](https://github.com/obhq/jailbreak-11) - Experimental PS4 jailbreak for 11.00 and lower
 - [TagStudioDev/TagStudio](https://github.com/TagStudioDev/TagStudio) - A User-Focused Photo & File Management System
-- [dream-num/univer](https://github.com/dream-num/univer) - Univer is an open-source alternative to Google Sheets, Slides, and Docs
+- [dream-num/univer](https://github.com/dream-num/univer) - Univer is an open-source productivity tool dev kit helping you integrate spreadsheets, docs and slides into your applications.
 - [huggingface/parler-tts](https://github.com/huggingface/parler-tts) - Inference and training library for high-quality TTS models.
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
 - [catatsuy/purl](https://github.com/catatsuy/purl) - Streamlining Text Processing
@@ -2702,7 +2712,7 @@
 - [tevador/RandomX](https://github.com/tevador/RandomX) - Proof of work algorithm based on random code execution
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
-- [reyamir/nostr-connect](https://github.com/reyamir/nostr-connect) - nostr signer extension, fork of nos2x by fiatjaf
+- [lumehq/nostr-connect](https://github.com/lumehq/nostr-connect) - nostr signer extension, fork of nos2x by fiatjaf
 - [Lunakepio/Mario-Kart-3.js](https://github.com/Lunakepio/Mario-Kart-3.js) - 
 - [Medvedev91/timeto.me](https://github.com/Medvedev91/timeto.me) - App with pomodoro, checklists, goals, tasks, repetitive, calendar and time tracking.
 - [devrsi0n/chirpy](https://github.com/devrsi0n/chirpy) - 💬 A privacy-friendly and customizable Disqus (comment system) alternate. 注重隐私保护和定制化的评论系统。
@@ -2845,7 +2855,6 @@
 - [bigskysoftware/_hyperscript](https://github.com/bigskysoftware/_hyperscript) - a small scripting language for the web
 - [fiatjaf/njump](https://github.com/fiatjaf/njump) - mirror of https://git.njump.me/njump
 - [workout-lol/workout-lol](https://github.com/workout-lol/workout-lol) - A simple way to create a workout plan
-- [junhoyeo/threads-api](https://github.com/junhoyeo/threads-api) - Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta's Threads. Web UI Included.
 - [digint/btrbk](https://github.com/digint/btrbk) - Tool for creating snapshots and remote backups of btrfs subvolumes
 - [andreberg/Meslo-Font](https://github.com/andreberg/Meslo-Font) - Customized version of Apple's Menlo font. Great monospaced font for development work. Should also work with the Windows Console (see Wiki for Windows infos).
 - [mudler/go-piper](https://github.com/mudler/go-piper) - 
@@ -4206,7 +4215,7 @@
 - [quexten/goldwarden](https://github.com/quexten/goldwarden) - A feature-packed Bitwarden compatible desktop client
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 - [FL33TW00D/whisper-turbo](https://github.com/FL33TW00D/whisper-turbo) - Cross-Platform, GPU Accelerated Whisper 🏎️
 - [terhechte/Ebou](https://github.com/terhechte/Ebou) - A cross platform Mastodon Client written in Rust
 - [SevaSk/ecoute](https://github.com/SevaSk/ecoute) - Ecoute is a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox. It also generates a suggested 
