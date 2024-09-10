@@ -775,7 +775,7 @@
 - [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser) - Iceraven Browser
 - [farmerbb/Notepad](https://github.com/farmerbb/Notepad) - A simple, bare-bones, no-frills note taking app for Android.
 - [seedvault-app/seedvault](https://github.com/seedvault-app/seedvault) - A backup application for the Android Open Source Project.
-- [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - K-9 Mail – Open Source Email App for Android
+- [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
 - [OmGodse/Notally](https://github.com/OmGodse/Notally) - A beautiful notes app
 - [Chooloo/koler](https://github.com/Chooloo/koler) - Just a phone app.
 - [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
