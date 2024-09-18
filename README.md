@@ -405,7 +405,7 @@
 - [nbd-wtf/satdress](https://github.com/nbd-wtf/satdress) - Federated Lightning addresses server.
 - [vadimi/grpc-client-cli](https://github.com/vadimi/grpc-client-cli) - generic gRPC command line client
 - [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
-- [moneropay/moneropay](https://github.com/moneropay/moneropay) - Standalone Monero payment processor for incoming and outgoing transactions. (mirror)
+- [moneropay/moneropay](https://github.com/moneropay/moneropay) - Standalone Monero payment processor for incoming and outgoing transactions.
 - [umputun/remark42](https://github.com/umputun/remark42) - comment engine
 - [amitshekhariitbhu/go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.
 - [rs/xid](https://github.com/rs/xid) - xid is a globally unique id generator thought for the web
@@ -910,6 +910,7 @@
 
 ## Python 
 
+- [bklieger-groq/g1](https://github.com/bklieger-groq/g1) - g1: Using Llama-3.1 70b on Groq to create o1-like reasoning chains
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
@@ -1390,6 +1391,7 @@
 
 ## TypeScript 
 
+- [voideditor/void](https://github.com/voideditor/void) - 
 - [afadil/wealthfolio](https://github.com/afadil/wealthfolio) - A Beautiful Private and Secure Desktop Investment Tracking Application
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [tryglow/glow](https://github.com/tryglow/glow) - The dynamic personal homepage builder
@@ -1468,7 +1470,7 @@
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [smol-ai/GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
 - [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) - The homepage of Phosphor Icons, a flexible icon family for everyone
-- [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open source website builder and Webflow alternative. An advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with us.
+- [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open source website builder and Webflow alternative. Webstudio is an advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with 
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [robbie-cahill/tunnelmole-client](https://github.com/robbie-cahill/tunnelmole-client) - Tunnelmole - Connect to local servers from anywhere
@@ -1478,7 +1480,7 @@
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
-- [nodetec/notestack](https://github.com/nodetec/notestack) - 📡 Decentralized blogs over relay using nostr w/ ⚡ lightning tips
+- [nodetec/notestack](https://github.com/nodetec/notestack) - 📓 Decentralized blogging platform using Nostr relays w/ ⚡ lightning tips
 - [verbiricha/habla.news](https://github.com/verbiricha/habla.news) - 
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 - [menhera-org/TabArray](https://github.com/menhera-org/TabArray) - Chrome-like tab groups using private and isolated containers: The ultimate tab manager and groups for Firefox.
