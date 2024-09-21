@@ -572,7 +572,7 @@
 
 - [zlwaterfield/scramble](https://github.com/zlwaterfield/scramble) - Open-Source Grammarly Alternative
 - [altcha-org/altcha](https://github.com/altcha-org/altcha) - GDPR compliant, self-hosted CAPTCHA alternative with PoW mechanism and advanced anti-spam filter.
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv`
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [omni-media/omniclip](https://github.com/omni-media/omniclip) - Open source video editing web application
@@ -1373,7 +1373,7 @@
 - [pluja/whishper](https://github.com/pluja/whishper) - Transcribe any audio to text, translate and edit subtitles 100% locally with a web UI. Powered by whisper models!
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
-- [coracle-social/coracle](https://github.com/coracle-social/coracle) - A Nostr client that makes relays a first-class concept
+- [coracle-social/coracle](https://github.com/coracle-social/coracle) - An experimental Nostr client focused on unlocking the full potential of multiple relays. Browse, filter, zap, and create custom feeds to create a curated Nostr experience.
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 
 ## Swift 
