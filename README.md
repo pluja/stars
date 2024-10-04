@@ -532,7 +532,7 @@
 
 ## Java 
 
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestration and automation platform to execute millions of scheduled and event-driven workflows declaratively in code and from the UI
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Open-source workflow automation platform. Orchestrate any language using YAML, hundreds of integrations. Alternative to Airflow, Zapier, RunDeck, Camunda, ...
 - [MDeLuise/plant-it](https://github.com/MDeLuise/plant-it) - 🪴 Self-hosted, open source gardening companion app
 - [sparrowwallet/sparrow](https://github.com/sparrowwallet/sparrow) - Desktop Bitcoin Wallet focused on security and privacy. Free and open source.
 - [00-Evan/shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) - Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dun
@@ -1043,7 +1043,7 @@
 - [matrix-nio/matrix-nio](https://github.com/matrix-nio/matrix-nio) - A Python Matrix client library, designed according to sans I/O (http://sans-io.readthedocs.io/) principles
 - [jadolg/rocketchat_API](https://github.com/jadolg/rocketchat_API) - Python API wrapper for Rocket.Chat
 - [deep-floyd/IF](https://github.com/deep-floyd/IF) - 
-- [modal-labs/quillman](https://github.com/modal-labs/quillman) - A chat app that transcribes audio in real-time, streams back a response from a language model, and synthesizes this response as natural-sounding speech.
+- [modal-labs/quillman](https://github.com/modal-labs/quillman) - A voice chat app
 - [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - Text-to-3D & Image-to-3D & Mesh Exportation with NeRF + Diffusion.
