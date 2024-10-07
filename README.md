@@ -578,7 +578,6 @@
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv`
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
-- [omni-media/omniclip](https://github.com/omni-media/omniclip) - Open source video editing web application
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
 - [actuallymentor/unidentified-analytics](https://github.com/actuallymentor/unidentified-analytics) - A privacy-friendly platform-agnostic tracking system that works everywhere (from shell scripts to React.js)
 - [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux.
@@ -1418,6 +1417,7 @@
 - [monerogarden/web](https://github.com/monerogarden/web) - The monero.garden website
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
+- [omni-media/omniclip](https://github.com/omni-media/omniclip) - Open source video editing web application
 - [pagefaultgames/pokerogue](https://github.com/pagefaultgames/pokerogue) - A browser based Pokémon fangame heavily inspired by the roguelite genre.
 - [abi/secret-llama](https://github.com/abi/secret-llama) - Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3.
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
