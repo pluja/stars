@@ -274,6 +274,7 @@
 
 ## Go 
 
+- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [vigneshrajj/gofind](https://github.com/vigneshrajj/gofind) - Address bar commands for your browser
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [chai2010/webp](https://github.com/chai2010/webp) - WebP decoder and encoder for Go (Zero Dependencies).
@@ -652,7 +653,7 @@
 - [getify/youperiod.app](https://github.com/getify/youperiod.app) - YouPeriod.app -- the privacy-first period tracking app
 - [pucherot/Pi.Alert](https://github.com/pucherot/Pi.Alert) - WIFI / LAN intruder detector. Check the devices connected and alert you with unknown devices. It also warns of the disconnection of "always connected" devices
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
-- [NayamAmarshe/MagLit](https://github.com/NayamAmarshe/MagLit) - 🔥 MagLit - Privacy Respecting Encrypted Link Shortener with Password Protection and Torrent Magnet Links support
+- [NayamAmarshe/thiss.link](https://github.com/NayamAmarshe/thiss.link) - 🔥 MagLit - Privacy Respecting Encrypted Link Shortener with Password Protection and Torrent Magnet Links support
 - [louiscenter/hypercast](https://github.com/louiscenter/hypercast) - p2p broadcasting for dat:// enabled web browsers
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
@@ -928,6 +929,9 @@
 
 ## Python 
 
+- [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
+- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as Llama, Mistral, as OpenAI compatible API endpoint in the cloud.
+- [almarklein/timetagger](https://github.com/almarklein/timetagger) - Tag your time, get the insight
 - [matatonic/openedai-speech](https://github.com/matatonic/openedai-speech) - An OpenAI API compatible text to speech server using Coqui AI's xtts_v2 and/or piper tts as the backend.
 - [travisvn/openai-edge-tts](https://github.com/travisvn/openai-edge-tts) - Text-to-speech API endpoint compatible with OpenAI's TTS API endpoint, using Microsoft Edge TTS to generate speech for free locally
 - [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container.
@@ -960,6 +964,7 @@
 - [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [qianqianwang68/omnimotion](https://github.com/qianqianwang68/omnimotion) - 
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative for security engineers.
 - [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) - 🤖 A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [vaphes/pocketbase](https://github.com/vaphes/pocketbase) - PocketBase client SDK for python
@@ -1254,7 +1259,7 @@
 - [mrjackwills/oxker](https://github.com/mrjackwills/oxker) - A simple tui to view & control docker containers
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
-- [PolyMeilex/Neothesia](https://github.com/PolyMeilex/Neothesia) - Flashy Synthesia Like Software For Linux,Windows and MacOs
+- [PolyMeilex/Neothesia](https://github.com/PolyMeilex/Neothesia) - Flashy Synthesia Like Software For Linux, Windows and MacOs
 - [pythops/impala](https://github.com/pythops/impala) - 🛜 TUI for managing wifi on Linux.
 - [SeaDve/Mousai](https://github.com/SeaDve/Mousai) - Identify songs in seconds
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
@@ -1425,6 +1430,8 @@
 
 ## TypeScript 
 
+- [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
+- [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file vault written in TypeScript! 🚀
 - [blinko-space/blinko](https://github.com/blinko-space/blinko) - An open-source, self-hosted personal note tool prioritizing privacy, built using TypeScript .
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 - [sjdonado/idonthavespotify](https://github.com/sjdonado/idonthavespotify) - Effortlessly convert Spotify links to your preferred streaming service
@@ -1464,7 +1471,6 @@
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [Peach2Peach/peach-app](https://github.com/Peach2Peach/peach-app) - Frontend Code for Peach App
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative for security engineers.
 - [language-transfer/lt-app](https://github.com/language-transfer/lt-app) - React Native application for Language Transfer
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [msgbyte/tailchat](https://github.com/msgbyte/tailchat) - Next generation noIM application in your own workspace, not only another Slack/Discord/Rocket.chat
