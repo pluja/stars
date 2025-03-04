@@ -18,6 +18,7 @@
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
+- [Fluent](#fluent)
 - [Go](#go)
 - [Groovy](#groovy)
 - [HTML](#html)
@@ -243,7 +244,7 @@
 - [0xchat-app/0xchat-core](https://github.com/0xchat-app/0xchat-core) - 0xchat-core, built on Nostr
 - [moritz-weber/mucke](https://github.com/moritz-weber/mucke) - mucke - android music player
 - [keshav-space/safenotes](https://github.com/keshav-space/safenotes) - Safe Notes is a security project aimed at providing an encrypted, private note manager that works locally and protects notes from various threat actors.
-- [ente-io/ente](https://github.com/ente-io/ente) - FOSS, End-to-End Encrypted Cloud
+- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted, FOSS cloud for Photos, 2FA secrets and more!
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
@@ -277,6 +278,10 @@
 
 - [eudoxia0/dotfiles](https://github.com/eudoxia0/dotfiles) - Not guaranteed to work outside of My Machine™
 
+## Fluent 
+
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
+
 ## Go 
 
 - [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) - An implementation of Shazam's song recognition algorithm.
@@ -302,6 +307,7 @@
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [microcosm-cc/bluemonday](https://github.com/microcosm-cc/bluemonday) - bluemonday: a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS
 - [Sohimaster/Firefox-Passwords-Decryptor](https://github.com/Sohimaster/Firefox-Passwords-Decryptor) - Extracts and decrypts passwords saved in Firefox.
+- [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
 - [alebeck/boring](https://github.com/alebeck/boring) - The `boring`  SSH tunnel manager
 - [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
@@ -1435,6 +1441,7 @@
 
 ## Shell 
 
+- [Reaper0x1/bitwarden-portal](https://github.com/Reaper0x1/bitwarden-portal) - Automate backup and restore between Bitwarden and/or Vaultwarden vault.
 - [h4l/json.bash](https://github.com/h4l/json.bash) - Command-line tool and bash library that creates JSON
 - [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) - Archlinux Kernel based on different schedulers and some other performance improvements.
 - [lalanza808/docker-monero-node](https://github.com/lalanza808/docker-monero-node) - Simple way to run a Monero daemon with some basic monitoring tools packaged in.
@@ -1744,7 +1751,6 @@
 
 - [schej-it/schej.it](https://github.com/schej-it/schej.it) - schej helps you quickly find the best time for your group to meet. It's like When2meet with Google Calendar integration!
 - [tanayvk/peersplit](https://github.com/tanayvk/peersplit) - PeerSplit is a free, local-first, peer-to-peer app that helps you easily and privately split and track group expenses.
-- [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [yuhonas/free-exercise-db](https://github.com/yuhonas/free-exercise-db) - Open Public Domain Exercise Dataset in JSON format, over 800 exercises with a browsable public searchable frontend
