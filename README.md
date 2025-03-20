@@ -150,7 +150,7 @@
 - [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your 
 - [Akylas/OSS-DocumentScanner](https://github.com/Akylas/OSS-DocumentScanner) - Android document document scanning app
 - [stenzek/duckstation](https://github.com/stenzek/duckstation) - Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64
-- [janhq/cortex.cpp](https://github.com/janhq/cortex.cpp) - Local AI API Platform
+- [menloresearch/cortex.cpp](https://github.com/menloresearch/cortex.cpp) - Local AI API Platform
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving for Local Deployment
 - [vtnerd/monero-lws](https://github.com/vtnerd/monero-lws) - Monero Light Wallet Server (scans monero viewkeys and implements mymonero API). Fast LMDB backend.
@@ -215,6 +215,7 @@
 - [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.
 - [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/cli
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
+- [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
 - [Nault/Nault](https://github.com/Nault/Nault) - ⚡ The most advanced Nano wallet with focus on security, speed and robustness
 
 ## Clojure 
@@ -338,13 +339,14 @@
 - [bbernhard/signal-cli-rest-api](https://github.com/bbernhard/signal-cli-rest-api) - Dockerized Signal Messenger REST API
 - [nilsherzig/LLocalSearch](https://github.com/nilsherzig/LLocalSearch) - LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress o
 - [whyvl/wireproxy](https://github.com/whyvl/wireproxy) - Wireguard client that exposes itself as a socks5 proxy
-- [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running Your AI-Generated Code.
+- [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code.
 - [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by Ollama. 💻🦙
 - [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
 - [gorilla/websocket](https://github.com/gorilla/websocket) - Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
 - [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming la
 - [quexten/goldwarden](https://github.com/quexten/goldwarden) - A feature-packed Bitwarden compatible desktop client
 - [jovandeginste/workout-tracker](https://github.com/jovandeginste/workout-tracker) - A workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities
+- [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Teldrive
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC activ
 - [pluja/pocketbase](https://github.com/pluja/pocketbase) - PocketBase Go SDK
 - [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
@@ -402,7 +404,7 @@
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
-- [ccfos/nightingale](https://github.com/ccfos/nightingale) - Nightingale for monitoring and alerting, just as Grafana is for visualization.
+- [ccfos/nightingale](https://github.com/ccfos/nightingale) - Nightingale for monitoring and alerting, just as Grafana for visualization.
 - [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
@@ -540,13 +542,13 @@
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [vercel/geist-font](https://github.com/vercel/geist-font) - 
 - [pdf2htmlEX/pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
+- [steveseguin/social_stream](https://github.com/steveseguin/social_stream) - Consolidate your live social messaging streams and much more
 - [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source lic
 - [monero-project/monero-site](https://github.com/monero-project/monero-site) - 
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [thuliteio/doks](https://github.com/thuliteio/doks) - Everything you need to build a stellar documentation website. Fast, accessible, and easy to use.
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
 - [mprimi/portable-secret](https://github.com/mprimi/portable-secret) - Better privacy without special software
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
@@ -615,7 +617,7 @@
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
 - [pinokiocomputer/pinokio](https://github.com/pinokiocomputer/pinokio) - AI Browser
 - [zlwaterfield/scramble](https://github.com/zlwaterfield/scramble) - Open-Source Grammarly Alternative
-- [altcha-org/altcha](https://github.com/altcha-org/altcha) - GDPR compliant, self-hosted CAPTCHA alternative with PoW mechanism and advanced anti-spam filter.
+- [altcha-org/altcha](https://github.com/altcha-org/altcha) - GDPR, WCAG 2.2 AA, and EAA compliant, self-hosted CAPTCHA alternative with PoW mechanism and advanced anti-spam filter.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv`
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
@@ -630,7 +632,7 @@
 - [miraclx/freyr-js](https://github.com/miraclx/freyr-js) - A tool for downloading songs from music streaming services like Spotify and Apple Music.
 - [Luke-lwz/kaboom](https://github.com/Luke-lwz/kaboom) - Adaptation of the card game Two Rooms and a Boom
 - [UdaraJay/Pile](https://github.com/UdaraJay/Pile) - Desktop app for digital journaling.
-- [davidmerfield/Blot](https://github.com/davidmerfield/Blot) - Turns a folder into a blog
+- [davidmerfield/blot](https://github.com/davidmerfield/blot) - Turns a folder into a website
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers
 - [facebook/stylex](https://github.com/facebook/stylex) - StyleX is the styling system for ambitious user interfaces.
@@ -641,7 +643,6 @@
 - [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [Andrew-Gallimore/vidlium_director](https://github.com/Andrew-Gallimore/vidlium_director) - Vidlium software lets livestream directors have remote guests easily with advanced controls.
-- [steveseguin/social_stream](https://github.com/steveseguin/social_stream) - Consolidate your live social messaging streams and much more
 - [steveseguin/vdo.ninja](https://github.com/steveseguin/vdo.ninja) - VDO.Ninja is a powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC.
 - [gildas-lormeau/single-filez-cli](https://github.com/gildas-lormeau/single-filez-cli) - 
 - [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension to save a faithful copy of an entire web page in a self-extracting ZIP file
@@ -674,6 +675,7 @@
 - [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - Easiest 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and 
 - [dskvr/nostrwatch-js](https://github.com/dskvr/nostrwatch-js) - Library for inspecting nostr relays
 - [durkes/wubsub](https://github.com/durkes/wubsub) - A simple and fast pub/sub server and client using WebSockets and Node.js
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [smallbets/userbase](https://github.com/smallbets/userbase) - Create secure and private web apps using only static JavaScript, HTML, and CSS.
 - [oldboyxx/jira_clone](https://github.com/oldboyxx/jira_clone) - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
@@ -961,6 +963,7 @@
 
 ## Python 
 
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline.
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 - [SesameAILabs/csm](https://github.com/SesameAILabs/csm) - A Conversational Speech Generation Model
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
@@ -982,13 +985,12 @@
 - [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/mEkkMXFG
 - [astramind-ai/Auralis](https://github.com/astramind-ai/Auralis) - A Fast TTS Engine
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.3, DeepSeek-R1 & Reasoning LLMs 2x faster with 70% less memory! 🦥
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.3, DeepSeek-R1, Gemma 3 & Reasoning LLMs 2x faster with 70% less memory! 🦥
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.
 - [almarklein/timetagger](https://github.com/almarklein/timetagger) - Tag your time, get the insight
 - [matatonic/openedai-speech](https://github.com/matatonic/openedai-speech) - An OpenAI API compatible text to speech server using Coqui AI's xtts_v2 and/or piper tts as the backend.
 - [travisvn/openai-edge-tts](https://github.com/travisvn/openai-edge-tts) - Free, high-quality text-to-speech API endpoint to replace OpenAI, Azure, or ElevenLabs
-- [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
 - [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
 - [rany2/edge-tts](https://github.com/rany2/edge-tts) - Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key
 - [FunAudioLLM/SenseVoice](https://github.com/FunAudioLLM/SenseVoice) - Multilingual Voice Understanding Model
@@ -1243,13 +1245,12 @@
 - [CyberPunkMetalHead/Binance-volatility-trading-bot](https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot) - This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though
 - [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless b
 - [milesmcc/shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
-- [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 2.10+ for Photoshop Users
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 - [shailshouryya/yt-videos-list](https://github.com/shailshouryya/yt-videos-list) - Create and **automatically** update a list of all videos on a YouTube channel (in txt/csv/md form) via YouTube bot with end-to-end web scraping - no API tokens required. Multi-threaded support for You
 - [sns-sdks/python-youtube](https://github.com/sns-sdks/python-youtube) - A simple Python wrapper for YouTube Data API :sparkles: :cake: :sparkles: .
 - [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [pyston/pyston](https://github.com/pyston/pyston) - (No longer maintained) A faster and highly-compatible implementation of the Python programming language.
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [pytube/pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
 - [alexmercerind/youtube-search-python](https://github.com/alexmercerind/youtube-search-python) - 🔎 Search for YouTube videos, channels & playlists. Get 🎞 video &  📑 playlist info using link. Get search suggestions. WITHOUT YouTube Data API v3.
@@ -1371,7 +1372,7 @@
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [SplittyDev/spacebadgers](https://github.com/SplittyDev/spacebadgers) - Fast and clean SVG badges
 - [rustformers/llm](https://github.com/rustformers/llm) - [Unmaintained, see README] An ecosystem of Rust libraries for working with large language models
-- [rust-nostr/nostr](https://github.com/rust-nostr/nostr) - Nostr protocol implementation, high-level client library, Nostr Wallet Connect, bindings and more.
+- [rust-nostr/nostr](https://github.com/rust-nostr/nostr) - Rust implementation of the nostr protocol, high-level client library, Nostr Wallet Connect and more.
 - [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
@@ -1441,6 +1442,7 @@
 ## Shell 
 
 - [Reaper0x1/bitwarden-portal](https://github.com/Reaper0x1/bitwarden-portal) - Automate backup and restore between Bitwarden and/or Vaultwarden vault.
+- [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
 - [h4l/json.bash](https://github.com/h4l/json.bash) - Command-line tool and bash library that creates JSON
 - [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) - Archlinux Kernel based on different schedulers and some other performance improvements.
 - [lalanza808/docker-monero-node](https://github.com/lalanza808/docker-monero-node) - Simple way to run a Monero daemon with some basic monitoring tools packaged in.
@@ -1546,7 +1548,7 @@
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [afadil/wealthfolio](https://github.com/afadil/wealthfolio) - A Beautiful Private and Secure Desktop Investment Tracking Application
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [tryglow/glow](https://github.com/tryglow/glow) - The dynamic personal homepage builder
+- [trylinky/linky](https://github.com/trylinky/linky) - The dynamic personal homepage builder
 - [louisinger/silentium](https://github.com/louisinger/silentium) - BIP352 light mobile wallet
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic monitoring platform  🏓
@@ -1587,7 +1589,7 @@
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
-- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [schedule-x/schedule-x](https://github.com/schedule-x/schedule-x) - JavaScript event calendar. Modern alternative to fullcalendar and react-big-calendar.
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
@@ -1759,7 +1761,7 @@
 - [yuhonas/free-exercise-db](https://github.com/yuhonas/free-exercise-db) - Open Public Domain Exercise Dataset in JSON format, over 800 exercises with a browsable public searchable frontend
 - [serversideup/financial-freedom](https://github.com/serversideup/financial-freedom) - 🔥🔥🔥 An open source alternative to Mint, YNAB, and more. Stay on budget and build wealth without sacrificing your privacy.
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
-- [inovector/mixpost](https://github.com/inovector/mixpost) - Mixpost - Self-hosted social media management software (Buffer alternative)
+- [inovector/mixpost](https://github.com/inovector/mixpost) - 📅 Schedule, 📢 publish, and ⚡ manage your social media content on your server. No subscriptions, no limits. (Buffer alternative)
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [baggachipz/tinylist](https://github.com/baggachipz/tinylist) - Note-keeping/checklist application for use across devices, while respecting privacy.
 - [mauriciabad/custom-easings-with-keyframes](https://github.com/mauriciabad/custom-easings-with-keyframes) - 🏃 Make custom non-cubic-bezier easing functions using the linear() easing function or keyframes and animations with this online css code generator.
