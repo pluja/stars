@@ -384,7 +384,7 @@
 - [moritz-weber/mucke](https://github.com/moritz-weber/mucke) - mucke - android music player
 - [keshav-space/safenotes](https://github.com/keshav-space/safenotes) - Safe Notes is a security project aimed at providing an encrypted, private note manager that works locally and protects notes from various threat actors.
 - [z-huang/InnerTune](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
-- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted, FOSS cloud for Photos, 2FA secrets and more!
+- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted platform for photos, videos and 2FA secrets.
 - [KoalaSat/nostros](https://github.com/KoalaSat/nostros) - Nostr client on Android
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [you-apps/RecordYou](https://github.com/you-apps/RecordYou) - Privacy focused recorder app built with MD3
@@ -1279,6 +1279,7 @@
 
 ## electron 
 
+- [breadsplit/breadsplit](https://github.com/breadsplit/breadsplit) - 🍞 Group bills split made easy, fast and customizable.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [Jigsaw-Code/outline-apps](https://github.com/Jigsaw-Code/outline-apps) - Outline Client and Manager, developed by Jigsaw. Outline Manager makes it easy to create your own VPN server. Outline Client lets you share access to your VPN with anyone in your network, giving them 
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
@@ -1417,7 +1418,7 @@
 - [moritz-weber/mucke](https://github.com/moritz-weber/mucke) - mucke - android music player
 - [rust-nostr/nostr](https://github.com/rust-nostr/nostr) - Rust implementation of the nostr protocol, high-level client library, Nostr Wallet Connect and more.
 - [keshav-space/safenotes](https://github.com/keshav-space/safenotes) - Safe Notes is a security project aimed at providing an encrypted, private note manager that works locally and protects notes from various threat actors.
-- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted, FOSS cloud for Photos, 2FA secrets and more!
+- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted platform for photos, videos and 2FA secrets.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
@@ -1715,7 +1716,7 @@
 - [inbucket/inbucket](https://github.com/inbucket/inbucket) - Disposable webmail server (similar to Mailinator) with built in SMTP, POP3, RESTful servers; no DB required.
 - [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, epub, etc) using a simple React frontend.
 - [SpatiumPortae/portal](https://github.com/SpatiumPortae/portal) - Portal is a quick and easy command-line file transfer utility from any computer to another 🌌 ✨
-- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted, FOSS cloud for Photos, 2FA secrets and more!
+- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted platform for photos, videos and 2FA secrets.
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [MarinX/keylogger](https://github.com/MarinX/keylogger) - Basic keylogger in Go (no C deps)
 - [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
@@ -2062,7 +2063,7 @@
 - [balzack/databag](https://github.com/balzack/databag) - fast & lightweight self-hosted messenger
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
 - [keshav-space/safenotes](https://github.com/keshav-space/safenotes) - Safe Notes is a security project aimed at providing an encrypted, private note manager that works locally and protects notes from various threat actors.
-- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted, FOSS cloud for Photos, 2FA secrets and more!
+- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted platform for photos, videos and 2FA secrets.
 - [KoalaSat/nostros](https://github.com/KoalaSat/nostros) - Nostr client on Android
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
@@ -3600,7 +3601,7 @@
 - [mCaptcha/mCaptcha](https://github.com/mCaptcha/mCaptcha) - A no-nonsense CAPTCHA system with seamless UX | Backend component
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [keshav-space/safenotes](https://github.com/keshav-space/safenotes) - Safe Notes is a security project aimed at providing an encrypted, private note manager that works locally and protects notes from various threat actors.
-- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted, FOSS cloud for Photos, 2FA secrets and more!
+- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted platform for photos, videos and 2FA secrets.
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [builtbybel/privatezilla](https://github.com/builtbybel/privatezilla) - 👀👮🐢🔥Performs a privacy & security check of Windows 10
 - [umputun/remark42](https://github.com/umputun/remark42) - comment engine
@@ -3672,6 +3673,7 @@
 
 ## pwa 
 
+- [breadsplit/breadsplit](https://github.com/breadsplit/breadsplit) - 🍞 Group bills split made easy, fast and customizable.
 - [mayneyao/eidos](https://github.com/mayneyao/eidos) - An extensible framework for Personal Data Management.
 - [aeharding/voyager](https://github.com/aeharding/voyager) - Voyager — a beautiful app for Lemmy
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
@@ -4610,7 +4612,7 @@
 - [rust-nostr/nostr](https://github.com/rust-nostr/nostr) - Rust implementation of the nostr protocol, high-level client library, Nostr Wallet Connect and more.
 - [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents
 - [Linen-dev/linen.dev](https://github.com/Linen-dev/linen.dev) - Lightweight Google-searchable Slack alternative for Communities
-- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted, FOSS cloud for Photos, 2FA secrets and more!
+- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted platform for photos, videos and 2FA secrets.
 - [heyverse/hey](https://github.com/heyverse/hey) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [vladimiry/ElectronMail](https://github.com/vladimiry/ElectronMail) - Unofficial ProtonMail Desktop App
@@ -4669,6 +4671,7 @@
 
 ## vue 
 
+- [breadsplit/breadsplit](https://github.com/breadsplit/breadsplit) - 🍞 Group bills split made easy, fast and customizable.
 - [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
 - [holtwick/briefing](https://github.com/holtwick/briefing) - 🔮 Secure direct video group chat
