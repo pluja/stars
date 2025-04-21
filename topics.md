@@ -262,6 +262,8 @@
 
 ## ai 
 
+- [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding 
+- [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically
 - [sammcj/gollama](https://github.com/sammcj/gollama) - Go manage your Ollama models
 - [rishikanthc/Scriberr](https://github.com/rishikanthc/Scriberr) - Self-hosted AI audio transcription
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Follow everything in one place
@@ -355,6 +357,7 @@
 
 ## android 
 
+- [aws-samples/swift-chat](https://github.com/aws-samples/swift-chat) - A lightning-fast, cross-platform AI chat application built with React Native.
 - [JHubi1/ollama-app](https://github.com/JHubi1/ollama-app) - A modern and easy-to-use client for Ollama
 - [pebble-dev/mobile-app](https://github.com/pebble-dev/mobile-app) - Cobble: Rebble device companion app for iOS and Android
 - [jameskokoska/Cashew](https://github.com/jameskokoska/Cashew) - 💸 An app created to help users manage a budget and purchases
@@ -416,7 +419,7 @@
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
 - [Marmo/debitum](https://github.com/Marmo/debitum) - free and libre IOU tracker for Android
 - [deckerst/aves](https://github.com/deckerst/aves) - Aves is a gallery and metadata explorer app, built for Android with Flutter.
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - This is an archive, please contribute to the main repository: https://git.omaps.dev/organicmaps/organicmaps
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [farmerbb/Notepad](https://github.com/farmerbb/Notepad) - A simple, bare-bones, no-frills note taking app for Android.
 - [PhilippC/keepass2android](https://github.com/PhilippC/keepass2android) - Password manager app for Android
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
@@ -495,7 +498,7 @@
 - [Tohrusky/Final2x](https://github.com/Tohrusky/Final2x) - 2^x Image Super-Resolution
 - [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, epub, etc) using a simple React frontend.
-- [muellerberndt/mini-agi](https://github.com/muellerberndt/mini-agi) - MiniAGI is a simple general-purpose autonomous agent based on the OpenAI API.
+- [muellerberndt/mini-agi](https://github.com/muellerberndt/mini-agi) - MiniAGI is a simple general-purpose AI agent based on the OpenAI API.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 Build, run, and manage data pipelines for integrating and transforming data.
 - [lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) - Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM
@@ -508,10 +511,11 @@
 
 ## automation 
 
+- [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding 
 - [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.
 - [antiwork/shortest](https://github.com/antiwork/shortest) - QA via natural language AI tests
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, VMware vRealize Automation, Rundeck...
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative for security and IT engineers. Built on simple YAML templates for integrations and response-as-code.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -580,6 +584,7 @@
 
 ## aws 
 
+- [aws-samples/swift-chat](https://github.com/aws-samples/swift-chat) - A lightning-fast, cross-platform AI chat application built with React Native.
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 
 ## azure 
@@ -694,6 +699,7 @@
 
 ## c 
 
+- [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically
 - [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming la
 - [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your 
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
@@ -717,7 +723,7 @@
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
 - [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 and deepseek r1, gpt-4.5
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.
 - [ayaka14732/ChatGPTAPIFree](https://github.com/ayaka14732/ChatGPTAPIFree) - A simple and open-source proxy API that allows you to access OpenAI's ChatGPT API for free!
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
@@ -753,7 +759,7 @@
 - [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 and deepseek r1, gpt-4.5
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 - [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, epub, etc) using a simple React frontend.
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
@@ -772,7 +778,7 @@
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
 - [deiucanta/chatpad](https://github.com/deiucanta/chatpad) - Not just another ChatGPT user-interface!
 - [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 and deepseek r1, gpt-4.5
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 
@@ -907,7 +913,7 @@
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - This is an archive, please contribute to the main repository: https://git.omaps.dev/organicmaps/organicmaps
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
 
@@ -1134,7 +1140,7 @@
 
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, VMware vRealize Automation, Rundeck...
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF)
@@ -1185,6 +1191,7 @@
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [getwud/wud](https://github.com/getwud/wud) - Keep your containers up-to-date!
 - [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
+- [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
 - [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
@@ -1428,6 +1435,7 @@
 
 ## flutter 
 
+- [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically
 - [jmshrv/finamp](https://github.com/jmshrv/finamp) - A Jellyfin music client for mobile
 - [jameskokoska/Cashew](https://github.com/jameskokoska/Cashew) - 💸 An app created to help users manage a budget and purchases
 - [meditohq/medito-app](https://github.com/meditohq/medito-app) - The Medito app is a 100% free meditation app built with flutter. The app is available on Android and iOS.
@@ -1941,7 +1949,7 @@
 - [tenacityteam/tenacity-legacy](https://github.com/tenacityteam/tenacity-legacy) - THIS REPO IS NOT MAINTAINED ANYMORE. Please see https://codeberg.org/tenacityteam/tenacity for Tenacity, which is maintained.
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - This is an archive, please contribute to the main repository: https://git.omaps.dev/organicmaps/organicmaps
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 8k and 60fps, compatible with all browsers and platforms.
@@ -2075,6 +2083,7 @@
 
 ## ios 
 
+- [aws-samples/swift-chat](https://github.com/aws-samples/swift-chat) - A lightning-fast, cross-platform AI chat application built with React Native.
 - [pebble-dev/mobile-app](https://github.com/pebble-dev/mobile-app) - Cobble: Rebble device companion app for iOS and Android
 - [jameskokoska/Cashew](https://github.com/jameskokoska/Cashew) - 💸 An app created to help users manage a budget and purchases
 - [Jigsaw-Code/outline-apps](https://github.com/Jigsaw-Code/outline-apps) - Outline Client and Manager, developed by Jigsaw. Outline Manager makes it easy to create your own VPN server. Outline Client lets you share access to your VPN with anyone in your network, giving them 
@@ -2091,7 +2100,7 @@
 - [oversecured/OversecuredVulnerableiOSApp](https://github.com/oversecured/OversecuredVulnerableiOSApp) - Oversecured Vulnerable iOS App
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - This is an archive, please contribute to the main repository: https://git.omaps.dev/organicmaps/organicmaps
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [jonjomckay/fritter](https://github.com/jonjomckay/fritter) - A privacy-friendly Twitter frontend for mobile devices
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
@@ -2116,7 +2125,7 @@
 ## java 
 
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, VMware vRealize Automation, Rundeck...
 - [MDeLuise/plant-it](https://github.com/MDeLuise/plant-it) - 🪴 Self-hosted, open source gardening companion app
 - [00-Evan/shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) - Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dun
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
@@ -2129,7 +2138,7 @@
 - [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically downloads selected version at startup
 - [mendhak/gpslogger](https://github.com/mendhak/gpslogger) - :satellite: Lightweight GPS Logging Application For Android.
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - This is an archive, please contribute to the main repository: https://git.omaps.dev/organicmaps/organicmaps
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
 - [haveno-dex/haveno](https://github.com/haveno-dex/haveno) - Decentralized P2P exchange platform built on Monero and Tor
 - [twireapp/Twire](https://github.com/twireapp/Twire) - Twire is an alternative and open source Twitch client for Android
@@ -2144,7 +2153,7 @@
 
 ## javascript 
 
-- [tiagorangel1/cap](https://github.com/tiagorangel1/cap) - Lightweight, modern open-source CAPTCHA alternative designed using SHA-256 proof-of-work.
+- [tiagorangel1/cap](https://github.com/tiagorangel1/cap) - Cap is a lightweight, modern open-source CAPTCHA alternative designed using SHA-256 proof-of-work
 - [rhee876527/chiyogami](https://github.com/rhee876527/chiyogami) - Yet another pastebin
 - [bewcloud/bewcloud](https://github.com/bewcloud/bewcloud) - A simpler alternative to Nextcloud and ownCloud, built with TypeScript and Deno using Fresh. 🦕 🍋
 - [Ajaxy/telegram-tt](https://github.com/Ajaxy/telegram-tt) - Telegram Web A, GPL v3
@@ -2331,6 +2340,7 @@
 
 ## linux 
 
+- [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding 
 - [sammcj/gollama](https://github.com/sammcj/gollama) - Go manage your Ollama models
 - [JHubi1/ollama-app](https://github.com/JHubi1/ollama-app) - A modern and easy-to-use client for Ollama
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!
@@ -2339,6 +2349,7 @@
 - [Jigsaw-Code/outline-apps](https://github.com/Jigsaw-Code/outline-apps) - Outline Client and Manager, developed by Jigsaw. Outline Manager makes it easy to create your own VPN server. Outline Client lets you share access to your VPN with anyone in your network, giving them 
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
 - [guackamolly/zero-monitor](https://github.com/guackamolly/zero-monitor) - (beta) One-click lightweight server monitor tool based on ZeroMQ protocol. Works on Windows, Linux, macOS, Raspberry PI (x32, x64, arm, arm64). Inspired by nezhahq/nezha, zabbix, prometheus. Takes no 
+- [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [OliveTin/OliveTin](https://github.com/OliveTin/OliveTin) - OliveTin gives safe and simple access to predefined shell commands from a web interface.
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
@@ -2402,6 +2413,7 @@
 
 ## llm 
 
+- [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding 
 - [sammcj/gollama](https://github.com/sammcj/gollama) - Go manage your Ollama models
 - [canopyai/Orpheus-TTS](https://github.com/canopyai/Orpheus-TTS) - Towards Human-Sounding Speech
 - [badboysm890/ClaraVerse](https://github.com/badboysm890/ClaraVerse) - Clara – Privacy-first, client-side AI assistant for Ollama with tool calling & mini n8n-style flow builder. No backend. No data leaks. 100% yours. Shoutout to Don ☕💙 for contributing to this project.
@@ -2462,6 +2474,7 @@
 
 ## localization 
 
+- [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) - A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTo
 - [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) - Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
 - [keshav-space/safenotes](https://github.com/keshav-space/safenotes) - Safe Notes is a security project aimed at providing an encrypted, private note manager that works locally and protects notes from various threat actors.
 
@@ -2472,7 +2485,7 @@
 
 ## low-code 
 
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, VMware vRealize Automation, Rundeck...
 - [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative for security and IT engineers. Built on simple YAML templates for integrations and response-as-code.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
@@ -2494,6 +2507,8 @@
 
 ## mac 
 
+- [aws-samples/swift-chat](https://github.com/aws-samples/swift-chat) - A lightning-fast, cross-platform AI chat application built with React Native.
+- [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding 
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!
 - [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
@@ -2545,6 +2560,7 @@
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
 - [guackamolly/zero-monitor](https://github.com/guackamolly/zero-monitor) - (beta) One-click lightweight server monitor tool based on ZeroMQ protocol. Works on Windows, Linux, macOS, Raspberry PI (x32, x64, arm, arm64). Inspired by nezhahq/nezha, zabbix, prometheus. Takes no 
 - [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
+- [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, R
 - [johang/btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
@@ -2638,8 +2654,9 @@
 
 ## mobile 
 
+- [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - This is an archive, please contribute to the main repository: https://git.omaps.dev/organicmaps/organicmaps
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 
 ## monero 
@@ -2769,6 +2786,7 @@
 
 ## nextjs 
 
+- [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically
 - [stonith404/pingvin-share](https://github.com/stonith404/pingvin-share) - A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing.
 - [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
 - [antiwork/shortest](https://github.com/antiwork/shortest) - QA via natural language AI tests
@@ -2804,7 +2822,7 @@
 - [riffusion/riffusion-app-hobby](https://github.com/riffusion/riffusion-app-hobby) - Stable diffusion for real-time music generation (web app)
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link attribution platform. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [NayamAmarshe/thiss.link](https://github.com/NayamAmarshe/thiss.link) - 🔥 MagLit - Privacy Respecting Encrypted Link Shortener with Password Protection and Torrent Magnet Links support
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
@@ -2888,7 +2906,7 @@
 ## objective-c 
 
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - This is an archive, please contribute to the main repository: https://git.omaps.dev/organicmaps/organicmaps
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 
 ## open-data 
 
@@ -2896,6 +2914,7 @@
 
 ## open-source 
 
+- [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - AI notepad for meetings. Local-first & Extensible.
 - [bewcloud/bewcloud](https://github.com/bewcloud/bewcloud) - A simpler alternative to Nextcloud and ownCloud, built with TypeScript and Deno using Fresh. 🦕 🍋
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 - [voideditor/void](https://github.com/voideditor/void) - 
@@ -2969,7 +2988,7 @@
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
 - [deiucanta/chatpad](https://github.com/deiucanta/chatpad) - Not just another ChatGPT user-interface!
 - [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 and deepseek r1, gpt-4.5
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 - [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, epub, etc) using a simple React frontend.
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
@@ -3009,6 +3028,9 @@
 
 ## others 
 
+- [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
+- [droidrun/droidrun](https://github.com/droidrun/droidrun) - 
+- [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [nvllz/stepsy](https://github.com/nvllz/stepsy) - Simple and lightweight step counter app for Android
 - [jim60105/docker-whisperX](https://github.com/jim60105/docker-whisperX) - Dockerfile for WhisperX: Automatic Speech Recognition with Word-Level Timestamps and Speaker Diarization (Dockerfile, CI image build and test)
 - [simonw/llm-hacker-news](https://github.com/simonw/llm-hacker-news) - LLM plugin for pulling content from Hacker News
@@ -3656,7 +3678,7 @@
 - [humanetech-community/awesome-humane-tech](https://github.com/humanetech-community/awesome-humane-tech) - Promoting Solutions that Improve Wellbeing, Freedom and Society
 - [google/fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption) - An FHE compiler for C++
 - [pluja/Feetter](https://github.com/pluja/Feetter) - Create, manage and sync anonymous Nitter feeds with Feetter
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - This is an archive, please contribute to the main repository: https://git.omaps.dev/organicmaps/organicmaps
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 - [HSchuette/mailmask](https://github.com/HSchuette/mailmask) - mailmask.me - Generate a unique and random forwarding address so you can still receive every email, newsletter etc. without sharing your personal address.
 - [milesmcc/shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
@@ -3713,6 +3735,7 @@
 
 ## python 
 
+- [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically
 - [harung1993/dollardollar](https://github.com/harung1993/dollardollar) - Just an Opensourced locally hosted Money Management and Expense Splitting Service
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
@@ -3849,6 +3872,7 @@
 
 ## pytorch 
 
+- [remsky/Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI) - Dockerized FastAPI wrapper for Kokoro-82M text-to-speech model w/CPU ONNX and NVIDIA GPU PyTorch support, handling, and auto-stitching
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference
 - [FunAudioLLM/SenseVoice](https://github.com/FunAudioLLM/SenseVoice) - Multilingual Voice Understanding Model
@@ -3904,6 +3928,7 @@
 
 ## react 
 
+- [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - AI notepad for meetings. Local-first & Extensible.
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 - [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy
 - [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
@@ -3954,6 +3979,7 @@
 
 ## react-native 
 
+- [aws-samples/swift-chat](https://github.com/aws-samples/swift-chat) - A lightning-fast, cross-platform AI chat application built with React Native.
 - [upryzing/clerotri](https://github.com/upryzing/clerotri) - React Native client for Upryzing and Revolt. Community-led project.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
@@ -4013,7 +4039,7 @@
 ## reverse-engineering 
 
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 and deepseek r1, gpt-4.5
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [niklashigi/apk-mitm](https://github.com/niklashigi/apk-mitm) - 🤖 A CLI application that automatically prepares Android APK files for HTTPS inspection
 - [AsuharietYgvar/AppleNeuralHash2ONNX](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX) - Convert Apple NeuralHash model for CSAM Detection to ONNX.
@@ -4032,6 +4058,8 @@
 
 ## rust 
 
+- [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - AI notepad for meetings. Local-first & Extensible.
+- [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding 
 - [ferronweb/ferron](https://github.com/ferronweb/ferron) - A fast, memory-safe web server written in Rust.
 - [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy
 - [revoltchat/backend](https://github.com/revoltchat/backend) - Monorepo for Revolt backend services.
@@ -4211,6 +4239,7 @@
 
 ## self-hosted 
 
+- [papra-hq/papra](https://github.com/papra-hq/papra) - The minimalistic document archiving platform.
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline.
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 - [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy
@@ -4274,7 +4303,7 @@
 - [snuffyDev/Beatbump](https://github.com/snuffyDev/Beatbump) - Alternative YouTube Music frontend built with Svelte/SvelteKit 🎧
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [NayamAmarshe/thiss.link](https://github.com/NayamAmarshe/thiss.link) - 🔥 MagLit - Privacy Respecting Encrypted Link Shortener with Password Protection and Torrent Magnet Links support
@@ -4498,7 +4527,7 @@
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
-- [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
+- [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
 - [nodetec/notebin](https://github.com/nodetec/notebin) - ✂️ Decentralized code snippets w/ ⚡ lightning tips
 - [heyverse/hey](https://github.com/heyverse/hey) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
@@ -4608,6 +4637,7 @@
 
 ## typescript 
 
+- [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - AI notepad for meetings. Local-first & Extensible.
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 - [bewcloud/bewcloud](https://github.com/bewcloud/bewcloud) - A simpler alternative to Nextcloud and ownCloud, built with TypeScript and Deno using Fresh. 🦕 🍋
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
@@ -4655,7 +4685,7 @@
 - [vladimiry/ElectronMail](https://github.com/vladimiry/ElectronMail) - Unofficial ProtonMail Desktop App
 - [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link attribution platform. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better auth and identity infrastructure and the open-source alternative to Auth0. No framework restrictions.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
@@ -4740,6 +4770,7 @@
 
 ## web 
 
+- [tiagorangel1/cap](https://github.com/tiagorangel1/cap) - Cap is a lightweight, modern open-source CAPTCHA alternative designed using SHA-256 proof-of-work
 - [ferronweb/ferron](https://github.com/ferronweb/ferron) - A fast, memory-safe web server written in Rust.
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -4808,12 +4839,14 @@
 
 ## windows 
 
+- [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding 
 - [JHubi1/ollama-app](https://github.com/JHubi1/ollama-app) - A modern and easy-to-use client for Ollama
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [Jigsaw-Code/outline-apps](https://github.com/Jigsaw-Code/outline-apps) - Outline Client and Manager, developed by Jigsaw. Outline Manager makes it easy to create your own VPN server. Outline Client lets you share access to your VPN with anyone in your network, giving them 
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
 - [guackamolly/zero-monitor](https://github.com/guackamolly/zero-monitor) - (beta) One-click lightweight server monitor tool based on ZeroMQ protocol. Works on Windows, Linux, macOS, Raspberry PI (x32, x64, arm, arm64). Inspired by nezhahq/nezha, zabbix, prometheus. Takes no 
+- [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve 
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, R
