@@ -30,7 +30,6 @@
 - [Lua](#lua)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
-- [NASL](#nasl)
 - [Nim](#nim)
 - [Others](#others)
 - [PHP](#php)
@@ -196,7 +195,7 @@
 - [tenacityteam/tenacity-legacy](https://github.com/tenacityteam/tenacity-legacy) - THIS REPO IS NOT MAINTAINED ANYMORE. Please see https://codeberg.org/tenacityteam/tenacity for Tenacity, which is maintained.
 - [stong/CVE-2020-15368](https://github.com/stong/CVE-2020-15368) - CVE-2020-15368, aka "How to exploit a vulnerable driver"
 - [google/fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption) - An FHE compiler for C++
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - Please read https://organicmaps.zulipchat.com/#narrow/channel/409110-General/topic/Forgejo/near/514687896
 - [chrxh/alien](https://github.com/chrxh/alien) - ALIEN is a CUDA-powered artificial life simulation program.
 - [dropbox/avrecode](https://github.com/dropbox/avrecode) - Lossless video compression: decode an H.264-encoded video file and reversibly re-encode it as as a smaller file.
 - [nanocurrency/nano-node](https://github.com/nanocurrency/nano-node) - Nano is digital currency. Its ticker is: XNO and its currency symbol is: Ӿ
@@ -866,10 +865,6 @@
 
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
-## NASL 
-
-- [mageni/mageni](https://github.com/mageni/mageni) - Open-source vulnerability scanner
-
 ## Nim 
 
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
@@ -1006,7 +1001,7 @@
 - [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 - [astramind-ai/Auralis](https://github.com/astramind-ai/Auralis) - A Fast TTS Engine
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 4, Qwen3, TTS, DeepSeek-R1, Gemma 3 & Reasoning LLMs 2x faster with 70% less memory! 🦥
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Qwen3, Llama 4, TTS, DeepSeek-R1 & Gemma 3 LLMs 2x faster with 70% less memory! 🦥
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.
 - [almarklein/timetagger](https://github.com/almarklein/timetagger) - Tag your time, get the insight
@@ -1720,7 +1715,7 @@
 - [bluesky-social/atproto](https://github.com/bluesky-social/atproto) - Social networking technology created by Bluesky
 - [snuffyDev/Beatbump](https://github.com/snuffyDev/Beatbump) - Alternative YouTube Music frontend built with Svelte/SvelteKit 🎧
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
-- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by modern marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
+- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
