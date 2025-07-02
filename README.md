@@ -110,7 +110,7 @@
 
 ## C# # 
 
-- [lanedirt/AliasVault](https://github.com/lanedirt/AliasVault) - Privacy-first password manager with built-in email aliasing. Fully E2EE and self-hostable.
+- [lanedirt/AliasVault](https://github.com/lanedirt/AliasVault) - Privacy-first password manager with built-in email aliasing. Fully encrypted and self-hostable.
 - [lingarr-translate/lingarr](https://github.com/lingarr-translate/lingarr) - Lingarr is an application that supports both local and SaaS translation services to translate subtitle files into a specified target language. With automated translation options, Lingarr simplifies tr
 - [streetwriters/notesnook-sync-server](https://github.com/streetwriters/notesnook-sync-server) - Sync server for Notesnook (self-hosting in alpha)
 - [Stability-AI/StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) - StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
@@ -618,6 +618,7 @@
 
 ## JavaScript 
 
+- [chrisvel/tududi](https://github.com/chrisvel/tududi) - Self-hosted task management with hierarchical organization, multi-language support, and Telegram integration. Built with React & Express.js
 - [holesail/holesail](https://github.com/holesail/holesail) - Holesail is the world's first truly peer-to-peer proxy for TCP and UDP ports. No port forwarding, servers or configuration required.
 - [tiagorangel1/cap](https://github.com/tiagorangel1/cap) - Cap is a lightweight, modern open-source CAPTCHA alternative using SHA-256 proof-of-work
 - [harung1993/dollardollar](https://github.com/harung1993/dollardollar) - Just an Opensourced locally hosted Money Management and Expense Splitting Service
@@ -862,7 +863,7 @@
 
 ## MDX 
 
-- [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
+- [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 
 ## Makefile 
 
@@ -935,6 +936,8 @@
 
 ## PHP 
 
+- [brufdev/many-notes](https://github.com/brufdev/many-notes) - Markdown note-taking web application designed for simplicity
+- [andrii-kryvoviaz/slink](https://github.com/andrii-kryvoviaz/slink) - Self-hosted image sharing service.
 - [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
 - [manualdousuario/marreta](https://github.com/manualdousuario/marreta) - Uma ferramenta que quebra barreiras de acesso e elementos que atrapalham a leitura! / Marreta is a tool that removes access barriers and visual distractions!
 - [investbrainapp/investbrain](https://github.com/investbrainapp/investbrain) - Smart open-source investment tracker that consolidates and monitors market performance across your different brokerages
@@ -977,6 +980,7 @@
 
 ## Python 
 
+- [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [Xoconoch/spotizerr](https://github.com/Xoconoch/spotizerr) - Spotify music downloader with a lossless twist, based on the deezspot library
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
@@ -1371,7 +1375,7 @@
 - [hudikhq/hoodik](https://github.com/hudikhq/hoodik) - Self hosted, easy to install end to end encrypted storage drive
 - [obhq/jailbreak-11](https://github.com/obhq/jailbreak-11) - Experimental PS4 jailbreak for 11.00 and lower
 - [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Blazingly fast LLM inference.
-- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
 - [redlib-org/redlib](https://github.com/redlib-org/redlib) - Private front-end for Reddit
 - [marin-m/SongRec](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust.
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
