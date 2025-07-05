@@ -1131,7 +1131,7 @@
 ## design 
 
 - [rawgraphs/rawgraphs-app](https://github.com/rawgraphs/rawgraphs-app) - A web interface to create custom vector-based visualizations on top of RAWGraphs core
-- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editi
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [nuejs/nue](https://github.com/nuejs/nue) - Standards first web framework taking HTML, CSS, JS, and WASM to their peak
 - [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open source website builder and Webflow alternative. Webstudio is an advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with 
@@ -1179,7 +1179,7 @@
 
 ## django 
 
-- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline.
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
 - [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy) - A :baby: buddy to help caregivers track sleep, feedings, diaper changes, tummy time and more to learn about and predict baby's needs without (as much) guess work.
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly—100% open source and self hosted, with native Postgre
@@ -1198,7 +1198,6 @@
 
 - [lanedirt/AliasVault](https://github.com/lanedirt/AliasVault) - Privacy-first password manager with built-in email aliasing. Fully encrypted and self-hostable.
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
-- [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 - [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1107+ languages!
 - [Jigsaw-Code/outline-server](https://github.com/Jigsaw-Code/outline-server) - Outline Server, developed by Jigsaw. The Outline Server is a proxy server that runs a Shadowsocks instance and provides a REST API for access key management.
@@ -1287,7 +1286,7 @@
 
 ## documentation 
 
-- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline.
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
 - [getkin/kin-openapi](https://github.com/getkin/kin-openapi) - OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
 - [thuliteio/doks](https://github.com/thuliteio/doks) - Everything you need to build a stellar documentation website. Fast, accessible, and easy to use.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
@@ -1325,7 +1324,6 @@
 - [Jigsaw-Code/outline-apps](https://github.com/Jigsaw-Code/outline-apps) - Outline Client and Manager, developed by Jigsaw. Outline Manager makes it easy to create your own VPN server. Outline Client lets you share access to your VPN with anyone in your network, giving them 
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [ArchGPT/insomnium](https://github.com/ArchGPT/insomnium) - Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia
 - [smol-ai/GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
 - [Tohrusky/Final2x](https://github.com/Tohrusky/Final2x) - 2^x Image Super-Resolution
@@ -1572,7 +1570,6 @@
 ## go 
 
 - [probonopd/go-appimage](https://github.com/probonopd/go-appimage) - Go implementation of AppImage tools
-- [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 - [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) - An implementation of Shazam's song recognition algorithm.
 - [steebchen/prisma-client-go](https://github.com/steebchen/prisma-client-go) - Prisma Client Go is an auto-generated and fully type-safe database client
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
@@ -2088,7 +2085,7 @@
 ## image-processing 
 
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
-- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editi
 - [Akylas/OSS-DocumentScanner](https://github.com/Akylas/OSS-DocumentScanner) - Android document document scanning app
 - [Tohrusky/Final2x](https://github.com/Tohrusky/Final2x) - 2^x Image Super-Resolution
 - [kevmo314/magic-copy](https://github.com/kevmo314/magic-copy) - Magic Copy is a Chrome extension that uses Meta's Segment Anything Model to extract a foreground object from an image and copy it to the clipboard.
@@ -2628,6 +2625,7 @@
 
 ## markdown 
 
+- [sheshbabu/zen](https://github.com/sheshbabu/zen) - Selfhosted notes app. Single golang binary, notes stored as markdown within SQLite, full-text search, very low resource usage
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
 - [radude/rentry](https://github.com/radude/rentry) - Markdown pastebin from command line
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
@@ -2821,6 +2819,7 @@
 
 ## nextjs 
 
+- [ddoemonn/next-blog](https://github.com/ddoemonn/next-blog) - self-hosted blog platform built with next.js
 - [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool) - 🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database.
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
 - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically
@@ -3994,13 +3993,13 @@
 
 ## react 
 
+- [ddoemonn/next-blog](https://github.com/ddoemonn/next-blog) - self-hosted blog platform built with next.js
 - [chrisvel/tududi](https://github.com/chrisvel/tududi) - Self-hosted task management with hierarchical organization, multi-language support, and Telegram integration. Built with React & Express.js
 - [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool) - 🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database.
 - [lanedirt/AliasVault](https://github.com/lanedirt/AliasVault) - Privacy-first password manager with built-in email aliasing. Fully encrypted and self-hostable.
 - [Jellify-Music/App](https://github.com/Jellify-Music/App) - A cross-platform, free and open source music player for Jellyfin 🪼 Powered by React Native ⚛️
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
 - [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Privacy-first AI Notepad for back-to-back meetings
-- [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 - [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy
 - [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
 - [aceberg/AnyAppStart](https://github.com/aceberg/AnyAppStart) - Control panel to Start/Stop/View Logs for apps in Docker, Systemd, VMs or anything else (with user scripts)
@@ -4071,7 +4070,7 @@
 ## reactjs 
 
 - [chrisvel/tududi](https://github.com/chrisvel/tududi) - Self-hosted task management with hierarchical organization, multi-language support, and Telegram integration. Built with React & Express.js
-- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline.
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
 - [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB, Elastic Search, and Clickhouse with Chat interface
 - [balzack/databag](https://github.com/balzack/databag) - fast & lightweight self-hosted messenger
 - [aeharding/voyager](https://github.com/aeharding/voyager) - Voyager — a beautiful app for Lemmy
@@ -4132,6 +4131,7 @@
 
 ## rust 
 
+- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [DioCrafts/OxiCloud](https://github.com/DioCrafts/OxiCloud) - ☁️ OxiCloud server, efficient and secure way to save all your data
 - [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Privacy-first AI Notepad for back-to-back meetings
@@ -4319,8 +4319,7 @@
 - [0xfurai/peekaping](https://github.com/0xfurai/peekaping) - 🚀 Modern self-hosted uptime monitoring solution - Monitor websites, APIs, and services with real-time notifications, beautiful status pages, and comprehensive analytics. Built with Go, React.
 - [DioCrafts/OxiCloud](https://github.com/DioCrafts/OxiCloud) - ☁️ OxiCloud server, efficient and secure way to save all your data
 - [papra-hq/papra](https://github.com/papra-hq/papra) - The minimalistic document archiving platform.
-- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline.
-- [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
 - [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy
 - [rhee876527/chiyogami](https://github.com/rhee876527/chiyogami) - Yet another pastebin
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player.
@@ -4500,6 +4499,7 @@
 
 ## sqlite 
 
+- [sheshbabu/zen](https://github.com/sheshbabu/zen) - Selfhosted notes app. Single golang binary, notes stored as markdown within SQLite, full-text search, very low resource usage
 - [steebchen/prisma-client-go](https://github.com/steebchen/prisma-client-go) - Prisma Client Go is an auto-generated and fully type-safe database client
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
@@ -4589,6 +4589,7 @@
 
 ## tailwindcss 
 
+- [ddoemonn/next-blog](https://github.com/ddoemonn/next-blog) - self-hosted blog platform built with next.js
 - [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool) - 🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database.
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
 - [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy
@@ -4738,7 +4739,6 @@
 - [Jellify-Music/App](https://github.com/Jellify-Music/App) - A cross-platform, free and open source music player for Jellyfin 🪼 Powered by React Native ⚛️
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
 - [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Privacy-first AI Notepad for back-to-back meetings
-- [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 - [bewcloud/bewcloud](https://github.com/bewcloud/bewcloud) - A simpler alternative to Nextcloud and ownCloud, built with TypeScript and Deno using Fresh. 🦕 🍋
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
