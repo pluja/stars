@@ -1130,6 +1130,8 @@
 
 ## design 
 
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [rawgraphs/rawgraphs-app](https://github.com/rawgraphs/rawgraphs-app) - A web interface to create custom vector-based visualizations on top of RAWGraphs core
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editi
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
@@ -1196,6 +1198,7 @@
 
 ## docker 
 
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [lanedirt/AliasVault](https://github.com/lanedirt/AliasVault) - Privacy-first password manager with built-in email aliasing. Fully encrypted and self-hostable.
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 - [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy
@@ -1496,6 +1499,7 @@
 
 ## frontend 
 
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open source website builder and Webflow alternative. Webstudio is an advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with 
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
@@ -1569,6 +1573,7 @@
 
 ## go 
 
+- [shopspring/decimal](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers in Go
 - [probonopd/go-appimage](https://github.com/probonopd/go-appimage) - Go implementation of AppImage tools
 - [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) - An implementation of Shazam's song recognition algorithm.
 - [steebchen/prisma-client-go](https://github.com/steebchen/prisma-client-go) - Prisma Client Go is an auto-generated and fully type-safe database client
@@ -1676,6 +1681,7 @@
 
 ## golang 
 
+- [shopspring/decimal](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers in Go
 - [probonopd/go-appimage](https://github.com/probonopd/go-appimage) - Go implementation of AppImage tools
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
@@ -1857,6 +1863,8 @@
 
 ## hacktoberfest 
 
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
+- [appwrite/sdk-for-go](https://github.com/appwrite/sdk-for-go) - [READ-ONLY] Official Appwrite GO SDK
 - [probonopd/go-appimage](https://github.com/probonopd/go-appimage) - Go implementation of AppImage tools
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
@@ -2182,6 +2190,7 @@
 
 ## javascript 
 
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [tiagorangel1/cap](https://github.com/tiagorangel1/cap) - Cap is a lightweight, modern open-source CAPTCHA alternative using SHA-256 proof-of-work
 - [rhee876527/chiyogami](https://github.com/rhee876527/chiyogami) - Yet another pastebin
 - [bewcloud/bewcloud](https://github.com/bewcloud/bewcloud) - A simpler alternative to Nextcloud and ownCloud, built with TypeScript and Deno using Fresh. 🦕 🍋
@@ -2514,6 +2523,7 @@
 
 ## low-code 
 
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...
 - [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - Open source Tines / Splunk SOAR alternative. All-in-one automation platform (workflows, tables, cases) for security and IT teams.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
@@ -2819,6 +2829,7 @@
 
 ## nextjs 
 
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 - [ddoemonn/next-blog](https://github.com/ddoemonn/next-blog) - self-hosted blog platform built with next.js
 - [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool) - 🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database.
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
@@ -3067,6 +3078,8 @@
 
 ## others 
 
+- [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor.
+- [jackjackbits/bitchat](https://github.com/jackjackbits/bitchat) - bluetooth mesh chat, IRC vibes
 - [brufdev/many-notes](https://github.com/brufdev/many-notes) - Markdown note-taking web application designed for simplicity
 - [serai-dex/serai](https://github.com/serai-dex/serai) - 
 - [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis
@@ -3972,6 +3985,7 @@
 
 ## rails 
 
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 
@@ -3993,6 +4007,7 @@
 
 ## react 
 
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 - [ddoemonn/next-blog](https://github.com/ddoemonn/next-blog) - self-hosted blog platform built with next.js
 - [chrisvel/tududi](https://github.com/chrisvel/tududi) - Self-hosted task management with hierarchical organization, multi-language support, and Telegram integration. Built with React & Express.js
 - [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool) - 🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database.
@@ -4124,6 +4139,7 @@
 
 ## ruby 
 
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
 - [postalserver/postal](https://github.com/postalserver/postal) - 📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail
@@ -4225,6 +4241,7 @@
 
 ## sass 
 
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [kazzkiq/balloon.css](https://github.com/kazzkiq/balloon.css) - Simple tooltips made of pure CSS
 - [rammcodes/Dopefolio](https://github.com/rammcodes/Dopefolio) - Dopefolio 🔥 - Portfolio Template for Developers 🚀
 
@@ -4589,6 +4606,7 @@
 
 ## tailwindcss 
 
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 - [ddoemonn/next-blog](https://github.com/ddoemonn/next-blog) - self-hosted blog platform built with next.js
 - [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool) - 🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database.
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
@@ -4735,6 +4753,7 @@
 
 ## typescript 
 
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 - [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool) - 🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database.
 - [Jellify-Music/App](https://github.com/Jellify-Music/App) - A cross-platform, free and open source music player for Jellyfin 🪼 Powered by React Native ⚛️
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
@@ -4808,6 +4827,7 @@
 
 ## ui 
 
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 - [maoserr/epublifier](https://github.com/maoserr/epublifier) - Converts some webnovels to epub format
 - [Stability-AI/StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) - StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
@@ -4877,6 +4897,7 @@
 
 ## vuejs 
 
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [sturdy-dev/sturdy](https://github.com/sturdy-dev/sturdy) - 🐥 Sturdy is an open-source, real-time, version control platform for startups (https://getsturdy.com)
