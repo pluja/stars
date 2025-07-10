@@ -292,6 +292,7 @@
 
 ## Go 
 
+- [go-fuego/fuego](https://github.com/go-fuego/fuego) - Golang Fuego - Web framework generating OpenAPI 3 spec from source code - Pluggable to existing Gin & Echo APIs
 - [appwrite/sdk-for-go](https://github.com/appwrite/sdk-for-go) - [READ-ONLY] Official Appwrite GO SDK
 - [shopspring/decimal](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers in Go
 - [probonopd/go-appimage](https://github.com/probonopd/go-appimage) - Go implementation of AppImage tools
@@ -801,6 +802,7 @@
 
 ## Kotlin 
 
+- [callebtc/bitchat-android](https://github.com/callebtc/bitchat-android) - bluetooth mesh chat, IRC vibes
 - [nvllz/stepsy](https://github.com/nvllz/stepsy) - Simple and lightweight step counter app for Android
 - [KieronQuinn/AmbientMusicMod](https://github.com/KieronQuinn/AmbientMusicMod) - Port of Now Playing from Pixels to other Android devices
 - [EmergeTools/hackernews](https://github.com/EmergeTools/hackernews) - A simple Hackernews client for Android and iOS
@@ -982,7 +984,7 @@
 
 ## Python 
 
-- [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
+- [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [Xoconoch/spotizerr](https://github.com/Xoconoch/spotizerr) - Spotify music downloader with a lossless twist, based on the deezspot library
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
