@@ -25,7 +25,6 @@
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
-- [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
@@ -381,7 +380,7 @@
 - [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket:
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
-- [spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go
+- [spf13/afero](https://github.com/spf13/afero) - The Universal Filesystem Abstraction for Go
 - [spf13/cast](https://github.com/spf13/cast) - safe and easy casting from one type to another in Go
 - [duke-git/lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of Go.
 - [go-resty/resty](https://github.com/go-resty/resty) - Simple HTTP, REST, and SSE client library for Go
@@ -440,7 +439,7 @@
 - [canostrical/blogsync](https://github.com/canostrical/blogsync) - Sync long-form Nostr notes to a local folder.
 - [mmcdole/gofeed](https://github.com/mmcdole/gofeed) - Parse RSS, Atom and JSON feeds in Go
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [xanzy/go-gitlab](https://github.com/xanzy/go-gitlab) - GitLab Go SDK
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [gorse-io/gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine
@@ -459,7 +458,7 @@
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - [SpatiumPortae/portal](https://github.com/SpatiumPortae/portal) - Portal is a quick and easy command-line file transfer utility from any computer to another 🌌 ✨
-- [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) - Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox or SSH compatible storage
+- [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) - Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox, Google Drive or SSH compatible storage
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [MarinX/keylogger](https://github.com/MarinX/keylogger) - Basic keylogger in Go (no C deps)
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
@@ -616,7 +615,6 @@
 - [haveno-dex/haveno](https://github.com/haveno-dex/haveno) - Decentralized P2P exchange platform built on Monero and Tor
 - [grishka/Houseclub](https://github.com/grishka/Houseclub) - A barebones unofficial Android app for Clubhouse
 - [exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace) - Leading free and open-source face recognition system
-- [twireapp/Twire](https://github.com/twireapp/Twire) - Twire is an alternative and open source Twitch client for Android
 - [AnySoftKeyboard/AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android (f/w 2.1+) on screen keyboard for multiple languages.
 - [willdoescode/willsautoclick](https://github.com/willdoescode/willsautoclick) - Fastest Java autoclicker in the entire west
 - [stingle/stingle-photos-android](https://github.com/stingle/stingle-photos-android) - Stingle Photos is an open-source, end-to-end encrypted media gallery application that provides backup, sharing and cross-platform sync functionality without sacrificing convenience.
@@ -766,10 +764,6 @@
 - [OfirKP/Whatsapp-Net](https://github.com/OfirKP/Whatsapp-Net) - Generate a network graph of connections from your WhatsApp groups data
 - [mafintosh/ble-swarm](https://github.com/mafintosh/ble-swarm) - Experimental swarm over bluetooth low energy
 
-## Jinja 
-
-- [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
-
 ## Jupyter Notebook 
 
 - [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) - Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
@@ -819,7 +813,7 @@
 - [retrnull/garnet](https://github.com/retrnull/garnet) - A fork of Amethyst with Monero tipping support
 - [meshenger-app/meshenger-android](https://github.com/meshenger-app/meshenger-android) - P2P Voice/Video phone App for local networks.
 - [LinkSheet/LinkSheet](https://github.com/LinkSheet/LinkSheet) - Link handling for modern Android
-- [quillpad/quillpad](https://github.com/quillpad/quillpad) - Take beautiful markdown notes and stay organized with task lists. Fork of Quillnote
+- [quillpad/quillpad](https://github.com/quillpad/quillpad) - Take beautiful markdown notes and stay organized with task lists.
 - [Droid-ify/client](https://github.com/Droid-ify/client) - Clutterfree F-Droid client
 - [fast4x/RiMusic](https://github.com/fast4x/RiMusic) - RiMusic is a multilingual and multiplatform application for streaming music
 - [Medvedev91/timeto.me](https://github.com/Medvedev91/timeto.me) - App with pomodoro, checklists, goals, tasks, repetitive, calendar and time tracking.
@@ -858,6 +852,7 @@
 - [enricocid/Music-Player-GO](https://github.com/enricocid/Music-Player-GO) - 🎶🎼 Very slim music player 👨‍🎤 100% made in Italy 🍕🌳🌞🍝🌄
 - [horizontalsystems/unstoppable-wallet-android](https://github.com/horizontalsystems/unstoppable-wallet-android) - A powerful non-custodial multi-wallet for Bitcoin, Ethereum, Binance Smart Chain, Avalanche, Solana and other blockchains. Non-custodial crypto and NFT storage, onchain decentralized exchange, institu
 - [AllanWang/Frost-for-Facebook](https://github.com/AllanWang/Frost-for-Facebook) - An extensive and functional third party app for Facebook
+- [twireapp/Twire](https://github.com/twireapp/Twire) - Twire is an alternative and open source Twitch client for Android
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in beta.
 - [allgood/OpenNoteScanner](https://github.com/allgood/OpenNoteScanner) - Android application for scanning and manipulating handwritten notes and documents.
 - [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
@@ -994,6 +989,7 @@
 
 ## Python 
 
+- [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - State-of-the-art TTS model under 25MB 😻
 - [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) - Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
@@ -1037,7 +1033,7 @@
 - [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 - [astramind-ai/Auralis](https://github.com/astramind-ai/Auralis) - A Fast TTS Engine
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train gpt-oss, Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.
 - [almarklein/timetagger](https://github.com/almarklein/timetagger) - Tag your time, get the insight
@@ -1108,7 +1104,7 @@
 - [cbh123/narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life
 - [pbelcak/UltraFastBERT](https://github.com/pbelcak/UltraFastBERT) - The repository for the code of the UltraFastBERT paper
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
-- [pytorch-labs/segment-anything-fast](https://github.com/pytorch-labs/segment-anything-fast) - A batched offline inference oriented version of segment-anything
+- [meta-pytorch/segment-anything-fast](https://github.com/meta-pytorch/segment-anything-fast) - A batched offline inference oriented version of segment-anything
 - [yl4579/StyleTTS2](https://github.com/yl4579/StyleTTS2) - StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models
 - [absadiki/subsai](https://github.com/absadiki/subsai) - 🎞️ Subtitles generation tool (Web-UI + CLI + Python package) powered by OpenAI's Whisper and its variants 🎞️
 - [netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice) - EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine
@@ -1169,6 +1165,7 @@
 - [trevorhobenshield/twitter-api-client](https://github.com/trevorhobenshield/twitter-api-client) - Implementation of X/Twitter v1, v2, and GraphQL APIs
 - [NotJoeMartinez/yt-fts](https://github.com/NotJoeMartinez/yt-fts) - YouTube Full Text Search - Search all of a YouTube channel from the command line
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
+- [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
 - [replit/ReplitLM](https://github.com/replit/ReplitLM) - Inference code and configs for the ReplitLM model family
@@ -1570,7 +1567,7 @@
 - [hhftechnology/traefik-log-dashboard](https://github.com/hhftechnology/traefik-log-dashboard) - A real-time dashboard for analyzing Traefik logs with IP geolocation, status code analysis, and service metrics. Built with React (Shadcn UI) and Node.js.
 - [operacle/checkcle](https://github.com/operacle/checkcle) - CheckCle is a self-hosted, open-source monitoring platform for seamless, real-time full-stack systems, applications, and infrastructure. It provides real-time uptime monitoring, distributed checks, in
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
-- [vernu/textbee](https://github.com/vernu/textbee) - open-source twillio alternative. turn any android phone into an sms gateway
+- [vernu/textbee](https://github.com/vernu/textbee) - open-source sms-gateway. turn any android phone into an sms gateway
 - [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 - [analogdotnow/Analog](https://github.com/analogdotnow/Analog) - Meet the calendar that changes everything
 - [Coyenn/iso](https://github.com/Coyenn/iso) - A plug-and-play dashboard for all your self-hosted services
@@ -1613,7 +1610,7 @@
 - [Jigsaw-Code/outline-server](https://github.com/Jigsaw-Code/outline-server) - Outline Server, developed by Jigsaw. The Outline Server is a proxy server that runs a Shadowsocks instance and provides a REST API for access key management.
 - [Jigsaw-Code/outline-apps](https://github.com/Jigsaw-Code/outline-apps) - Outline Client and Manager, developed by Jigsaw. Outline Manager makes it easy to create your own VPN server. Outline Client lets you share access to your VPN with anyone in your network, giving them 
 - [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [lucasgelfond/webgpu-sam2](https://github.com/lucasgelfond/webgpu-sam2) - Segment Anything 2, 100% in the browser (with WebGPU!)
 - [jordan-dalby/ByteStash](https://github.com/jordan-dalby/ByteStash) - A code snippet storage solution written in React & node.js
 - [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB, Elastic Search, and Clickhouse with Chat interface
