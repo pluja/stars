@@ -299,6 +299,8 @@
 
 ## Go 
 
+- [corazawaf/coraza](https://github.com/corazawaf/coraza) - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library
+- [corazawaf/coraza-caddy](https://github.com/corazawaf/coraza-caddy) - OWASP Coraza middleware for Caddy. It provides Web Application Firewall capabilities
 - [yzqzss/csswaf](https://github.com/yzqzss/csswaf) - A CSS-based NoJS Anti-BOT WAF (Proof of Concept)
 - [Deep-ai-inc/ch.at](https://github.com/Deep-ai-inc/ch.at) - Universal Basic Chat
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
@@ -615,8 +617,7 @@
 - [Alovoa/alovoa](https://github.com/Alovoa/alovoa) - Free and open-source dating platform that respects your privacy
 - [GrapheneOS/Camera](https://github.com/GrapheneOS/Camera) - Modern camera app focused on privacy and security with QR & barcode scanning.
 - [renyuneyun/Easer](https://github.com/renyuneyun/Easer) - User-defined explicit automation for Android
-- [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
-- [OpenTracksApp/OpenTracks](https://github.com/OpenTracksApp/OpenTracks) - OpenTracks is a sport tracking application that completely respects your privacy.
+- [OpenTracksApp/OpenTracks](https://github.com/OpenTracksApp/OpenTracks) - Repository moved to: https://codeberg.org/OpenTracksApp/OpenTracks
 - [Marmo/debitum](https://github.com/Marmo/debitum) - free and libre IOU tracker for Android
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
 - [WangDaYeeeeee/GeometricWeather](https://github.com/WangDaYeeeeee/GeometricWeather) - A Material Design Weather Application
@@ -852,6 +853,7 @@
 - [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
 - [ACINQ/phoenix](https://github.com/ACINQ/phoenix) - Phoenix is a self-custodial Bitcoin wallet using Lightning to send/receive payments.
 - [TwidereProject/TwidereX-Android](https://github.com/TwidereProject/TwidereX-Android) - Next generation of Twidere for Android
+- [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
 - [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser) - Iceraven Browser
 - [farmerbb/Notepad](https://github.com/farmerbb/Notepad) - A simple, bare-bones, no-frills note taking app for Android.
 - [seedvault-app/seedvault](https://github.com/seedvault-app/seedvault) - A backup application for the Android Open Source Project.
@@ -998,6 +1000,7 @@
 
 ## Python 
 
+- [PrivacyIsAllYouNeed/protector](https://github.com/PrivacyIsAllYouNeed/protector) - Real-time privacy protection for smart glasses
 - [denizsafak/abogen](https://github.com/denizsafak/abogen) - Generate audiobooks from EPUBs, PDFs and text with synchronized captions.
 - [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - State-of-the-art TTS model under 25MB 😻
 - [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) - Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.
@@ -1513,6 +1516,7 @@
 - [lalanza808/docker-monero-node](https://github.com/lalanza808/docker-monero-node) - Simple way to run a Monero daemon with some basic monitoring tools packaged in.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [hintjen/selfhosted-gateway](https://github.com/hintjen/selfhosted-gateway) - Self-hosted Docker native tunneling to localhost. Expose local docker containers to the public Internet via a simple docker compose interface.
+- [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [DoTheEvo/selfhosted-apps-docker](https://github.com/DoTheEvo/selfhosted-apps-docker) - Guide by Example
 - [BEPb/BEPb](https://github.com/BEPb/BEPb) - Config files for my GitHub profile.
@@ -1700,7 +1704,6 @@
 - [tldraw/make-real-starter](https://github.com/tldraw/make-real-starter) - Make it real
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
-- [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [BoltzExchange/boltz-backend](https://github.com/BoltzExchange/boltz-backend) - Boltz Backend
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [vangelov/devresume](https://github.com/vangelov/devresume) - A free web-based resume editor based on writing YAML with realtime preview and PDF export.
@@ -1748,7 +1751,7 @@
 - [NostrChat/NostrChat](https://github.com/NostrChat/NostrChat) - NostrChat is one of the most decentralized chat apps ever built.
 - [aeharding/voyager](https://github.com/aeharding/voyager) - Voyager — a beautiful app for Lemmy
 - [junhoyeo/threads-api](https://github.com/junhoyeo/threads-api) - Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta's Threads. Web UI Included.
-- [TensoRaws/Final2x](https://github.com/TensoRaws/Final2x) - A cross-platform image super-resolution tool.
+- [TensoRaws/Final2x](https://github.com/TensoRaws/Final2x) - a cross-platform image super-resolution tool
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Rethinking Student Productivity
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
@@ -1834,7 +1837,7 @@
 - [thedaviddelta/lingva-translate](https://github.com/thedaviddelta/lingva-translate) - Alternative front-end for Google Translate
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
-- [mempool/mempool](https://github.com/mempool/mempool) - Explore the full Bitcoin ecosystem with mempool.space, or self-host your own instance with one-click installation on popular Raspberry Pi fullnode distros including Umbrel, Raspiblitz, Start9, and mor
+- [mempool/mempool](https://github.com/mempool/mempool) - Explore the full Bitcoin ecosystem with mempool.space, or be your own explorer and self-host your own instance with one-click installation on popular Raspberry Pi fullnode distros including Umbrel, Ra
 - [mattwilson1024/google-photos-exif](https://github.com/mattwilson1024/google-photos-exif) - A tool to populate missing `DateTimeOriginal` EXIF metadata in Google Photos takeout, using Google's JSON metadata.
 - [BlueWallet/BlueWallet](https://github.com/BlueWallet/BlueWallet) - Bitcoin wallet for iOS & Android. Built with React Native
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
