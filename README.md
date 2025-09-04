@@ -117,7 +117,7 @@
 
 ## C# # 
 
-- [lanedirt/AliasVault](https://github.com/lanedirt/AliasVault) - Privacy-first password manager with built-in email aliasing. Fully encrypted and self-hostable.
+- [aliasvault/aliasvault](https://github.com/aliasvault/aliasvault) - Privacy-first password manager with built-in email aliasing. Fully encrypted and self-hostable.
 - [lingarr-translate/lingarr](https://github.com/lingarr-translate/lingarr) - Lingarr is an application that supports both local and SaaS translation services to translate subtitle files into a specified target language. With automated translation options, Lingarr simplifies tr
 - [streetwriters/notesnook-sync-server](https://github.com/streetwriters/notesnook-sync-server) - Sync server for Notesnook (self-hosting in alpha)
 - [Stability-AI/StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) - StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
@@ -1082,7 +1082,7 @@
 - [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [qianqianwang68/omnimotion](https://github.com/qianqianwang68/omnimotion) - 
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one automation platform (workflows, tables, cases) for security and IT teams. Open source Splunk SOAR / Tines alternative.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one automation platform (workflows, tables, cases) for security and IT teams. Open source Splunk SOAR / PAN XSOAR / Tines alternative.
 - [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) - 🤖 A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [vaphes/pocketbase](https://github.com/vaphes/pocketbase) - PocketBase client SDK for python
@@ -1210,7 +1210,7 @@
 - [zai-org/ChatGLM-6B](https://github.com/zai-org/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
 - [randaller/llama-chat](https://github.com/randaller/llama-chat) - Chat with Meta's LLaMA models at home made easy
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - LLM UI with advanced features, easy setup, and multiple backend support.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The definitive Web UI for local AI, with powerful features and easy setup.
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
 - [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
 - [enhuiz/vall-e](https://github.com/enhuiz/vall-e) - An unofficial PyTorch implementation of the audio LM VALL-E
