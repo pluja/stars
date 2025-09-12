@@ -72,6 +72,7 @@
 
 ## C 
 
+- [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver for go using database/sql
@@ -124,7 +125,6 @@
 - [rmcrackan/Libation](https://github.com/rmcrackan/Libation) - Libation: Liberate your Library
 - [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) - the subtitle editor :)
 - [Kukks/NNostr](https://github.com/Kukks/NNostr) - A Nostr Relay and Client written in C#
-- [builtbybel/privatezilla](https://github.com/builtbybel/privatezilla) - 👀👮🐢🔥Performs a privacy & security check of Windows 10
 - [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
 - [b4rtik/SharpKatz](https://github.com/b4rtik/SharpKatz) - Porting of mimikatz sekurlsa::logonpasswords,  sekurlsa::ekeys and lsadump::dcsync commands
 - [GhostPack/KeeThief](https://github.com/GhostPack/KeeThief) - Methods for attacking KeePass 2.X databases, including extracting of encryption key material from memory.
@@ -1061,7 +1061,7 @@
 - [lifeiteng/OmniSenseVoice](https://github.com/lifeiteng/OmniSenseVoice) - Omni SenseVoice: High-Speed Speech Recognition with words timestamps 🗣️🎯
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [querylab/lazywarden](https://github.com/querylab/lazywarden) - Automatic Bitwarden Backup
-- [groq/g1](https://github.com/groq/g1) - g1: Using Llama-3.1 70b on Groq to create o1-like reasoning chains
+- [build-with-groq/g1](https://github.com/build-with-groq/g1) - g1: Using Llama-3.1 70b on Groq to create o1-like reasoning chains
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
@@ -1099,7 +1099,7 @@
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
-- [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
+- [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection
 - [RoboSats/robosats](https://github.com/RoboSats/robosats) - A simple and private bitcoin exchange
 - [IdreesInc/Miracode](https://github.com/IdreesInc/Miracode) - A sharp, readable, vector-y version of Monocraft, the programming font based on Minecraft
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
@@ -1562,7 +1562,6 @@
 
 ## Swift 
 
-- [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
 - [theJayTea/WritingTools](https://github.com/theJayTea/WritingTools) - The world's smartest system-wide grammar assistant; a better version of the Apple Intelligence Writing Tools. Works on Windows, Linux, & macOS, with the free Gemini API, local LLMs, & more.
 - [erdaltoprak/tamga](https://github.com/erdaltoprak/tamga) - An offline first nostr contact & profile manager for iOS!
