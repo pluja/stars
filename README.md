@@ -189,7 +189,6 @@
 - [ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) - Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [hoytech/strfry](https://github.com/hoytech/strfry) - a nostr relay
-- [blueprint-freespeech/ricochet-refresh](https://github.com/blueprint-freespeech/ricochet-refresh) - Anonymous peer-to-peer instant messaging
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
@@ -643,7 +642,7 @@
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [sheshbabu/zen](https://github.com/sheshbabu/zen) - Selfhosted notes app. Single golang binary, notes stored as markdown within SQLite, full-text search, very low resource usage
 - [holesail/holesail](https://github.com/holesail/holesail) - Holesail is the world's first truly peer-to-peer proxy for TCP and UDP ports. No port forwarding, servers or configuration required.
-- [tiagozip/cap](https://github.com/tiagozip/cap) - Cap is a lightweight, modern open-source CAPTCHA alternative using SHA-256 proof-of-work
+- [tiagozip/cap](https://github.com/tiagozip/cap) - The privacy-first, self-hosted CAPTCHA for the modern web.
 - [harung1993/dollardollar](https://github.com/harung1993/dollardollar) - Just an Opensourced locally hosted Money Management and Expense Splitting Service
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
@@ -665,7 +664,7 @@
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [Kalabasa/htmz](https://github.com/Kalabasa/htmz) - html with targeted manipulation zones
 - [lumehq/nostr-connect](https://github.com/lumehq/nostr-connect) - nostr signer extension, fork of nos2x by fiatjaf
-- [Lunakepio/Mario-Kart-3.js](https://github.com/Lunakepio/Mario-Kart-3.js) - 
+- [mustache-dev/Mario-Kart-3.js](https://github.com/mustache-dev/Mario-Kart-3.js) - 
 - [bokub/nopaste](https://github.com/bokub/nopaste) - :clipboard: Client-side paste service
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
 - [miraclx/freyr-js](https://github.com/miraclx/freyr-js) - A tool for downloading songs from music streaming services like Spotify and Apple Music.
@@ -1006,6 +1005,7 @@
 
 ## Python 
 
+- [withoutbg/withoutbg](https://github.com/withoutbg/withoutbg) - Image Background Removal Toolkit - Open Source and API Models
 - [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing
 - [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM
@@ -1467,6 +1467,7 @@
 - [busyboredom/acceptxmr](https://github.com/busyboredom/acceptxmr) - A monero payment gateway library
 - [scsibug/nostr-rs-relay](https://github.com/scsibug/nostr-rs-relay) - Mirror of https://sr.ht/~gheartsfield/nostr-rs-relay/
 - [mikedilger/gossip](https://github.com/mikedilger/gossip) - Gossip is a nostr client
+- [blueprint-freespeech/ricochet-refresh](https://github.com/blueprint-freespeech/ricochet-refresh) - Anonymous peer-to-peer instant messaging
 - [rajarshimaitra/rust-nostr](https://github.com/rajarshimaitra/rust-nostr) - The Stage 2 building block to reach the dream of DSNs with Bitcoin DeFi
 - [hinto-janai/gupax](https://github.com/hinto-janai/gupax) - GUI Uniting P2Pool And XMRig
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
@@ -1678,7 +1679,7 @@
 - [trylinky/linky](https://github.com/trylinky/linky) - The dynamic personal homepage builder
 - [louisinger/silentium](https://github.com/louisinger/silentium) - BIP352 light mobile wallet
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
-- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🫖 Uptime monitoring & API monitoring as code with status page 🫖
+- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🫖 Status page with uptime monitoring & API monitoring as code   🫖
 - [httpjamesm/ScatterSafe](https://github.com/httpjamesm/ScatterSafe) - Backup your secrets securely and reliably.
 - [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (over 150 icon sets and 200k icons). SV
 - [mayneyao/eidos](https://github.com/mayneyao/eidos) - An extensible framework for Personal Data Management.
