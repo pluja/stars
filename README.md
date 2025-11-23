@@ -1592,6 +1592,7 @@
 
 ## TypeScript 
 
+- [ZimengXiong/ExcaliDash](https://github.com/ZimengXiong/ExcaliDash) - A self hosted dashboard and organizer for Excalidraw with live collaboration.
 - [deta/surf](https://github.com/deta/surf) - Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 - [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run
