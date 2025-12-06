@@ -1396,7 +1396,7 @@
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [DioCrafts/OxiCloud](https://github.com/DioCrafts/OxiCloud) - ☁️ OxiCloud server, efficient and secure way to save all your data
 - [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
-- [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding 
+- [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - Open-source Rust based AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization. 100% local processing. no cloud required. Meetily (Meetly
 - [ferronweb/ferron](https://github.com/ferronweb/ferron) - A fast, memory-safe web server written in Rust.
 - [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy
 - [vxfemboy/purrcrypt](https://github.com/vxfemboy/purrcrypt) - A fur-ociously secure encryption tool that encodes your secrets as adorable cat and dog sounds, using real elliptic curve cryptography with a playful disguise.
@@ -1407,7 +1407,7 @@
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
-- [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft Java Edition with a high level of detail.
+- [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
 - [madeofpendletonwool/PinePods](https://github.com/madeofpendletonwool/PinePods) - Pinepods is a complete podcast management system that allows you to play, download, and keep track of podcasts you enjoy. All self hosted and enjoyed on your own server!
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
 - [freetonik/textpod](https://github.com/freetonik/textpod) - Extremely simple note-taking app inspired by "One Big Text File"
@@ -1610,7 +1610,7 @@
 - [itskovacs/trip](https://github.com/itskovacs/trip) - 🗺️ Minimalist POI Map Tracker and Trip Planner. Self-hosted.
 - [colanode/colanode](https://github.com/colanode/colanode) - Open-source and local-first Slack and Notion alternative that puts you in control of your data
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
-- [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
+- [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
 - [spences10/mcp-omnisearch](https://github.com/spences10/mcp-omnisearch) - 🔍 A Model Context Protocol (MCP) server providing unified access to multiple search engines (Tavily, Brave, Kagi), AI tools (Perplexity, FastGPT), and content processing services (Jina AI, Kagi). Comb
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - Qwen Code is a coding agent that lives in the digital world.
 - [synthetic-lab/octofriend](https://github.com/synthetic-lab/octofriend) - An open-source coding helper. Very friendly!
