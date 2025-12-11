@@ -173,7 +173,7 @@
 - [trzy/llava-cpp-server](https://github.com/trzy/llava-cpp-server) - LLaVA server (llama.cpp).
 - [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - Run GGUF models easily with a KoboldAI UI. One File. Zero Install.
 - [supertuxkart/stk-code](https://github.com/supertuxkart/stk-code) - The code base of SuperTuxKart
-- [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch in C++. Play in your Browser! https://hypersomnia.io Made in 🇵🇱
+- [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch in C++. Web version: https://play.hypersomnia.io Made in 🇵🇱
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [YavorGIvanov/sam.cpp](https://github.com/YavorGIvanov/sam.cpp) - 
 - [PABannier/bark.cpp](https://github.com/PABannier/bark.cpp) - Suno AI's Bark model in C/C++ for fast text-to-speech generation
@@ -297,6 +297,7 @@
 
 ## Go 
 
+- [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 - [gzuidhof/tygo](https://github.com/gzuidhof/tygo) - Generate Typescript types from Golang source code
 - [tkrajina/typescriptify-golang-structs](https://github.com/tkrajina/typescriptify-golang-structs) - A Golang struct to TypeScript class/interface converter
 - [PrivateCaptcha/PrivateCaptcha](https://github.com/PrivateCaptcha/PrivateCaptcha) - Independent, privacy-first, self-hostable PoW CAPTCHA service made in EU
@@ -905,7 +906,7 @@
 
 ## Others 
 
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, T
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [pebble/pebble-3d](https://github.com/pebble/pebble-3d) - 3D drawings of Pebble
 - [potatoqualitee/eol-dr](https://github.com/potatoqualitee/eol-dr) - 🕊️ A crowd-sourced guide to help techs help their non-tech spouses / partners / parents / kids when we are at the end-of-life
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
@@ -1388,6 +1389,7 @@
 
 ## Rust 
 
+- [deuxfleurs-org/garage](https://github.com/deuxfleurs-org/garage) - (Mirror) S3-compatible object store for small self-hosted geo-distributed deployments. Main repo: https://git.deuxfleurs.fr/Deuxfleurs/garage
 - [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) - ⚡ Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary. FREE now, FREE forever.
 - [zedless-editor/zedless](https://github.com/zedless-editor/zedless) - (WIP) Zed fork focused on privacy and being local-first
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program
@@ -1429,7 +1431,7 @@
 - [hudikhq/hoodik](https://github.com/hudikhq/hoodik) - Self hosted, easy to install end to end encrypted storage drive
 - [obhq/jailbreak-11](https://github.com/obhq/jailbreak-11) - Experimental PS4 jailbreak for 11.00 and lower
 - [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Blazingly fast LLM inference.
-- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editi
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
 - [redlib-org/redlib](https://github.com/redlib-org/redlib) - Private front-end for Reddit
 - [marin-m/SongRec](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust.
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
@@ -1601,6 +1603,7 @@
 
 ## TypeScript 
 
+- [Sync-in/server](https://github.com/Sync-in/server) - Sync-in Server · Secure, open-source platform for file storage, sharing, collaboration, and syncing.
 - [IliasHad/edit-mind](https://github.com/IliasHad/edit-mind) - Desktop app and Web App (Docker) that indexes videos with AI (object detection, face recognition, emotion analysis), enables semantic search through natural language queries, and generates rough cuts
 - [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness) - SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.
 - [ZimengXiong/ExcaliDash](https://github.com/ZimengXiong/ExcaliDash) - A self hosted dashboard and organizer for Excalidraw with live collaboration.
@@ -1817,7 +1820,7 @@
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [Nutlope/restorePhotos](https://github.com/Nutlope/restorePhotos) - Restoring old and blurry face photos with AI.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
 - [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host.
 - [sandwichfarm/nostr-watch](https://github.com/sandwichfarm/nostr-watch) - A NIP-66 nostr client for browsing nostr relays
 - [cameri/nostream](https://github.com/cameri/nostream) - A Nostr Relay written in TypeScript
