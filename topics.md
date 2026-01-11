@@ -3932,6 +3932,7 @@
 
 ## package-manager 
 
+- [abusoww/tuxmate](https://github.com/abusoww/tuxmate) - THE MISSING BULK APP INSTALLER FOR LINUX
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 
 ## parsing 
@@ -5251,6 +5252,7 @@
 
 ## ubuntu 
 
+- [abusoww/tuxmate](https://github.com/abusoww/tuxmate) - THE MISSING BULK APP INSTALLER FOR LINUX
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [johang/btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
