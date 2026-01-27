@@ -301,7 +301,7 @@
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers.
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - :exploding_head: LobeHub - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling mult
 - [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in Headless mode to run async cloud agents or TUI mode as an in sync coding agent
@@ -345,7 +345,7 @@
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - :exploding_head: LobeHub - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling mult
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
@@ -839,7 +839,7 @@
 - [travisvn/openai-edge-tts](https://github.com/travisvn/openai-edge-tts) - Free, high-quality text-to-speech API endpoint to replace OpenAI, Azure, or ElevenLabs
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - :exploding_head: LobeHub - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling mult
 - [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) - 🤖 A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
@@ -1388,7 +1388,7 @@
 - [grishy/any-sync-bundle](https://github.com/grishy/any-sync-bundle) - Anytype Bundle: Prepackaged All-in-One Self-Hosting
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
 - [19-84/redd-archiver](https://github.com/19-84/redd-archiver) - A PostgreSQL-backed archive generator that creates browsable HTML archives from link aggregator platforms including Reddit, Voat, and Ruqqus.
-- [guillevc/yubal](https://github.com/guillevc/yubal) - YouTube Music album & playlist downloader with automatic metadata tagging.
+- [guillevc/yubal](https://github.com/guillevc/yubal) - YouTube Music downloader with automatic metadata tagging.
 - [databasus/databasus](https://github.com/databasus/databasus) - Databases backup tool (PostgreSQL, MySQL, MongoDB)
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 - [mayswind/ezbookkeeping](https://github.com/mayswind/ezbookkeeping) - A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.
@@ -1851,7 +1851,7 @@
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [mmcdole/gofeed](https://github.com/mmcdole/gofeed) - Parse RSS, Atom and JSON feeds in Go
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [gorse-io/gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine supports classical/LLM rankers and multimodal content via embedding
 - [sturdy-dev/sturdy](https://github.com/sturdy-dev/sturdy) - 🐥 Sturdy is an open-source, real-time, version control platform for startups (https://getsturdy.com)
@@ -1988,7 +1988,7 @@
 - [nedpals/supabase-go](https://github.com/nedpals/supabase-go) - Unofficial Supabase client library for Go.
 - [mmcdole/gofeed](https://github.com/mmcdole/gofeed) - Parse RSS, Atom and JSON feeds in Go
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [sturdy-dev/sturdy](https://github.com/sturdy-dev/sturdy) - 🐥 Sturdy is an open-source, real-time, version control platform for startups (https://getsturdy.com)
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
@@ -2779,7 +2779,7 @@
 - [OpenPipe/OpenPipe](https://github.com/OpenPipe/OpenPipe) - Turn expensive prompts into cheap fine-tuned models
 - [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in Headless mode to run async cloud agents or TUI mode as an in sync coding agent
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [liltom-eth/llama2-webui](https://github.com/liltom-eth/llama2-webui) - Run any Llama 2 locally with gradio UI on GPU or CPU from anywhere (Linux/Windows/Mac). Use `llama2-wrapper` as your local llama2 backend for Generative Agents/Apps.
 - [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
 - [gotzmann/llama.go](https://github.com/gotzmann/llama.go) - llama.go is like llama.cpp in pure Golang!
@@ -2925,6 +2925,7 @@
 
 ## malware 
 
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 
 ## markdown 
@@ -2986,7 +2987,7 @@
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - :exploding_head: LobeHub - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling mult
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
 - [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC client(linux, mac, win)
@@ -3169,7 +3170,6 @@
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🫖 Status page with uptime monitoring & API monitoring as code   🫖
 - [rashadphz/farfalle](https://github.com/rashadphz/farfalle) - 🔍 AI search engine - self-host with local or cloud LLMs
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
 - [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one AI automation platform (workflows, agents, cases, tables) for security, IT, and infra teams.
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
@@ -3377,7 +3377,7 @@
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [rashadphz/farfalle](https://github.com/rashadphz/farfalle) - 🔍 AI search engine - self-host with local or cloud LLMs
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - :exploding_head: LobeHub - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling mult
 - [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) - 🤖 A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python
 - [pluja/maestro](https://github.com/pluja/maestro) - Turn natual language into commands. Your CLI tasks, now as easy as a conversation. Run it 100% offline, or use OpenAI's models.
 - [aymenfurter/microagents](https://github.com/aymenfurter/microagents) - Agents Capable of Self-Editing Their Prompts / Python Code
@@ -4207,7 +4207,7 @@
 
 ## python 
 
-- [guillevc/yubal](https://github.com/guillevc/yubal) - YouTube Music album & playlist downloader with automatic metadata tagging.
+- [guillevc/yubal](https://github.com/guillevc/yubal) - YouTube Music downloader with automatic metadata tagging.
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Connect any LLM to your internal knowledge sources and chat with it in real time alongside your team. OSS alternative to NotebookLM, Perplexity, and Glean. Join our Discord: https://discord.gg/ejRNvft
 - [kroko-ai/kroko-onnx](https://github.com/kroko-ai/kroko-onnx) - Kroko ASR - Speech-to-text
 - [arpanghosh8453/garmin-grafana](https://github.com/arpanghosh8453/garmin-grafana) - A Dockerized python Script to fetch Garmin health data and populate that in a InfluxDB Database, for visualization long term health trends with Grafana
@@ -4397,7 +4397,6 @@
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered answering engine.
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -4586,7 +4585,7 @@
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) - Main engine of the IronCalc ecosystem
-- [asterinas/asterinas](https://github.com/asterinas/asterinas) - Asterinas is a secure, fast, and general-purpose OS kernel, written in Rust and providing Linux-compatible ABI.
+- [asterinas/asterinas](https://github.com/asterinas/asterinas) - Asterinas aims to be a production-grade Linux alternative—memory safe, high-performance, and more.
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
 - [mrjackwills/oxker](https://github.com/mrjackwills/oxker) - A simple tui to view & control docker containers
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
@@ -4763,7 +4762,7 @@
 - [grishy/any-sync-bundle](https://github.com/grishy/any-sync-bundle) - Anytype Bundle: Prepackaged All-in-One Self-Hosting
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
 - [19-84/redd-archiver](https://github.com/19-84/redd-archiver) - A PostgreSQL-backed archive generator that creates browsable HTML archives from link aggregator platforms including Reddit, Voat, and Ruqqus.
-- [guillevc/yubal](https://github.com/guillevc/yubal) - YouTube Music album & playlist downloader with automatic metadata tagging.
+- [guillevc/yubal](https://github.com/guillevc/yubal) - YouTube Music downloader with automatic metadata tagging.
 - [norish-recipes/norish](https://github.com/norish-recipes/norish) - Norish - A realtime, self-hosted recipe app for families & friends
 - [databasus/databasus](https://github.com/databasus/databasus) - Databases backup tool (PostgreSQL, MySQL, MongoDB)
 - [Sync-in/server](https://github.com/Sync-in/server) - Sync-in server · Secure, open-source platform for file storage, sharing, collaboration, and syncing.
