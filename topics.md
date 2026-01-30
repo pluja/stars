@@ -835,7 +835,6 @@
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
-- [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB, Elastic Search, and Clickhouse with Chat interface
 - [travisvn/openai-edge-tts](https://github.com/travisvn/openai-edge-tts) - Free, high-quality text-to-speech API endpoint to replace OpenAI, Azure, or ElevenLabs
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
@@ -1204,6 +1203,7 @@
 ## data-visualization 
 
 - [rawgraphs/rawgraphs-app](https://github.com/rawgraphs/rawgraphs-app) - A web interface to create custom vector-based visualizations on top of RAWGraphs core
+- [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB, Elastic Search, and Clickhouse with Chat interface
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [OGreenwood672/Twitter-Map](https://github.com/OGreenwood672/Twitter-Map) - A visualization of people a user follows on Twitter
 
@@ -2755,7 +2755,7 @@
 - [b4rtaz/distributed-llama](https://github.com/b4rtaz/distributed-llama) - Distributed LLM inference. Connect home devices into a powerful cluster to accelerate LLM inference. More devices means faster inference.
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered answering engine.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
-- [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Blazingly fast LLM inference.
+- [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Fast, flexible LLM inference
 - [jina-ai/reader](https://github.com/jina-ai/reader) - Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
 - [nilsherzig/LLocalSearch](https://github.com/nilsherzig/LLocalSearch) - LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress o
 - [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one AI automation platform (workflows, agents, cases, tables) for security, IT, and infra teams.
@@ -3528,7 +3528,7 @@
 - [afadil/wealthfolio](https://github.com/afadil/wealthfolio) - A Beautiful Private and Secure Desktop Investment Tracking Application
 - [streetwriters/notesnook-sync-server](https://github.com/streetwriters/notesnook-sync-server) - Sync server for Notesnook (self-hosting in alpha)
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
-- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+- [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
 - [trylinky/linky](https://github.com/trylinky/linky) - The dynamic personal homepage builder
 - [fiatjaf/khatru](https://github.com/fiatjaf/khatru) - a framework for making custom Nostr relays
 - [AnswerDotAI/fasthtml](https://github.com/AnswerDotAI/fasthtml) - The fastest way to create an HTML app
@@ -4593,7 +4593,7 @@
 - [httpjamesm/ScatterSafe](https://github.com/httpjamesm/ScatterSafe) - Backup your secrets securely and reliably.
 - [Cuprate/cuprate](https://github.com/Cuprate/cuprate) - Cuprate, a modular Monero node written in Rust.
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
-- [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Blazingly fast LLM inference.
+- [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Fast, flexible LLM inference
 - [redlib-org/redlib](https://github.com/redlib-org/redlib) - Private front-end for Reddit
 - [marin-m/SongRec](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust.
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
