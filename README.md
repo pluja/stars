@@ -1150,7 +1150,6 @@
 - [cbh123/narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [pbelcak/UltraFastBERT](https://github.com/pbelcak/UltraFastBERT) - The repository for the code of the UltraFastBERT paper
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [meta-pytorch/segment-anything-fast](https://github.com/meta-pytorch/segment-anything-fast) - A batched offline inference oriented version of segment-anything
 - [yl4579/StyleTTS2](https://github.com/yl4579/StyleTTS2) - StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models
 - [absadiki/subsai](https://github.com/absadiki/subsai) - 🎞️ Subtitles generation tool (Web-UI + CLI + Python package) powered by OpenAI's Whisper and its variants 🎞️
@@ -1757,6 +1756,7 @@
 - [hinterdupfinger/obsidian-ollama](https://github.com/hinterdupfinger/obsidian-ollama) - 
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [tldraw/make-real-starter](https://github.com/tldraw/make-real-starter) - Make it real
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [BoltzExchange/boltz-backend](https://github.com/BoltzExchange/boltz-backend) - Boltz Backend
@@ -1844,7 +1844,7 @@
 - [cameri/nostream](https://github.com/cameri/nostream) - A Nostr Relay written in TypeScript
 - [riffusion/riffusion-app-hobby](https://github.com/riffusion/riffusion-app-hobby) - Stable diffusion for real-time music generation (web app)
 - [nbd-wtf/nostr-tools](https://github.com/nbd-wtf/nostr-tools) - Tools for developing Nostr clients.
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary-microblogging platform 🚀
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
