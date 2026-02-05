@@ -586,6 +586,7 @@
 - [atc1441/ATCmiBand8fw](https://github.com/atc1441/ATCmiBand8fw) - A custom firmware for the Xiaomi Mi Band 8
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
+- [vercel/geist-font](https://github.com/vercel/geist-font) - 
 - [pdf2htmlEX/pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
 - [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source lic
 - [monero-project/monero-site](https://github.com/monero-project/monero-site) - 
@@ -1160,7 +1161,6 @@
 - [AILab-CVC/VideoCrafter](https://github.com/AILab-CVC/VideoCrafter) - VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models
 - [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and embed dubbing & subtitles.
 - [huggingface/distil-whisper](https://github.com/huggingface/distil-whisper) - Distilled variant of Whisper for speech recognition. 6x faster, 50% smaller, within 1% word error rate.
-- [vercel/geist-font](https://github.com/vercel/geist-font) - 
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 - [Audio-AGI/AudioSep](https://github.com/Audio-AGI/AudioSep) - Official implementation of "Separate Anything You Describe"
