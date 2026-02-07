@@ -3433,6 +3433,7 @@
 
 ## others 
 
+- [eljojo/rememory](https://github.com/eljojo/rememory) - have a plan for the worst-case scenario
 - [civilblur/youlag](https://github.com/civilblur/youlag) - Youlag: Extension for FreshRSS, browse YouTube and article feeds through a modernized design
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [ZhFahim/anchor](https://github.com/ZhFahim/anchor) - Offline first, self hostable note taking application
