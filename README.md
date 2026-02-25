@@ -21,6 +21,7 @@
 - [Elixir](#elixir)
 - [Fluent](#fluent)
 - [Go](#go)
+- [Go Template](#go-template)
 - [Groovy](#groovy)
 - [HTML](#html)
 - [Handlebars](#handlebars)
@@ -277,7 +278,6 @@
 - [sethforprivacy/silentpaymentsxyz](https://github.com/sethforprivacy/silentpaymentsxyz) - 
 - [linuxserver/docker-piper](https://github.com/linuxserver/docker-piper) - 
 - [yewtudotbe/invidious-custom](https://github.com/yewtudotbe/invidious-custom) - Invidious with some git patches (mostly from existing PRs)
-- [wemake-services/caddy-gen](https://github.com/wemake-services/caddy-gen) - Automated Caddy reverse proxy for docker containers
 - [sethforprivacy/p2pool-docker](https://github.com/sethforprivacy/p2pool-docker) - A simple and straightforward Dockerized p2pool built from source and exposing standard ports.
 - [sethforprivacy/simple-monero-wallet-rpc-docker](https://github.com/sethforprivacy/simple-monero-wallet-rpc-docker) - 
 - [sethforprivacy/simple-monerod-docker](https://github.com/sethforprivacy/simple-monerod-docker) - A simple and straightforward Dockerized monerod built from source and exposing standard ports.
@@ -575,6 +575,10 @@
 - [peer-calls/peer-calls](https://github.com/peer-calls/peer-calls) - Group peer to peer video calls for everyone written in Go and TypeScript
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 
+## Go Template 
+
+- [wemake-services/caddy-gen](https://github.com/wemake-services/caddy-gen) - Automated Caddy reverse proxy for docker containers
+
 ## Groovy 
 
 - [zlatinb/muwire](https://github.com/zlatinb/muwire) - MuWire file sharing client for I2P
@@ -595,7 +599,7 @@
 - [thuliteio/doks](https://github.com/thuliteio/doks) - Everything you need to build a stellar documentation website. Fast, accessible, and easy to use.
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
 - [mprimi/portable-secret](https://github.com/mprimi/portable-secret) - Better privacy without special software
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
@@ -1618,7 +1622,7 @@
 
 ## TypeScript 
 
-- [arpanghosh8453/drone-logbook](https://github.com/arpanghosh8453/drone-logbook) - DJI Fly Log analyzer: A high-performance universal dashboard application for organizing and analyzing DJI drone flight logs privately in one place. Built with Tauri v2, DuckDB, and React.
+- [arpanghosh8453/open-dronelog](https://github.com/arpanghosh8453/open-dronelog) - Drone Log analyzer: A high-performance universal dashboard application for organizing and analyzing DJI/Litchi flight logs privately in one place. Built with Tauri v2, DuckDB, and React.
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source voice synthesis studio powered by Qwen3-TTS.
 - [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
