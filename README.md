@@ -78,7 +78,7 @@
 
 - [coredevices/PebbleOS](https://github.com/coredevices/PebbleOS) - 
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
-- [dicedb/dicedb](https://github.com/dicedb/dicedb) - Open-source, low-latency key/value engine built on Valkey with hierarchical storage tiers.
+- [dicedb/dicedb](https://github.com/dicedb/dicedb) - Open-source, low-latency key/value engine built on Valkey with query subscriptions and hierarchical storage tiers.
 - [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver for go using database/sql
 - [cathugger/mkp224o](https://github.com/cathugger/mkp224o) - vanity address generator for tor onion v3 (ed25519) hidden services
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
@@ -247,6 +247,7 @@
 
 ## Dart 
 
+- [Teskann/QuaX](https://github.com/Teskann/QuaX) - Privacy respecting X client for Android
 - [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also c
 - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically
 - [JHubi1/ollama-app](https://github.com/JHubi1/ollama-app) - A modern and easy-to-use client for Ollama
@@ -503,7 +504,7 @@
 - [m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Run your own GPTChat Telegram bot, with a single command!
 - [boombuler/barcode](https://github.com/boombuler/barcode) - a barcode creation lib for golang
 - [omani/go-monero-rpc-client](https://github.com/omani/go-monero-rpc-client) - A go client for the Monero wallet and daemon RPC
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
 - [joho/godotenv](https://github.com/joho/godotenv) - A Go port of Ruby's dotenv library (Loads environment variables from .env files)
 - [u2takey/ffmpeg-go](https://github.com/u2takey/ffmpeg-go) - golang binding for ffmpeg
 - [fatih/color](https://github.com/fatih/color) - Color package for Go (golang)
@@ -1028,7 +1029,7 @@
 
 ## PowerShell 
 
-- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debl
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize and improve your Windows experience. Win1
 - [darkquasar/AzureHunter](https://github.com/darkquasar/AzureHunter) - A Cloud Forensics Powershell module to run threat hunting playbooks on data from Azure and O365
 - [S3cur3Th1sSh1t/PowerSharpPack](https://github.com/S3cur3Th1sSh1t/PowerSharpPack) - 
 
@@ -1313,7 +1314,7 @@
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
 - [hauxir/rapidbay](https://github.com/hauxir/rapidbay) - Self-hosted torrent video streaming service compatible with Chromecast, AppleTV & Kodi deployable in the cloud
-- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
+- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted video downloader for YouTube and other sites (web UI for youtube-dl / yt-dlp)
 - [AlessandroZ/LaZagne](https://github.com/AlessandroZ/LaZagne) - Credentials recovery project
 - [CyberPunkMetalHead/binance-trading-bot-new-coins](https://github.com/CyberPunkMetalHead/binance-trading-bot-new-coins) - This Binance trading bot detects new coins as soon as they are listed on the Binance exchange and automatically places sell and buy orders. It comes with trailing stop loss and other features. If you 
 - [OGreenwood672/Twitter-Map](https://github.com/OGreenwood672/Twitter-Map) - A visualization of people a user follows on Twitter
@@ -1446,6 +1447,7 @@
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) - Minimal LLM inference in Rust
 - [mrjackwills/oxker](https://github.com/mrjackwills/oxker) - A simple tui to view & control docker containers
+- [afadil/wealthfolio](https://github.com/afadil/wealthfolio) - A Beautiful Private and Secure Desktop Investment Tracking Application
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 - [PolyMeilex/Neothesia](https://github.com/PolyMeilex/Neothesia) - Flashy Synthesia Like Software For Linux, Windows and MacOs
@@ -1727,7 +1729,6 @@
 - [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
 - [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) - 
 - [voideditor/void](https://github.com/voideditor/void) - 
-- [afadil/wealthfolio](https://github.com/afadil/wealthfolio) - A Beautiful Private and Secure Desktop Investment Tracking Application
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [trylinky/linky](https://github.com/trylinky/linky) - The dynamic personal homepage builder
 - [louisinger/silentium](https://github.com/louisinger/silentium) - BIP352 light mobile wallet
