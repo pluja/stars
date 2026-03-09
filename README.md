@@ -303,7 +303,7 @@
 
 ## Go 
 
-- [safebucket/safebucket](https://github.com/safebucket/safebucket) - On-premise file sharing made simple, fast and safe ⚡️🔐
+- [safebucket/safebucket](https://github.com/safebucket/safebucket) - On-prem file sharing made simple, fast and safe ⚡️🔐
 - [eljojo/rememory](https://github.com/eljojo/rememory) - a digital safe with multiple keys, held by people you trust
 - [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA platform, API/AI/MCP gateway, a PaaS, an ngrok-alternative and a homelab infrastru
 - [grishy/any-sync-bundle](https://github.com/grishy/any-sync-bundle) - Anytype Bundle: Prepackaged All-in-One Self-Hosting
@@ -1029,7 +1029,7 @@
 
 ## PowerShell 
 
-- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize and improve your Windows experience. Win1
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi
 - [darkquasar/AzureHunter](https://github.com/darkquasar/AzureHunter) - A Cloud Forensics Powershell module to run threat hunting playbooks on data from Azure and O365
 - [S3cur3Th1sSh1t/PowerSharpPack](https://github.com/S3cur3Th1sSh1t/PowerSharpPack) - 
 
