@@ -316,7 +316,7 @@
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw) - Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig
 - [SimonSchubert/Kai](https://github.com/SimonSchubert/Kai) - OpenClaw alternative in your pocket
-- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source voice synthesis studio powered by Qwen3-TTS.
+- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source voice synthesis studio
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [coreply/coreply](https://github.com/coreply/coreply) - Finishes your sentences while typing in a messaging app.
@@ -2731,6 +2731,7 @@
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) - A terminal based Pokemon like game
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
+- [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [marchellodev/sharik](https://github.com/marchellodev/sharik) - Sharik is an open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
@@ -2949,6 +2950,7 @@
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
+- [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [marchellodev/sharik](https://github.com/marchellodev/sharik) - Sharik is an open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
@@ -3810,7 +3812,7 @@
 - [randaller/llama-chat](https://github.com/randaller/llama-chat) - Chat with Meta's LLaMA models at home made easy
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [shawwn/llama-dl](https://github.com/shawwn/llama-dl) - High-speed download of LLaMA, Facebook's 65B parameter GPT model
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The best local UI for large language models, with easy setup and powerful features. 100% offline.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The original local LLM interface. Text, vision, tool-calling, training, and more. 100% offline.
 - [Dolu89/nostr-proxy](https://github.com/Dolu89/nostr-proxy) - Nostr proxy: save you WS connections
 - [t4t5/flamingo](https://github.com/t4t5/flamingo) - a Nostr browser extension focused on UX 🦩
 - [hoytech/strfry](https://github.com/hoytech/strfry) - a nostr relay
