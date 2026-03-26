@@ -75,6 +75,7 @@
 - [development](#development)
 - [devops](#devops)
 - [discord](#discord)
+- [distributed-systems](#distributed-systems)
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
@@ -1389,6 +1390,14 @@
 - [MattMoony/figaro](https://github.com/MattMoony/figaro) - Real-time voice-changer for voice-chat, etc. Will support many different voice-filters and features in the future. 🎵
 - [Linen-dev/linen.dev](https://github.com/Linen-dev/linen.dev) - Lightweight Google-searchable Slack alternative for Communities
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A mod for the Discord Android App
+
+## distributed-systems 
+
+- [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
+- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
+- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.
+- [cursusdb/cursusdb](https://github.com/cursusdb/cursusdb) - CursusDB is an open-source distributed in-memory yet persisted document oriented database system with real time capabilities.
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 
 ## django 
 
