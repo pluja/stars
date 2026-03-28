@@ -1640,6 +1640,8 @@
 
 ## TypeScript 
 
+- [run-llama/liteparse](https://github.com/run-llama/liteparse) - A fast, helpful, and open-source document parser
+- [mauriceboe/NOMAD](https://github.com/mauriceboe/NOMAD) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
 - [eggricesoy/filmkit](https://github.com/eggricesoy/filmkit) - Create and manage Fujifilm camera profiles, with ease and speed. Connect your camera and you are good to go!
 - [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
 - [Nano-Collective/nanocoder](https://github.com/Nano-Collective/nanocoder) - A beautiful local-first coding agent running in your terminal - built by the community for the community ⚒
