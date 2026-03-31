@@ -145,14 +145,14 @@
 
 ## C++ 
 
-- [ServeurpersoCom/acestep.cpp](https://github.com/ServeurpersoCom/acestep.cpp) - Portable C++17 implementation of ACE-Step 1.5 music generation using GGML. Text + lyrics in, stereo 48kHz MP3 or WAV out. Runs on CPU, CUDA, ROCm, Metal, Vulkan.
+- [ServeurpersoCom/acestep.cpp](https://github.com/ServeurpersoCom/acestep.cpp) - Portable C++17 implementation of ACE-Step 1.5 AI Music Generator using GGML. Text + lyrics in, stereo 48kHz MP3 or WAV out. Runs on CPU, CUDA, ROCm, Metal, Vulkan.
 - [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) - Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk
 - [RunanywhereAI/runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks) - Production ready toolkit to run AI locally
 - [kroko-ai/kroko-onnx](https://github.com/kroko-ai/kroko-onnx) - Kroko ASR - Speech-to-text
 - [alibaba/MNN](https://github.com/alibaba/MNN) - MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI.
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
-- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
+- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
 - [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
 - [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) - Amnezia VPN Client (Desktop+Mobile)
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
@@ -464,6 +464,7 @@
 - [pluja/blogo](https://github.com/pluja/blogo) - A lightweight blogging engine that backs itself up to Nostr!
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
+- [openziti/zrok](https://github.com/openziti/zrok) - Secure internet sharing made simple.
 - [wader/goutubedl](https://github.com/wader/goutubedl) - Go wrapper for youtube-dl and yt-dlp
 - [lesismal/nbio](https://github.com/lesismal/nbio) - Pure Go 1000k+ connections solution, support tls/http1.x/websocket and basically compatible with net/http, with high-performance and low memory cost, non-blocking, event-driven, easy-to-use.
 - [nedpals/supabase-go](https://github.com/nedpals/supabase-go) - Unofficial Supabase client library for Go.
@@ -482,7 +483,7 @@
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [russross/blackfriday](https://github.com/russross/blackfriday) - Blackfriday: a markdown processor for Go
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP gateway and auth server with web UI supporting MCP, A2A, OAuth 2.1, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Goog
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP & agent gateway and auth server with web UI supporting MCP, A2A, OAuth 2.1, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face 
 - [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [inbucket/inbucket](https://github.com/inbucket/inbucket) - Disposable webmail server (similar to Mailinator) with built in SMTP, POP3, RESTful servers; no DB required.
@@ -680,7 +681,6 @@
 - [holesail/holesail](https://github.com/holesail/holesail) - Holesail is the world's first truly peer-to-peer proxy for TCP and UDP ports. No port forwarding, servers or configuration required.
 - [tiagozip/cap](https://github.com/tiagozip/cap) - The privacy-first, self-hosted CAPTCHA for the modern web.
 - [harung1993/dollardollar](https://github.com/harung1993/dollardollar) - Just an Opensourced locally hosted Money Management and Expense Splitting Service
-- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
 - [rawgraphs/rawgraphs-app](https://github.com/rawgraphs/rawgraphs-app) - A web interface to create custom vector-based visualizations on top of RAWGraphs core
@@ -1207,7 +1207,6 @@
 - [eschluntz/compress](https://github.com/eschluntz/compress) - Text compression for generating keyboard expansions
 - [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - LLMs build upon Evol Insturct: WizardLM, WizardCoder, WizardMath
 - [meta-llama/codellama](https://github.com/meta-llama/codellama) - Inference code for CodeLlama models
-- [openziti/zrok](https://github.com/openziti/zrok) - Secure internet sharing made simple.
 - [facefusion/facefusion](https://github.com/facefusion/facefusion) - Industry leading face manipulation platform
 - [cyberofficial/Synthalingua](https://github.com/cyberofficial/Synthalingua) - Synthalingua - Real Time Translation
 - [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp
@@ -1958,6 +1957,7 @@
 
 - [dev-nick421/immich-swipe](https://github.com/dev-nick421/immich-swipe) - Swipe right to keep photos, swipe left to delete them -&gt; just like a dating app, but for immich!
 - [breadsplit/breadsplit](https://github.com/breadsplit/breadsplit) - 🍞 Group bills split made easy, fast and customizable.
+- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [schej-it/timeful.app](https://github.com/schej-it/timeful.app) - Timeful (formerly Schej) is a scheduling platform helps you find the best time for a group to meet. It is a free availability poll that is easy to use and integrates with your calendar.
 - [tanayvk/peersplit](https://github.com/tanayvk/peersplit) - PeerSplit is a free, local-first, peer-to-peer app that helps you easily and privately split and track group expenses.
 - [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
