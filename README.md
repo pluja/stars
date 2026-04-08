@@ -251,6 +251,7 @@
 ## Dart 
 
 - [Teskann/QuaX](https://github.com/Teskann/QuaX) - Privacy respecting X client for Android
+- [ZhFahim/anchor](https://github.com/ZhFahim/anchor) - Offline first, self hostable note taking application
 - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically
 - [JHubi1/ollama-app](https://github.com/JHubi1/ollama-app) - A modern and easy-to-use client for Ollama
 - [UnicornsOnLSD/finamp](https://github.com/UnicornsOnLSD/finamp) - A Jellyfin music client for mobile
@@ -687,7 +688,6 @@
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
 - [pinokiocomputer/pinokio](https://github.com/pinokiocomputer/pinokio) - AI Browser
 - [zlwaterfield/scramble](https://github.com/zlwaterfield/scramble) - Open-Source Grammarly Alternative
-- [altcha-org/altcha](https://github.com/altcha-org/altcha) - GDPR, WCAG 2.2 AA, and EAA compliant, self-hosted CAPTCHA alternative with PoW mechanism.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a secure dotenv–from the creator of `dotenv`
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
@@ -1427,7 +1427,7 @@
 
 ## Rust 
 
-- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Your favorite Terminal Coding Agent, now in Rust & a Breakdown of the Claude Code leak & discoveries
+- [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Your favorite Terminal Coding Agent, now in Rust
 - [ivov/lisette](https://github.com/ivov/lisette) - A little language inspired by Rust that compiles to Go
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [qaz741wsd856/warden-worker](https://github.com/qaz741wsd856/warden-worker) - A Bitwarden-compatible server for Cloudflare Workers
@@ -1663,7 +1663,6 @@
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
-- [ZhFahim/anchor](https://github.com/ZhFahim/anchor) - Offline first, self hostable note taking application
 - [eftpmc/yuzic](https://github.com/eftpmc/yuzic) - A cross-platform, free and open source music player for Navidrome & Jellyfin
 - [fccview/jotty](https://github.com/fccview/jotty) - Lightweight but powerful alternative for managing your personal, file based, notes and checklists.
 - [abusoww/tuxmate](https://github.com/abusoww/tuxmate) - THE MISSING BULK APP INSTALLER FOR LINUX
@@ -1752,6 +1751,7 @@
 - [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) - 
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
+- [altcha-org/altcha](https://github.com/altcha-org/altcha) - GDPR, WCAG 2.2 AA, and EAA compliant, self-hosted CAPTCHA alternative with PoW mechanism.
 - [trylinky/linky](https://github.com/trylinky/linky) - The dynamic personal homepage builder
 - [louisinger/silentium](https://github.com/louisinger/silentium) - BIP352 light mobile wallet
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
