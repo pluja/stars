@@ -1045,8 +1045,9 @@
 
 ## Python 
 
+- [deedy5/ddgs](https://github.com/deedy5/ddgs) - A metasearch library that aggregates results from diverse web search services
 - [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Cl
-- [Nahuel990/ministack](https://github.com/Nahuel990/ministack) - Ministack: Free, open-source local AWS emulator - 35+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
+- [ministackorg/ministack](https://github.com/ministackorg/ministack) - Ministack: Free, open-source local AWS emulator - 35+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [ysharma3501/LuxTTS](https://github.com/ysharma3501/LuxTTS) - A high-quality rapid TTS voice cloning model that reaches speeds of 150x realtime.
 - [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - SOTA Open Source TTS
@@ -1108,7 +1109,7 @@
 - [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 - [astramind-ai/Auralis](https://github.com/astramind-ai/Auralis) - A Fast TTS Engine
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Qwen3.5, Gemma 4, DeepSeek, gpt-oss locally.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.
 - [almarklein/timetagger](https://github.com/almarklein/timetagger) - Tag your time, get the insight
@@ -1685,7 +1686,7 @@
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal.
 - [synthetic-lab/octofriend](https://github.com/synthetic-lab/octofriend) - An open-source coding helper. Very friendly!
 - [thewh1teagle/vibe](https://github.com/thewh1teagle/vibe) - Transcribe on your own!
-- [hhftechnology/traefik-log-dashboard](https://github.com/hhftechnology/traefik-log-dashboard) - A real-time dashboard for analyzing Traefik logs with IP geolocation, status code analysis, and service metrics. Built with React (Shadcn UI) and Node.js.
+- [hhftechnology/traefik-log-dashboard](https://github.com/hhftechnology/traefik-log-dashboard) - A real-time dashboard for analyzing Traefik logs in UI with IP geolocation, status code analysis, and service metrics. Built with React (Shadcn UI) and Node.js.
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [vernu/textbee](https://github.com/vernu/textbee) - open-source sms-gateway. turn any android phone into an sms gateway
 - [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
