@@ -325,7 +325,7 @@
 - [fspecii/ace-step-ui](https://github.com/fspecii/ace-step-ui) - 🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw) - Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig
-- [SimonSchubert/Kai](https://github.com/SimonSchubert/Kai) - AI That Builds Screens, Not Just Text
+- [SimonSchubert/Kai](https://github.com/SimonSchubert/Kai) - OpenClaw alternative in your pocket
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
@@ -465,7 +465,7 @@
 
 ## android 
 
-- [SimonSchubert/Kai](https://github.com/SimonSchubert/Kai) - AI That Builds Screens, Not Just Text
+- [SimonSchubert/Kai](https://github.com/SimonSchubert/Kai) - OpenClaw alternative in your pocket
 - [RunanywhereAI/runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks) - Production ready toolkit to run AI locally
 - [coreply/coreply](https://github.com/coreply/coreply) - Finishes your sentences while typing in a messaging app.
 - [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also c
@@ -635,6 +635,7 @@
 
 ## automation 
 
+- [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) - Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
@@ -849,7 +850,7 @@
 
 ## chatbot 
 
-- [SimonSchubert/Kai](https://github.com/SimonSchubert/Kai) - AI That Builds Screens, Not Just Text
+- [SimonSchubert/Kai](https://github.com/SimonSchubert/Kai) - OpenClaw alternative in your pocket
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
@@ -1068,7 +1069,7 @@
 ## computer-science 
 
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [Universidade-Livre/ciencia-da-computacao](https://github.com/Universidade-Livre/ciencia-da-computacao) - 🎓 Um caminho para a educação autodidata em Ciência da Computação!
 
 ## computer-vision 
@@ -1225,7 +1226,7 @@
 
 ## data-analysis 
 
-- [arpanghosh8453/open-dronelog](https://github.com/arpanghosh8453/open-dronelog) - Drone Log analyzer: A high-performance universal dashboard application for organizing and analyzing DJI/Litchi flight logs privately in one place. Built with Tauri v2, DuckDB, and React.
+- [arpanghosh8453/open-dronelog](https://github.com/arpanghosh8453/open-dronelog) - Drone Log analyzer: A high-performance universal dashboard application for organizing and analyzing DJI/Litchi flight logs privately in one place. Supports plugin for custom flight log formats. Built 
 - [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB, Elastic Search, and Clickhouse with Chat interface
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
@@ -1247,7 +1248,7 @@
 
 ## data-visualization 
 
-- [arpanghosh8453/open-dronelog](https://github.com/arpanghosh8453/open-dronelog) - Drone Log analyzer: A high-performance universal dashboard application for organizing and analyzing DJI/Litchi flight logs privately in one place. Built with Tauri v2, DuckDB, and React.
+- [arpanghosh8453/open-dronelog](https://github.com/arpanghosh8453/open-dronelog) - Drone Log analyzer: A high-performance universal dashboard application for organizing and analyzing DJI/Litchi flight logs privately in one place. Supports plugin for custom flight log formats. Built 
 - [rawgraphs/rawgraphs-app](https://github.com/rawgraphs/rawgraphs-app) - A web interface to create custom vector-based visualizations on top of RAWGraphs core
 - [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB, Elastic Search, and Clickhouse with Chat interface
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
@@ -1255,7 +1256,7 @@
 
 ## database 
 
-- [arpanghosh8453/open-dronelog](https://github.com/arpanghosh8453/open-dronelog) - Drone Log analyzer: A high-performance universal dashboard application for organizing and analyzing DJI/Litchi flight logs privately in one place. Built with Tauri v2, DuckDB, and React.
+- [arpanghosh8453/open-dronelog](https://github.com/arpanghosh8453/open-dronelog) - Drone Log analyzer: A high-performance universal dashboard application for organizing and analyzing DJI/Litchi flight logs privately in one place. Supports plugin for custom flight log formats. Built 
 - [databasus/databasus](https://github.com/databasus/databasus) - Database backup tool (PostgreSQL, MySQL\MariaDB and MongoDB)
 - [arpanghosh8453/garmin-grafana](https://github.com/arpanghosh8453/garmin-grafana) - A Dockerized python Script to fetch Garmin health data and populate that in a InfluxDB Database, for visualization long term health trends with Grafana
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, and admin UI built on Rust, SQLite & Wasmtime.
@@ -1440,7 +1441,7 @@
 ## docker 
 
 - [ministackorg/ministack](https://github.com/ministackorg/ministack) - Ministack: Free, open-source local AWS emulator - 40+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
-- [arpanghosh8453/open-dronelog](https://github.com/arpanghosh8453/open-dronelog) - Drone Log analyzer: A high-performance universal dashboard application for organizing and analyzing DJI/Litchi flight logs privately in one place. Built with Tauri v2, DuckDB, and React.
+- [arpanghosh8453/open-dronelog](https://github.com/arpanghosh8453/open-dronelog) - Drone Log analyzer: A high-performance universal dashboard application for organizing and analyzing DJI/Litchi flight logs privately in one place. Supports plugin for custom flight log formats. Built 
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
 - [grishy/any-sync-bundle](https://github.com/grishy/any-sync-bundle) - Anytype Bundle: Prepackaged All-in-One Self-Hosting
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
@@ -2456,7 +2457,7 @@
 
 ## ios 
 
-- [SimonSchubert/Kai](https://github.com/SimonSchubert/Kai) - AI That Builds Screens, Not Just Text
+- [SimonSchubert/Kai](https://github.com/SimonSchubert/Kai) - OpenClaw alternative in your pocket
 - [RunanywhereAI/runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks) - Production ready toolkit to run AI locally
 - [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also c
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
@@ -2533,6 +2534,7 @@
 
 ## javascript 
 
+- [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) - Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
@@ -2610,7 +2612,7 @@
 
 ## jetpack-compose 
 
-- [SimonSchubert/Kai](https://github.com/SimonSchubert/Kai) - AI That Builds Screens, Not Just Text
+- [SimonSchubert/Kai](https://github.com/SimonSchubert/Kai) - OpenClaw alternative in your pocket
 - [savvasdalkitsis/uhuruphotos-android](https://github.com/savvasdalkitsis/uhuruphotos-android) - 🖼️A modern media gallery, with features like backup/sync, semantic search, media map, face recognition, memories and much more built using the latest Android technologies.
 - [PaulWoitaschek/Voice](https://github.com/PaulWoitaschek/Voice) - Minimalistic audiobook player
 - [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music
@@ -2740,7 +2742,7 @@
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished screen recordings for free. An open-source alternative to Screen Studio.
 - [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
-- [arpanghosh8453/open-dronelog](https://github.com/arpanghosh8453/open-dronelog) - Drone Log analyzer: A high-performance universal dashboard application for organizing and analyzing DJI/Litchi flight logs privately in one place. Built with Tauri v2, DuckDB, and React.
+- [arpanghosh8453/open-dronelog](https://github.com/arpanghosh8453/open-dronelog) - Drone Log analyzer: A high-performance universal dashboard application for organizing and analyzing DJI/Litchi flight logs privately in one place. Supports plugin for custom flight log formats. Built 
 - [grishy/any-sync-bundle](https://github.com/grishy/any-sync-bundle) - Anytype Bundle: Prepackaged All-in-One Self-Hosting
 - [abusoww/tuxmate](https://github.com/abusoww/tuxmate) - THE MISSING BULK APP INSTALLER FOR LINUX
 - [sammcj/gollama](https://github.com/sammcj/gollama) - Go manage your Ollama models
@@ -2982,7 +2984,7 @@
 
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished screen recordings for free. An open-source alternative to Screen Studio.
 - [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
-- [arpanghosh8453/open-dronelog](https://github.com/arpanghosh8453/open-dronelog) - Drone Log analyzer: A high-performance universal dashboard application for organizing and analyzing DJI/Litchi flight logs privately in one place. Built with Tauri v2, DuckDB, and React.
+- [arpanghosh8453/open-dronelog](https://github.com/arpanghosh8453/open-dronelog) - Drone Log analyzer: A high-performance universal dashboard application for organizing and analyzing DJI/Litchi flight logs privately in one place. Supports plugin for custom flight log formats. Built 
 - [grishy/any-sync-bundle](https://github.com/grishy/any-sync-bundle) - Anytype Bundle: Prepackaged All-in-One Self-Hosting
 - [sammcj/gollama](https://github.com/sammcj/gollama) - Go manage your Ollama models
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
@@ -3346,6 +3348,7 @@
 
 ## nodejs 
 
+- [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) - Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.
 - [Sync-in/server](https://github.com/Sync-in/server) - Sync-in server · Secure, open-source platform for file storage, sharing, collaboration, and syncing.
 - [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
 - [chrisvel/tududi](https://github.com/chrisvel/tududi) - A calm, open system for organizing life and work. Tasks, projects, notes, areas, and smart workflows - self-hosted or hosted.
@@ -3430,7 +3433,7 @@
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool) - 🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database.
 - [AtalayaLabs/OxiCloud](https://github.com/AtalayaLabs/OxiCloud) - ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
-- [fastrepl/char](https://github.com/fastrepl/char) - AI notepad for meetings
+- [fastrepl/anarlog](https://github.com/fastrepl/anarlog) - Open source Granola AI Alternative
 - [bewcloud/bewcloud](https://github.com/bewcloud/bewcloud) - A simpler alternative to Nextcloud and ownCloud, built with TypeScript and Deno. 🦕
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 - [voideditor/void](https://github.com/voideditor/void) - 
@@ -3558,7 +3561,6 @@
 
 ## others 
 
-- [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) - Headless browser automation server for AI agents to visit sites that are usually blocked
 - [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Your favorite Terminal Coding Agent, now in Rust
 - [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
 - [tadaspetra/loop](https://github.com/tadaspetra/loop) - Record, Cut, Edit, Render with AI
@@ -4579,7 +4581,7 @@
 ## react 
 
 - [fspecii/ace-step-ui](https://github.com/fspecii/ace-step-ui) - 🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!
-- [arpanghosh8453/open-dronelog](https://github.com/arpanghosh8453/open-dronelog) - Drone Log analyzer: A high-performance universal dashboard application for organizing and analyzing DJI/Litchi flight logs privately in one place. Built with Tauri v2, DuckDB, and React.
+- [arpanghosh8453/open-dronelog](https://github.com/arpanghosh8453/open-dronelog) - Drone Log analyzer: A high-performance universal dashboard application for organizing and analyzing DJI/Litchi flight logs privately in one place. Supports plugin for custom flight log formats. Built 
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [eftpmc/yuzic](https://github.com/eftpmc/yuzic) - A cross-platform, free and open source music player for Navidrome & Jellyfin
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
@@ -4590,7 +4592,7 @@
 - [aliasvault/aliasvault](https://github.com/aliasvault/aliasvault) - Privacy-first password manager with built-in email aliasing. Fully encrypted and self-hostable.
 - [Jellify-Music/App](https://github.com/Jellify-Music/App) - A cross-platform, free and open source music player for Jellyfin, powered by React Native
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
-- [fastrepl/char](https://github.com/fastrepl/char) - AI notepad for meetings
+- [fastrepl/anarlog](https://github.com/fastrepl/anarlog) - Open source Granola AI Alternative
 - [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy
 - [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
 - [aceberg/AnyAppStart](https://github.com/aceberg/AnyAppStart) - Control panel to Start/Stop/View Logs for apps in Docker, Systemd, VMs or anything else (with user scripts)
@@ -4732,7 +4734,7 @@
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [AtalayaLabs/OxiCloud](https://github.com/AtalayaLabs/OxiCloud) - ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
-- [fastrepl/char](https://github.com/fastrepl/char) - AI notepad for meetings
+- [fastrepl/anarlog](https://github.com/fastrepl/anarlog) - Open source Granola AI Alternative
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [ferronweb/ferron](https://github.com/ferronweb/ferron) - A fast, memory-safe web server written in Rust.
 - [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy
@@ -4921,7 +4923,7 @@
 ## self-hosted 
 
 - [mauriceboe/TREK](https://github.com/mauriceboe/TREK) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
-- [arpanghosh8453/open-dronelog](https://github.com/arpanghosh8453/open-dronelog) - Drone Log analyzer: A high-performance universal dashboard application for organizing and analyzing DJI/Litchi flight logs privately in one place. Built with Tauri v2, DuckDB, and React.
+- [arpanghosh8453/open-dronelog](https://github.com/arpanghosh8453/open-dronelog) - Drone Log analyzer: A high-performance universal dashboard application for organizing and analyzing DJI/Litchi flight logs privately in one place. Supports plugin for custom flight log formats. Built 
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
 - [qaz741wsd856/warden-worker](https://github.com/qaz741wsd856/warden-worker) - A Bitwarden-compatible server for Cloudflare Workers
 - [safebucket/safebucket](https://github.com/safebucket/safebucket) - On-prem file sharing made simple, fast and safe.
@@ -5185,7 +5187,7 @@
 
 ## statistics 
 
-- [arpanghosh8453/open-dronelog](https://github.com/arpanghosh8453/open-dronelog) - Drone Log analyzer: A high-performance universal dashboard application for organizing and analyzing DJI/Litchi flight logs privately in one place. Built with Tauri v2, DuckDB, and React.
+- [arpanghosh8453/open-dronelog](https://github.com/arpanghosh8453/open-dronelog) - Drone Log analyzer: A high-performance universal dashboard application for organizing and analyzing DJI/Litchi flight logs privately in one place. Supports plugin for custom flight log formats. Built 
 - [msgbyte/tianji](https://github.com/msgbyte/tianji) - Tianji: Insight into everything, Website Analytics + Uptime Monitor + Server Status. not only another GA alternatives
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
@@ -5427,7 +5429,7 @@
 - [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool) - 🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database.
 - [Jellify-Music/App](https://github.com/Jellify-Music/App) - A cross-platform, free and open source music player for Jellyfin, powered by React Native
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
-- [fastrepl/char](https://github.com/fastrepl/char) - AI notepad for meetings
+- [fastrepl/anarlog](https://github.com/fastrepl/anarlog) - Open source Granola AI Alternative
 - [bewcloud/bewcloud](https://github.com/bewcloud/bewcloud) - A simpler alternative to Nextcloud and ownCloud, built with TypeScript and Deno. 🦕
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
@@ -5702,7 +5704,7 @@
 
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished screen recordings for free. An open-source alternative to Screen Studio.
 - [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
-- [arpanghosh8453/open-dronelog](https://github.com/arpanghosh8453/open-dronelog) - Drone Log analyzer: A high-performance universal dashboard application for organizing and analyzing DJI/Litchi flight logs privately in one place. Built with Tauri v2, DuckDB, and React.
+- [arpanghosh8453/open-dronelog](https://github.com/arpanghosh8453/open-dronelog) - Drone Log analyzer: A high-performance universal dashboard application for organizing and analyzing DJI/Litchi flight logs privately in one place. Supports plugin for custom flight log formats. Built 
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [JHubi1/ollama-app](https://github.com/JHubi1/ollama-app) - A modern and easy-to-use client for Ollama
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
