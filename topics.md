@@ -308,7 +308,7 @@
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
@@ -379,7 +379,7 @@
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Search, scrape, and clean the web for AI agents.
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
@@ -889,7 +889,7 @@
 - [travisvn/openai-edge-tts](https://github.com/travisvn/openai-edge-tts) - Free, high-quality text-to-speech API endpoint to replace OpenAI, Azure, or ElevenLabs
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) - 🤖 A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
@@ -1652,7 +1652,6 @@
 ## emoji 
 
 - [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (over 200 icon sets and ~300k icons). S
-- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 
 ## emulator 
@@ -3123,7 +3122,7 @@
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, 
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
@@ -3445,7 +3444,7 @@
 
 ## open-source 
 
-- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Open source desktop app for studying online courses and books on your computer. Watch Hotmart, Udemy, Kiwify courses with timestamped notes, spaced repetition flashcards and a focus timer. Read PDFs a
+- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Free open-source video, music and course downloader. Grab from YouTube, Instagram, TikTok, Udemy, Hotmart and 1000+ sites via yt-dlp. Then watch, read and listen inside the app. No terminal, no setup.
 - [Sidenai/sidex](https://github.com/Sidenai/sidex) - VS Code rebuilt on Tauri. Same architecture, 96% smaller. Early release.
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished screen recordings without editing. Mac/Windows/Linux
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
@@ -3533,7 +3532,7 @@
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [rashadphz/farfalle](https://github.com/rashadphz/farfalle) - 🔍 AI search engine - self-host with local or cloud LLMs
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) - 🤖 A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python
 - [pluja/maestro](https://github.com/pluja/maestro) - Turn natual language into commands. Your CLI tasks, now as easy as a conversation. Run it 100% offline, or use OpenAI's models.
 - [aymenfurter/microagents](https://github.com/aymenfurter/microagents) - Agents Capable of Self-Editing Their Prompts / Python Code
@@ -4746,7 +4745,7 @@
 
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - Coding Agent Harness
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
-- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Open source desktop app for studying online courses and books on your computer. Watch Hotmart, Udemy, Kiwify courses with timestamped notes, spaced repetition flashcards and a focus timer. Read PDFs a
+- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Free open-source video, music and course downloader. Grab from YouTube, Instagram, TikTok, Udemy, Hotmart and 1000+ sites via yt-dlp. Then watch, read and listen inside the app. No terminal, no setup.
 - [Sidenai/sidex](https://github.com/Sidenai/sidex) - VS Code rebuilt on Tauri. Same architecture, 96% smaller. Early release.
 - [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Agentic Coding for Builders who Ship
 - [ivov/lisette](https://github.com/ivov/lisette) - A little language inspired by Rust that compiles to Go
@@ -5225,7 +5224,7 @@
 
 ## svelte 
 
-- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Open source desktop app for studying online courses and books on your computer. Watch Hotmart, Udemy, Kiwify courses with timestamped notes, spaced repetition flashcards and a focus timer. Read PDFs a
+- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Free open-source video, music and course downloader. Grab from YouTube, Instagram, TikTok, Udemy, Hotmart and 1000+ sites via yt-dlp. Then watch, read and listen inside the app. No terminal, no setup.
 - [deta/surf](https://github.com/deta/surf) - Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [altcha-org/altcha](https://github.com/altcha-org/altcha) - GDPR, WCAG 2.2 AA, and EAA compliant, self-hosted CAPTCHA alternative with PoW mechanism.
