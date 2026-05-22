@@ -545,7 +545,7 @@
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
 - [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify): eBPF-based Kubernetes Monitoring and Performance Testing
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
-- [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
+- [passteque/gluetun](https://github.com/passteque/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [gnur/booksing](https://github.com/gnur/booksing) - web-based epub indexer
 - [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat OpenClaw
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
@@ -938,7 +938,7 @@
 ## Others 
 
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.5 Thinking), Claude (Opus 4.7, Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, Gemini CLI), Grok (4.3 beta), Perplexity, and more. Updated re
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Opus 4.7, Opus 4.6, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google Gemini - 3.5 Flash, 3.1 Pro, 3 Flash, Antigravity. xAI - Grok. G
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [pebble/pebble-3d](https://github.com/pebble/pebble-3d) - 3D drawings of Pebble
 - [potatoqualitee/eol-dr](https://github.com/potatoqualitee/eol-dr) - 🕊️ A crowd-sourced guide to help techs help their non-tech spouses / partners / parents / kids when we are at the end-of-life
