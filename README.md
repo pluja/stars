@@ -682,7 +682,7 @@
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [sheshbabu/zen](https://github.com/sheshbabu/zen) - Selfhosted notes app. Single golang binary, notes stored as markdown within SQLite, full-text search, very low resource usage
 - [holesail/holesail](https://github.com/holesail/holesail) - Holesail is the world's first truly peer-to-peer proxy for TCP and UDP ports. No port forwarding, servers or configuration required.
-- [tiagozip/cap](https://github.com/tiagozip/cap) - The privacy-first, self-hosted CAPTCHA for the modern web.
+- [tiagozip/cap](https://github.com/tiagozip/cap) - Free, open-source and self-hosted CAPTCHA alternative to reCAPTCHA. Privacy-first and powered by proof-of-work and instrumentation challenges.
 - [harung1993/dollardollar](https://github.com/harung1993/dollardollar) - Just an Opensourced locally hosted Money Management and Expense Splitting Service
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 - [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
@@ -1617,7 +1617,7 @@
 
 ## Svelte 
 
-- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Free open-source video, music and course downloader. Grab from YouTube, Instagram, TikTok, Udemy, Hotmart and 1000+ sites via yt-dlp. Then watch, read and listen inside the app. No terminal, no setup.
+- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Open-source desktop app for downloading, organizing and studying media. Native cross-platform (Tauri + Rust + Svelte). PDF/EPUB reader with focus mode, timestamped notes and spaced repetition. Media d
 - [kagisearch/kite-public](https://github.com/kagisearch/kite-public) - Open source repository for Kite, news app by Kagi.
 - [dtonon/oracolo](https://github.com/dtonon/oracolo) - A minimalist Nostr blog that consists of a single html file
 - [pluja/llm-language-tool](https://github.com/pluja/llm-language-tool) - Translate, summarize and proofread any text, website, image or file. Use any OpenAI-Compatible API provider. Replace Google Transalte!
@@ -1662,7 +1662,7 @@
 - [hyperbrowserai/hyperbooklm](https://github.com/hyperbrowserai/hyperbooklm) - 
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
 - [arpanghosh8453/open-dronelog](https://github.com/arpanghosh8453/open-dronelog) - Drone Log analyzer: A high-performance universal dashboard application for organizing and analyzing DJI/Litchi flight logs privately in one place. Supports plugin for custom flight log formats. Built 
-- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management
+- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
@@ -1774,7 +1774,7 @@
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Search, scrape, and clean the web for AI agents.
-- [dream-num/univer](https://github.com/dream-num/univer) - Build AI-native spreadsheets. Univer is a full-stack framework for creating and editing spreadsheets on both web and server. With Univer Platform, Univer Spreadsheets is driven directly through natura
+- [dream-num/univer](https://github.com/dream-num/univer) - Univer is a full-stack framework for creating and editing spreadsheets / word processor / presentation on both web and server.
 - [jina-ai/reader](https://github.com/jina-ai/reader) - Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
