@@ -1468,6 +1468,7 @@
 
 ## docker 
 
+- [hundehausen/tor-hidden-service-docker](https://github.com/hundehausen/tor-hidden-service-docker) - Create hidden services for your containers - everything in docker.
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [ministackorg/ministack](https://github.com/ministackorg/ministack) - Ministack: Free, open-source local AWS emulator - 55+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
 - [arpanghosh8453/open-dronelog](https://github.com/arpanghosh8453/open-dronelog) - Drone Log analyzer: A high-performance universal dashboard application for organizing and analyzing DJI/Litchi flight logs privately in one place. Supports plugin for custom flight log formats. Built 
@@ -3600,6 +3601,7 @@
 
 ## others 
 
+- [mudler/locate-anything.cpp](https://github.com/mudler/locate-anything.cpp) - Port of Nvidia LocateAnything-3B on ggml
 - [mmalmi/nostr-vpn](https://github.com/mmalmi/nostr-vpn) - 
 - [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
 - [tadaspetra/loop](https://github.com/tadaspetra/loop) - Record, Cut, Edit, Render with AI
