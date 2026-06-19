@@ -697,7 +697,7 @@
 - [pinokiocomputer/pinokio](https://github.com/pinokiocomputer/pinokio) - AI Browser
 - [zlwaterfield/scramble](https://github.com/zlwaterfield/scramble) - Open-Source Grammarly Alternative
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
-- [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - an encrypted dotenv–from the creator of `dotenv`
+- [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a secure dotenv–from the creator of `dotenv`
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [actuallymentor/unidentified-analytics](https://github.com/actuallymentor/unidentified-analytics) - A privacy-friendly platform-agnostic tracking system that works everywhere (from shell scripts to React.js)
