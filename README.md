@@ -78,6 +78,7 @@
 - [antirez/voxtral.c](https://github.com/antirez/voxtral.c) - Pure C inference of Mistral Voxtral Realtime 4B speech to text model
 - [coredevices/PebbleOS](https://github.com/coredevices/PebbleOS) - 
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
+- [FunAudioLLM/SenseVoice](https://github.com/FunAudioLLM/SenseVoice) - Multilingual speech understanding: ASR + emotion recognition + audio event detection. 50+ languages, 15x faster than Whisper, non-autoregressive.
 - [pragtical/pragtical](https://github.com/pragtical/pragtical) - The practical and pragmatic code editor.
 - [dicedb/dicedb](https://github.com/dicedb/dicedb) - Open-source, low-latency key/value engine built on Valkey with query subscriptions and hierarchical storage tiers.
 - [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver for go using database/sql
@@ -1116,7 +1117,6 @@
 - [travisvn/openai-edge-tts](https://github.com/travisvn/openai-edge-tts) - Free, high-quality text-to-speech API endpoint to replace OpenAI, Azure, or ElevenLabs
 - [datalab-to/surya](https://github.com/datalab-to/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
 - [rany2/edge-tts](https://github.com/rany2/edge-tts) - Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key
-- [FunAudioLLM/SenseVoice](https://github.com/FunAudioLLM/SenseVoice) - Multilingual speech understanding: ASR + emotion recognition + audio event detection. 50+ languages, 15x faster than Whisper, non-autoregressive.
 - [lifeiteng/OmniSenseVoice](https://github.com/lifeiteng/OmniSenseVoice) - Omni SenseVoice: High-Speed Speech Recognition with words timestamps 🗣️🎯
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [querylab/lazywarden](https://github.com/querylab/lazywarden) - Automatic Bitwarden Backup
@@ -1331,7 +1331,7 @@
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
 - [hauxir/rapidbay](https://github.com/hauxir/rapidbay) - Self-hosted torrent video streaming service compatible with Chromecast, AppleTV & Kodi deployable in the cloud
-- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted video downloader for YouTube and other sites (web UI for youtube-dl / yt-dlp)
+- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted video downloader for YouTube and other sites (web UI for yt-dlp)
 - [AlessandroZ/LaZagne](https://github.com/AlessandroZ/LaZagne) - Credentials recovery project
 - [CyberPunkMetalHead/binance-trading-bot-new-coins](https://github.com/CyberPunkMetalHead/binance-trading-bot-new-coins) - This Binance trading bot detects new coins as soon as they are listed on the Binance exchange and automatically places sell and buy orders. It comes with trailing stop loss and other features. If you 
 - [OGreenwood672/Twitter-Map](https://github.com/OGreenwood672/Twitter-Map) - A visualization of people a user follows on Twitter
