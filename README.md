@@ -376,7 +376,7 @@
 - [OliveTin/OliveTin](https://github.com/OliveTin/OliveTin) - OliveTin gives safe and simple access to predefined shell commands from a web interface.
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
-- [ncarlier/webhookd](https://github.com/ncarlier/webhookd) - A very simple webhook server launching shell scripts.
+- [ncarlier/webhookd](https://github.com/ncarlier/webhookd) - A minimalist, powerful webhook server designed to easily trigger shell scripts and run external processes via HTTP requests.
 - [Wafris/wafris-caddy](https://github.com/Wafris/wafris-caddy) - Wafris Client for Caddy
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
