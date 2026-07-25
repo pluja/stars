@@ -78,7 +78,7 @@
 - [antirez/voxtral.c](https://github.com/antirez/voxtral.c) - Pure C inference of Mistral Voxtral Realtime 4B speech to text model
 - [coredevices/PebbleOS](https://github.com/coredevices/PebbleOS) - 
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
-- [FunAudioLLM/SenseVoice](https://github.com/FunAudioLLM/SenseVoice) - Open-source SenseVoiceSmall model for Mandarin, Cantonese, English, Japanese, and Korean ASR, language ID, emotion recognition, and audio event detection.
+- [QwenAudio/SenseVoice](https://github.com/QwenAudio/SenseVoice) - Open-source SenseVoiceSmall model for Mandarin, Cantonese, English, Japanese, and Korean ASR, language ID, emotion recognition, and audio event detection.
 - [pragtical/pragtical](https://github.com/pragtical/pragtical) - The practical and pragmatic code editor.
 - [dicedb/dicedb](https://github.com/dicedb/dicedb) - Open-source, low-latency key/value engine built on Valkey with query subscriptions and hierarchical storage tiers.
 - [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver for go using database/sql
