@@ -598,7 +598,6 @@
 
 ## HTML 
 
-- [itskovacs/trip](https://github.com/itskovacs/trip) - 🗺️ Minimalist POI Map Tracker and Trip Planner. Self-hosted.
 - [rhee876527/chiyogami](https://github.com/rhee876527/chiyogami) - Yet another pastebin
 - [geeeeeeeek/freePS](https://github.com/geeeeeeeek/freePS) - free online photoshop image editor
 - [atc1441/ATCmiBand8fw](https://github.com/atc1441/ATCmiBand8fw) - A custom firmware for the Xiaomi Mi Band 8
@@ -691,6 +690,7 @@
 - [tiagozip/cap](https://github.com/tiagozip/cap) - Free, open-source and self-hosted CAPTCHA alternative to reCAPTCHA. Privacy-first and powered by proof-of-work and instrumentation challenges.
 - [harung1993/dollardollar](https://github.com/harung1993/dollardollar) - Just an Opensourced locally hosted Money Management and Expense Splitting Service
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
+- [bewcloud/bewcloud](https://github.com/bewcloud/bewcloud) - A simpler alternative to Nextcloud and ownCloud, built with TypeScript and Deno. 🦕
 - [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
 - [rawgraphs/rawgraphs-app](https://github.com/rawgraphs/rawgraphs-app) - A web interface to create custom vector-based visualizations on top of RAWGraphs core
@@ -1055,7 +1055,7 @@
 - [19-84/redd-archiver](https://github.com/19-84/redd-archiver) - A PostgreSQL-backed archive generator that creates browsable HTML archives from link aggregator platforms including Reddit, Voat, and Ruqqus.
 - [guillevc/yubal](https://github.com/guillevc/yubal) - Self-hosted YouTube Music downloader. Tags, organizes, and keeps playlists in sync.
 - [ekwek1/soprano](https://github.com/ekwek1/soprano) - Soprano: Instant, Ultra-Realistic Text-to-Speech
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://discord.gg/
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Indeed, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://dis
 - [withoutbg/withoutbg-python](https://github.com/withoutbg/withoutbg-python) - Python SDK for local and cloud background removal (pip install withoutbg)
 - [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
@@ -1689,6 +1689,7 @@
 - [deta/surf](https://github.com/deta/surf) - Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 - [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run
+- [itskovacs/trip](https://github.com/itskovacs/trip) - 🗺️ Minimalist POI Map Tracker and Trip Planner. Self-hosted.
 - [colanode/colanode](https://github.com/colanode/colanode) - Open-source and local-first Slack and Notion alternative that puts you in control of your data
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
@@ -1723,7 +1724,6 @@
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
 - [upryzing/clerotri](https://github.com/upryzing/clerotri) - React Native client for Upryzing and Stoat/Revolt. Community-led project.
 - [treetrum/amazon-kindle-bulk-downloader](https://github.com/treetrum/amazon-kindle-bulk-downloader) - Allows you to bulk download all your Kindle eBook in a more automated fashion. This tool allows you to create backup copies of the books you've already purchased.
-- [bewcloud/bewcloud](https://github.com/bewcloud/bewcloud) - A simpler alternative to Nextcloud and ownCloud, built with TypeScript and Deno. 🦕
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
