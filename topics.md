@@ -3503,7 +3503,6 @@
 
 ## open-source 
 
-- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Open-source desktop app for downloading, organizing and studying media. Native cross-platform (Tauri + Rust + Svelte). PDF/EPUB reader with focus mode, timestamped notes and spaced repetition. Media d
 - [Sidenai/sidex](https://github.com/Sidenai/sidex) - VS Code rebuilt on Tauri. Same architecture, 96% smaller. Early release.
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
@@ -3647,6 +3646,7 @@
 
 - [mudler/locate-anything.cpp](https://github.com/mudler/locate-anything.cpp) - Port of Nvidia LocateAnything-3B on ggml
 - [mmalmi/nostr-vpn](https://github.com/mmalmi/nostr-vpn) - 
+- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB read
 - [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
 - [tadaspetra/loop](https://github.com/tadaspetra/loop) - Record, Cut, Edit, Render with AI
 - [run-llama/liteparse](https://github.com/run-llama/liteparse) - A fast, helpful, and open-source document parser
@@ -4811,7 +4811,6 @@
 - [CyberTimon/RapidRAW](https://github.com/CyberTimon/RapidRAW) - A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM effiecent harness
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
-- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Open-source desktop app for downloading, organizing and studying media. Native cross-platform (Tauri + Rust + Svelte). PDF/EPUB reader with focus mode, timestamped notes and spaced repetition. Media d
 - [Sidenai/sidex](https://github.com/Sidenai/sidex) - VS Code rebuilt on Tauri. Same architecture, 96% smaller. Early release.
 - [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Agentic Coding for Builders who Ship
 - [ivov/lisette](https://github.com/ivov/lisette) - A little language inspired by Rust that compiles to Go
@@ -5299,7 +5298,6 @@
 
 ## svelte 
 
-- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Open-source desktop app for downloading, organizing and studying media. Native cross-platform (Tauri + Rust + Svelte). PDF/EPUB reader with focus mode, timestamped notes and spaced repetition. Media d
 - [deta/surf](https://github.com/deta/surf) - Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [altcha-org/altcha](https://github.com/altcha-org/altcha) - GDPR, WCAG 2.2 AA, and EAA compliant, self-hosted CAPTCHA alternative with PoW mechanism.
