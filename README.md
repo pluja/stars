@@ -801,7 +801,6 @@
 - [vincelwt/RaspberryCast](https://github.com/vincelwt/RaspberryCast) - :tv: Transform your Raspberry Pi into a streaming device. Videos can be sent from mobile devices or computers (Chrome extension).
 - [dtube/dtube](https://github.com/dtube/dtube) - :tv: d.tube app. A full-featured video sharing website, decentralized.
 - [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
-- [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [user234683/youtube-local](https://github.com/user234683/youtube-local) - browser-based client for watching Youtube anonymously and with greater page performance
 - [beakerbrowser/beaker](https://github.com/beakerbrowser/beaker) - An experimental peer-to-peer Web browser
 - [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
@@ -1957,6 +1956,7 @@
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
+- [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [element-hq/element-web](https://github.com/element-hq/element-web) - A glossy Matrix collaboration client for the web.
 - [DimensionDev/Maskbook](https://github.com/DimensionDev/Maskbook) - The portal to the new, open Internet. ([I:b])
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
