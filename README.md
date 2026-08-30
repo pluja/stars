@@ -780,7 +780,7 @@
 - [bndw/wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi (wificard.io)
 - [SimonBrazell/privacy-redirect](https://github.com/SimonBrazell/privacy-redirect) - A simple web extension that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives.
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
-- [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 Self-hosted open-source WebRTC video conferencing platform built on peer-to-peer (P2P) architecture for fast, secure real-time communication with end-to-end privacy.
+- [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 Open-source, self-hosted P2P WebRTC video conferencing for fast, private real-time communication. Create browser-based meeting rooms with no downloads or time limits, plus screen sharing, chat, whit
 - [webtorrent/instant.io](https://github.com/webtorrent/instant.io) - 🚀 Streaming file transfer over WebTorrent (torrents on the web)
 - [dothq/browser-desktop](https://github.com/dothq/browser-desktop) - Dot Browser for Windows, macOS and Linux
 - [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
