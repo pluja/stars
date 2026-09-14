@@ -320,7 +320,7 @@
 - [gzuidhof/tygo](https://github.com/gzuidhof/tygo) - Generate Typescript types from Golang source code
 - [tkrajina/typescriptify-golang-structs](https://github.com/tkrajina/typescriptify-golang-structs) - A Golang struct to TypeScript class/interface converter
 - [PrivateCaptcha/PrivateCaptcha](https://github.com/PrivateCaptcha/PrivateCaptcha) - Independent, privacy-first, self-hostable PoW CAPTCHA service made in EU
-- [mayswind/ezbookkeeping](https://github.com/mayswind/ezbookkeeping) - A powerful, lightweight, self-hosted personal finance app that is easy to use.
+- [mayswind/ezbookkeeping](https://github.com/mayswind/ezbookkeeping) - ezBookkeeping is an open source, powerful, self-hosted personal finance app that is easy to use.
 - [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) - Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc
 - [Adembc/lazyssh](https://github.com/Adembc/lazyssh) - A terminal-based SSH manager inspired by lazydocker and k9s - Written in go
 - [corazawaf/coraza](https://github.com/corazawaf/coraza) - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library
